@@ -1,0 +1,9 @@
+<div class="ingredients">
+    <h2>Ingredients</h2>
+    <ul>
+      {{ range .Page.Params.ingredients }}
+        <li><label><input type="checkbox"> {{ . }}</label></li>
+      {{ end }}
+    </ul>
+  </div>
+  

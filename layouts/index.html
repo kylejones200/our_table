@@ -1,0 +1,36 @@
+{{ define "main" }}
+<div class="container">
+    <header class="hero">
+        <h1>{{ .Title }}</h1>
+        <p class="lead">{{ .Params.description | default .Site.Params.description }}</p>
+    </header>
+
+    <main>
+        {{ .Content }}
+        
+        <section class="recent-recipes">
+            <h2>Recent Recipes</h2>
+            <div class="recipe-grid">
+                {{ range first 6 (where .Site.RegularPages "Type" "recipe") }}
+                <article class="recipe-card">
+                    {{ if .Params.image }}
+                    <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy">
+                    {{ end }}
+                    <div class="recipe-content">
+                        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                        <p>{{ .Params.description }}</p>
+                        <div class="recipe-meta">
+                            {{ if .Params.total_time }}<span>⏱️ {{ .Params.total_time }}</span>{{ end }}
+                            {{ if .Params.yield }}<span>🍽️ {{ .Params.yield }}</span>{{ end }}
+                        </div>
+                    </div>
+                </article>
+                {{ end }}
+            </div>
+            <p class="text-center">
+                <a href="/recipes/" class="btn">View All Recipes</a>
+            </p>
+        </section>
+    </main>
+</div>
+{{ end }}

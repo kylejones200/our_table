@@ -1,0 +1,49 @@
+{{ define "main" }}
+<div class="container">
+  <header class="hero">
+    <h1>All Recipes</h1>
+    <p class="lead">Discover our complete collection of delicious recipes</p>
+  </header>
+
+  <div class="recipe-grid">
+    {{ range .Pages }}
+    <article class="recipe-card">
+      {{ if .Params.image }}
+      <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy">
+      {{ end }}
+      <div class="recipe-content">
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p>{{ .Params.description }}</p>
+        <div class="recipe-meta">
+          {{ if .Params.total_time }}<span>⏱️ {{ .Params.total_time }}</span>{{ end }}
+          {{ if .Params.yield }}<span>🍽️ {{ .Params.yield }}</span>{{ end }}
+          {{ if .Params.cuisines }}<span>🌍 {{ delimit .Params.cuisines ", " }}</span>{{ end }}
+        </div>
+        {{ if .Params.tags }}
+        <div class="recipe-tags-small">
+          {{ range first 3 .Params.tags }}
+          <span class="tag">{{ . }}</span>
+          {{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</div>
+
+<style>
+.recipe-tags-small {
+  margin-top: 0.5rem;
+}
+.tag {
+  display: inline-block;
+  background: #e9ecef;
+  color: #495057;
+  padding: 0.25rem 0.5rem;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  margin-right: 0.25rem;
+}
+</style>
+{{ end }}

@@ -1,0 +1,12 @@
+{{ $n := .Page.Params.nutrition }}
+{{ if $n }}
+<div class="nutrition">
+  <h2>Nutrition (per serving)</h2>
+  <p>
+    Calories: {{ $n.calories }},
+    Protein: {{ $n.protein_g }} g,
+    Carbs: {{ $n.carbs_g }} g,
+    Fat: {{ $n.fat_g }} g
+  </p>
+</div>
+{{ end }}

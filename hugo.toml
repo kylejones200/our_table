@@ -1,0 +1,33 @@
+baseURL = 'https://USERNAME.github.io/REPOSITORY_NAME/'
+languageCode = 'en-us'
+title = 'Our Table - Recipe Collection'
+
+# GitHub Pages configuration
+relativeURLs = false
+canonifyURLs = true
+
+# Content configuration
+paginate = 10
+paginatePath = 'page'
+
+# Markup configuration
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Params
+[params]
+  description = 'A collection of family recipes'
+  author = 'Kyle Jones'
+
+# Taxonomies
+[taxonomies]
+  tag = "tags"
+  cuisine = "cuisines"
+  course = "courses"
+  diet = "diets"
+
+# Permalinks
+[permalinks]
+  recipes = "/recipes/:slug/"

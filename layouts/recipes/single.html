@@ -1,0 +1,71 @@
+{{ define "main" }}
+<div class="container">
+  <article class="recipe">
+    <header class="recipe-header">
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.description }}
+        <p class="recipe-description">{{ . }}</p>
+      {{ end }}
+      
+      <div class="recipe-meta-grid">
+        {{ with .Params.prep_time }}
+        <div class="meta-item">
+          <span class="meta-label">Prep Time</span>
+          {{ . }}
+        </div>
+        {{ end }}
+        {{ with .Params.cook_time }}
+        <div class="meta-item">
+          <span class="meta-label">Cook Time</span>
+          {{ . }}
+        </div>
+        {{ end }}
+        {{ with .Params.total_time }}
+        <div class="meta-item">
+          <span class="meta-label">Total Time</span>
+          {{ . }}
+        </div>
+        {{ end }}
+        {{ with .Params.yield }}
+        <div class="meta-item">
+          <span class="meta-label">Serves</span>
+          {{ . }}
+        </div>
+        {{ end }}
+      </div>
+      
+      {{ with .Params.image }}
+        <img src="{{ . | relURL }}" alt="{{ $.Title }}" style="width: 100%; max-width: 600px; height: auto; border-radius: 8px; margin: 2rem 0;" />
+      {{ end }}
+    </header>
+
+    <div class="recipe-content">
+      {{ .Content }}
+    </div>
+
+    {{ with .Params.nutrition }}
+    <section class="nutrition">
+      <h3>Nutrition Information</h3>
+      {{ partial "shortcodes/nutrition.html" . }}
+    </section>
+    {{ end }}
+
+    <footer class="recipe-footer">
+      <div class="recipe-tags">
+        {{ with .Params.cuisines }}
+          <p><strong>Cuisines:</strong> {{ delimit . ", " }}</p>
+        {{ end }}
+        {{ with .Params.courses }}
+          <p><strong>Courses:</strong> {{ delimit . ", " }}</p>
+        {{ end }}
+        {{ with .Params.diets }}
+          <p><strong>Diets:</strong> {{ delimit . ", " }}</p>
+        {{ end }}
+        {{ with .Params.tags }}
+          <p><strong>Tags:</strong> {{ delimit . ", " }}</p>
+        {{ end }}
+      </div>
+    </footer>
+  </article>
+</div>
+{{ end }}

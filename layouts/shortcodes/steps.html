@@ -1,0 +1,9 @@
+<div class="steps">
+    <h2>Steps</h2>
+    <ol>
+      {{ range .Page.Params.steps }}
+        <li>{{ . }}</li>
+      {{ end }}
+    </ol>
+  </div>
+  
