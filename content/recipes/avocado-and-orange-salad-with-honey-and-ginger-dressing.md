@@ -1,5 +1,6 @@
 ---
 title: "Avocado and Orange Salad with Honey and Ginger Dressing"
+slug: "avocado-and-orange-salad-with-honey-and--f7784dc9"
 date: 2025-08-18
 type: "recipe"
 description: ""

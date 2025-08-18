@@ -1,5 +1,6 @@
 ---
 title: "Orange and Almond Salad"
+slug: "orange-and-almond-salad"
 date: 2025-08-18
 type: "recipe"
 description: ""

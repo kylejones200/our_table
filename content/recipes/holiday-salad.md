@@ -1,5 +1,6 @@
 ---
 title: "Holiday Salad"
+slug: "holiday-salad"
 date: 2025-08-18
 type: "recipe"
 description: "Festive mixed greens with oranges, goat cheese, prosciutto, and pomegranate seeds."

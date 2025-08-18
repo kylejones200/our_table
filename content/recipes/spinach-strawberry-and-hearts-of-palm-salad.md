@@ -1,5 +1,6 @@
 ---
 title: "Spinach, Strawberry, and Hearts of Palm Salad"
+slug: "spinach-strawberry-and-hearts-of-palm-salad"
 date: 2025-08-18
 type: "recipe"
 description: ""

@@ -1,5 +1,6 @@
 ---
 title: "Portobello Mushroom Salad"
+slug: "portobello-mushroom-salad"
 date: 2025-08-18
 type: "recipe"
 description: "Thinly sliced portobellos with celery, parsley, and shaved Parmesan."

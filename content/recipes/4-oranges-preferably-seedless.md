@@ -1,5 +1,6 @@
 ---
 title: "4 oranges, preferably seedless"
+slug: "4-oranges-preferably-seedless"
 date: 2025-08-18
 type: "recipe"
 description: ""

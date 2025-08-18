@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Appetizer on Our Table - Recipe Collection</title>
+    <link>http://localhost:1313/REPOSITORY_NAME/courses/appetizer/</link>
+    <description>Recent content in Appetizer on Our Table - Recipe Collection</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/REPOSITORY_NAME/courses/appetizer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sausage Balls</title>
+      <link>http://localhost:1313/REPOSITORY_NAME/recipes/sausage-balls/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/REPOSITORY_NAME/recipes/sausage-balls/</guid>
+      <description>&lt;div class=&#34;recipe-meta&#34;&gt;&#xA;    &lt;span&gt;&lt;strong&gt;Yield:&lt;/strong&gt; About 24 balls&lt;/span&gt;&#xA;    &lt;span&gt; | &lt;/span&gt;&#xA;    &lt;span&gt;&lt;strong&gt;Prep:&lt;/strong&gt; 10m&lt;/span&gt;&#xA;    &lt;span&gt; | &lt;/span&gt;&#xA;    &lt;span&gt;&lt;strong&gt;Cook:&lt;/strong&gt; 15m&lt;/span&gt;&#xA;    &lt;span&gt; | &lt;/span&gt;&#xA;    &lt;span&gt;&lt;strong&gt;Total:&lt;/strong&gt; 25m&lt;/span&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;&lt;div class=&#34;ingredients&#34;&gt;&#xA;    &lt;h2&gt;Ingredients&lt;/h2&gt;&#xA;    &lt;ul&gt;&#xA;      &#xA;        &lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt; 1 lb hot sausage (raw)&lt;/label&gt;&lt;/li&gt;&#xA;      &#xA;        &lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt; 3 cups Bisquick&lt;/label&gt;&lt;/li&gt;&#xA;      &#xA;        &lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt; 10 oz sharp cheddar cheese, shredded&lt;/label&gt;&lt;/li&gt;&#xA;      &#xA;    &lt;/ul&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;&lt;div class=&#34;steps&#34;&gt;&#xA;    &lt;h2&gt;Steps&lt;/h2&gt;&#xA;    &lt;ol&gt;&#xA;      &#xA;        &lt;li&gt;Preheat oven to 350°F (175°C).&lt;/li&gt;&#xA;      &#xA;        &lt;li&gt;In a large bowl, mix sausage, Bisquick, and cheddar until combined.&lt;/li&gt;&#xA;      &#xA;        &lt;li&gt;Roll into small balls and place on an ungreased baking sheet.&lt;/li&gt;&#xA;      &#xA;        &lt;li&gt;Bake 12–15 minutes, or 15–25 minutes if baking from frozen, until golden brown and cooked through.&lt;/li&gt;&#xA;      &#xA;    &lt;/ol&gt;&#xA;  &lt;/div&gt;&#xA;  &#xA;&#xA;&#xA;&lt;div class=&#34;nutrition&#34;&gt;&#xA;  &lt;h2&gt;Nutrition (per serving)&lt;/h2&gt;&#xA;  &lt;p&gt;&#xA;    Calories: 140,&#xA;    Protein: 6 g,&#xA;    Carbs: 8 g,&#xA;    Fat: 9 g&#xA;  &lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

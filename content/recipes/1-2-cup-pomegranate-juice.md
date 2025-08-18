@@ -1,5 +1,6 @@
 ---
 title: "1/2 cup pomegranate juice"
+slug: "12-cup-pomegranate-juice"
 date: 2025-08-18
 type: "recipe"
 description: ""

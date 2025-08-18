@@ -1,5 +1,6 @@
 ---
 title: "Cactus Salad"
+slug: "cactus-salad"
 date: 2025-08-18
 type: "recipe"
 description: ""

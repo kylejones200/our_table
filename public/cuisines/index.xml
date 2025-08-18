@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cuisines on Our Table - Recipe Collection</title>
+    <link>http://localhost:1313/REPOSITORY_NAME/cuisines/</link>
+    <description>Recent content in Cuisines on Our Table - Recipe Collection</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/REPOSITORY_NAME/cuisines/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>American</title>
+      <link>http://localhost:1313/REPOSITORY_NAME/cuisines/american/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/REPOSITORY_NAME/cuisines/american/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Greek</title>
+      <link>http://localhost:1313/REPOSITORY_NAME/cuisines/greek/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/REPOSITORY_NAME/cuisines/greek/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Italian</title>
+      <link>http://localhost:1313/REPOSITORY_NAME/cuisines/italian/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/REPOSITORY_NAME/cuisines/italian/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

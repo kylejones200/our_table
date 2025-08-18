@@ -1,5 +1,6 @@
 ---
 title: "1/2 cup pecan halves"
+slug: "12-cup-pecan-halves"
 date: 2025-08-18
 type: "recipe"
 description: ""

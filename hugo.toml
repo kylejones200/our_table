@@ -7,8 +7,9 @@ relativeURLs = false
 canonifyURLs = true
 
 # Content configuration
-paginate = 10
-paginatePath = 'page'
+[pagination]
+  pagerSize = 10
+  path = 'page'
 
 # Markup configuration
 [markup]
@@ -31,3 +32,14 @@ paginatePath = 'page'
 # Permalinks
 [permalinks]
   recipes = "/recipes/:slug/"
+
+# URL configuration
+[frontmatter]
+  date = ["date", "publishDate", "lastmod"]
+  lastmod = [":git", "lastmod", "date", "publishDate"]
+  publishDate = ["publishDate", "date"]
+  expiryDate = ["expiryDate"]
+
+# Build configuration
+[build]
+  writeStats = true

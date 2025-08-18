@@ -1,5 +1,6 @@
 ---
 title: "1/3 cup olive oil, eye ball it"
+slug: "13-cup-olive-oil-eye-ball-it"
 date: 2025-08-18
 type: "recipe"
 description: ""

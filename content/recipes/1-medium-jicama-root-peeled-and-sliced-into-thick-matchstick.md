@@ -1,5 +1,6 @@
 ---
 title: "1 medium jicama root, peeled and sliced into thick matchsticks"
+slug: "1-medium-jicama-root-peeled-and-sliced-i-b2f7d719"
 date: 2025-08-18
 type: "recipe"
 description: ""

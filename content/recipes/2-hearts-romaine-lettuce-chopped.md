@@ -1,5 +1,6 @@
 ---
 title: "2 hearts romaine lettuce, chopped"
+slug: "2-hearts-romaine-lettuce-chopped"
 date: 2025-08-18
 type: "recipe"
 description: ""

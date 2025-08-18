@@ -1,5 +1,6 @@
 ---
 title: "Combine spinach and artichokes. Place garlic, lemon zest and juice in small dish and add vinegar. Let it stand 5 minutes then whisk in extra-virgin olive oil. Pour oil and vinegar dressing over salad and toss to combine. Season the salad with salt and pepper, to your taste. Top the salad with cheese then serve."
+slug: "combine-spinach-and-artichokes-place-gar-77f3c3c6"
 date: 2025-08-18
 type: "recipe"
 description: ""

@@ -1,5 +1,6 @@
 ---
 title: "Spinach and Artichoke salad"
+slug: "spinach-and-artichoke-salad"
 date: 2025-08-18
 type: "recipe"
 description: ""

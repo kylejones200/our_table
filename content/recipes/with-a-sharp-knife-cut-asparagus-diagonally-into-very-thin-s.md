@@ -1,5 +1,6 @@
 ---
 title: "With a sharp knife, cut asparagus diagonally into very thin slices and transfer to a large bowl. Halve large mushrooms. Slice mushrooms very thin and add with radishes to asparagus. Toss salad gently."
+slug: "with-a-sharp-knife-cut-asparagus-diagona-64235f34"
 date: 2025-08-18
 type: "recipe"
 description: ""

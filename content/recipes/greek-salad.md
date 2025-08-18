@@ -1,5 +1,6 @@
 ---
 title: "Greek Salad"
+slug: "greek-salad"
 date: 2025-08-18
 type: "recipe"
 description: "Classic Greek salad with tomatoes, cucumber, feta, olives, and dressing."

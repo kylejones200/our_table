@@ -1,5 +1,6 @@
 ---
 title: "2 tablespoons pomegranate juice"
+slug: "2-tablespoons-pomegranate-juice"
 date: 2025-08-18
 type: "recipe"
 description: ""

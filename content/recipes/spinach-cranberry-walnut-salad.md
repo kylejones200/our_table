@@ -1,5 +1,6 @@
 ---
 title: "Spinach Salad with Dried Cranberries, Walnuts and Pomegranate Vinaigrette"
+slug: "spinach-salad-with-dried-cranberries-wal-123935b2"
 date: 2025-08-18
 type: "recipe"
 description: "Spinach with cranberries, walnuts, and pomegranate vinaigrette."

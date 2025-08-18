@@ -1,5 +1,6 @@
 ---
 title: "Walnut-Parmesan Pesto Sauce"
+slug: "walnut-parmesan-pesto-sauce"
 date: 2025-08-18
 type: "recipe"
 description: "A rich basil and walnut pesto with lemon and Parmesan."

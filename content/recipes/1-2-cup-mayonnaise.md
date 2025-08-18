@@ -1,5 +1,6 @@
 ---
 title: "1/2 cup mayonnaise"
+slug: "12-cup-mayonnaise"
 date: 2025-08-18
 type: "recipe"
 description: ""

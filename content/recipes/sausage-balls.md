@@ -1,5 +1,6 @@
 ---
 title: "Sausage Balls"
+slug: "sausage-balls"
 date: 2025-08-18
 type: "recipe"
 description: "Savory sausage and cheese balls baked to golden perfection."

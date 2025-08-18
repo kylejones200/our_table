@@ -1,5 +1,6 @@
 ---
 title: "Mandarin Orange Tossed Salad"
+slug: "mandarin-orange-tossed-salad"
 date: 2025-08-18
 type: "recipe"
 description: ""

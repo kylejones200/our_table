@@ -1,0 +1,63 @@
+{
+  "htmlElements": {
+    "tags": [
+      "a",
+      "article",
+      "body",
+      "div",
+      "footer",
+      "h1",
+      "h2",
+      "h3",
+      "head",
+      "header",
+      "html",
+      "img",
+      "input",
+      "label",
+      "li",
+      "main",
+      "meta",
+      "nav",
+      "ol",
+      "p",
+      "script",
+      "section",
+      "span",
+      "strong",
+      "style",
+      "title",
+      "ul"
+    ],
+    "classes": [
+      "btn",
+      "container",
+      "content",
+      "hero",
+      "ingredients",
+      "lead",
+      "nav-links",
+      "nutrition",
+      "page-item",
+      "page-list",
+      "recent-recipes",
+      "recipe-card",
+      "recipe-content",
+      "recipe-grid",
+      "recipe-meta",
+      "recipe-tags-small",
+      "site-footer",
+      "site-header",
+      "site-nav",
+      "site-title",
+      "steps",
+      "tag",
+      "tags",
+      "text-center"
+    ],
+    "ids": [
+      "featured-recipes",
+      "welcome-to-our-table"
+    ]
+  }
+}

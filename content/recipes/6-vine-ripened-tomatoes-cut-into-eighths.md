@@ -1,5 +1,6 @@
 ---
 title: "6 vine-ripened tomatoes, cut into eighths"
+slug: "6-vine-ripened-tomatoes-cut-into-eighths"
 date: 2025-08-18
 type: "recipe"
 description: ""

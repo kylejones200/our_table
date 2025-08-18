@@ -1,5 +1,6 @@
 ---
 title: "4 portobello mushroom caps, wiped clean and very thinly sliced"
+slug: "4-portobello-mushroom-caps-wiped-clean-a-b74b6671"
 date: 2025-08-18
 type: "recipe"
 description: ""

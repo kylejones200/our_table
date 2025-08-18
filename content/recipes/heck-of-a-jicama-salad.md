@@ -1,5 +1,6 @@
 ---
 title: "Heck of a Jicama Salad"
+slug: "heck-of-a-jicama-salad"
 date: 2025-08-18
 type: "recipe"
 description: ""

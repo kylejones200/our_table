@@ -1,5 +1,6 @@
 ---
 title: "3/4 pound, 4 to 5 cups, baby spinach, packed"
+slug: "34-pound-4-to-5-cups-baby-spinach-packed"
 date: 2025-08-18
 type: "recipe"
 description: ""

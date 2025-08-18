@@ -1,5 +1,6 @@
 ---
 title: "Parmesan Crisps"
+slug: "parmesan-crisps"
 date: 2025-08-18
 type: "recipe"
 description: ""

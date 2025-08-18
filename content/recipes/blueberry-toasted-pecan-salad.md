@@ -1,5 +1,6 @@
 ---
 title: "Blueberry and Toasted Pecan Salad"
+slug: "blueberry-and-toasted-pecan-salad"
 date: 2025-08-18
 type: "recipe"
 description: "Fresh spinach salad with blueberries, toasted pecans, and balsamic vinaigrette."

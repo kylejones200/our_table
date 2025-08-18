@@ -1,5 +1,6 @@
 ---
 title: "1 pound medium to thick asparagus, trimmed"
+slug: "1-pound-medium-to-thick-asparagus-trimmed"
 date: 2025-08-18
 type: "recipe"
 description: ""

@@ -1,5 +1,6 @@
 ---
 title: "Asparagus and Mushroom Salad with Shaved Parmesan"
+slug: "asparagus-and-mushroom-salad-with-shaved-parmesan"
 date: 2025-08-18
 type: "recipe"
 description: ""
