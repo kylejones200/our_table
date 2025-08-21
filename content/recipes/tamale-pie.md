@@ -1,5 +1,6 @@
 ---
 
+
 title: "TAMALE PIE"
 date: "2025-08-21T10:44:26.936848"
 type: "recipe"
@@ -10,6 +11,14 @@ source: ""
 ingredients:
   - "
 allergens: ['dairy']
+nutrition:
+  calories: 113.8
+  protein_g: 6.0
+  carbohydrates_g: 18.7
+  fat_g: 28.1
+  fiber_g: 2.1
+  sugar_g: 0.0
+  servings: 4
 --- Filling ---"
   - "1 lb. ground beef"
   - "1 cup chopped onion"

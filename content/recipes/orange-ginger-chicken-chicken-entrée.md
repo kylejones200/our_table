@@ -1,5 +1,6 @@
 ---
 
+
 title: "Orange Ginger Chicken Chicken Entrée"
 date: "2025-08-21T10:44:26.930056"
 type: "recipe"
@@ -19,6 +20,14 @@ ingredients:
   - "2 Tbsp honey"
   - "1 tsp ground ginger"
 allergens: ['gluten', 'soy']
+nutrition:
+  calories: 129.8
+  protein_g: 13.8
+  carbohydrates_g: 22.8
+  fat_g: 15.9
+  fiber_g: 0.5
+  sugar_g: 0.0
+  servings: 6
 ---
 
 {{< recipe-meta >}}

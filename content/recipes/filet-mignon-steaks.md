@@ -1,5 +1,6 @@
 ---
 
+
 title: "Filet Mignon Steaks"
 date: "2025-08-21T10:44:26.934768"
 type: "recipe"
@@ -22,6 +23,14 @@ ingredients:
 steps:
   - "Served with Sautéed Mushrooms, Steams Sugar Snap Peas, and Rohlicky"
 allergens: ['gluten', 'soy']
+nutrition:
+  calories: 95.0
+  protein_g: 14.6
+  carbohydrates_g: 23.3
+  fat_g: 15.2
+  fiber_g: 1.3
+  sugar_g: 0.0
+  servings: 6
 ---
 
 {{< recipe-meta >}}

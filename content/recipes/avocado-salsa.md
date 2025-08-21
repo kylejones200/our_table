@@ -1,5 +1,6 @@
 ---
 
+
 title: "Avocado Salsa"
 date: "2025-08-21T10:44:26.944877"
 type: "recipe"
@@ -21,6 +22,14 @@ ingredients:
   - "1/2 tsp pepper"
   - "4 medium ripe avocados"
 allergens: []
+nutrition:
+  calories: 171.8
+  protein_g: 26.6
+  carbohydrates_g: 13.6
+  fat_g: 1.4
+  fiber_g: 1.5
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

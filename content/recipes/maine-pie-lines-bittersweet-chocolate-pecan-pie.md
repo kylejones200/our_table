@@ -1,5 +1,6 @@
 ---
 
+
 title: "Maine Pie Line's Bittersweet Chocolate Pecan Pie"
 date: "2025-08-21T10:44:26.933538"
 type: "recipe"
@@ -11,6 +12,14 @@ source: "Briana Warner"
 ingredients:
   - "
 allergens: ['dairy', 'eggs', 'gluten']
+nutrition:
+  calories: 134.5
+  protein_g: 5.4
+  carbohydrates_g: 37.3
+  fat_g: 11.7
+  fiber_g: 0.3
+  sugar_g: 0.0
+  servings: 8
 --- Crust ---"
   - "11/2 cups all-purpose flour"
   - "2 tsp granulated sugar"

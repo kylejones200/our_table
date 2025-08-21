@@ -1,6 +1,5 @@
 ---
-
-title: "For a 9-10 inch Pie or Tart or ten 3 inch tartlets"
+title: "Quiche Lorraine"
 date: "2025-08-21T10:44:26.930982"
 type: "recipe"
 description: "Shortcrust Pastry (Pate Brisee)"

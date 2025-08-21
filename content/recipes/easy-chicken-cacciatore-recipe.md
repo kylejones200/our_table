@@ -1,5 +1,6 @@
 ---
 
+
 title: "Easy Chicken Cacciatore Recipe"
 date: "2025-08-21T10:44:26.935441"
 type: "recipe"
@@ -24,6 +25,14 @@ steps:
   - "add the chicken and cook for 3 to 4 minutes, turning the pieces often, until the chicken is lightly browned."
   - "Add the marinara sauce and pepper flakes, reduce heat to medium and simmer"
 allergens: []
+nutrition:
+  calories: 22.2
+  protein_g: 11.5
+  carbohydrates_g: 7.8
+  fat_g: 2.8
+  fiber_g: 2.1
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

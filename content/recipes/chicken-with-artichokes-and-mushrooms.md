@@ -1,5 +1,6 @@
 ---
 
+
 title: "Chicken with Artichokes and Mushrooms"
 date: "2025-08-21T10:44:26.935310"
 type: "recipe"
@@ -16,6 +17,14 @@ ingredients:
   - "1 cup whipping cream"
   - "1/2 tsp cracked pepper"
 allergens: ['dairy', 'gluten']
+nutrition:
+  calories: 91.5
+  protein_g: 16.2
+  carbohydrates_g: 33.3
+  fat_g: 24.2
+  fiber_g: 3.5
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

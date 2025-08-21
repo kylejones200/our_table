@@ -1,5 +1,6 @@
 ---
 
+
 title: "Cinnamon Rolls"
 date: "2025-08-21T10:44:26.944213"
 type: "recipe"
@@ -20,6 +21,14 @@ ingredients:
   - "1 cup sugar"
   - "1 Tbsp cinnamon"
 allergens: ['dairy', 'eggs', 'gluten']
+nutrition:
+  calories: 267.7
+  protein_g: 23.8
+  carbohydrates_g: 87.3
+  fat_g: 58.2
+  fiber_g: 3.2
+  sugar_g: 0.0
+  servings: 3
 ---
 
 {{< recipe-meta >}}

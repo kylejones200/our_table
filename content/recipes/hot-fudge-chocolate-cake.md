@@ -1,5 +1,6 @@
 ---
 
+
 title: "Hot Fudge Chocolate Cake"
 date: "2025-08-21T10:44:26.951090"
 type: "recipe"
@@ -23,6 +24,14 @@ ingredients:
 steps:
   - "Heat oven to 350°. Mix 3/4 cup granulated sugar, flour, 1/4 cup cocoa, baking powder and salt. Stir in milk, butter and vanilla, beat with spoon until smooth. Pour batter into ungreased 9 in. square baking pan. Mix remaining 1/2 cup sugar, brown sugar and remaining 1/4 cup cocoa, sprinkle evenly over batter. Pour hot water over top. DO NOT STIR. Bake 35-40 minutes or until center is almost set. Let stand 10 minutes. Serve in dessert bowls with vanilla ice cream."
 allergens: ['dairy', 'gluten']
+nutrition:
+  calories: 769.0
+  protein_g: 9.1
+  carbohydrates_g: 79.8
+  fat_g: 50.2
+  fiber_g: 1.2
+  sugar_g: 3.2
+  servings: 4
 ---
 
 {{< recipe-meta >}}

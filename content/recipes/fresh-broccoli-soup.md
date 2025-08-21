@@ -1,5 +1,6 @@
 ---
 
+
 title: "Fresh Broccoli Soup"
 date: "2025-08-21T10:44:26.946856"
 type: "recipe"
@@ -27,6 +28,14 @@ steps:
   - "Combine onion, diced carrot, celery, and 1 cup water in saucepan. Bring to boil, turn down and simmer 15 minutes. Cool, but do not drain. Process vegetables and water in blender until smooth."
   - "Melt butter in Dutch oven, add flour, stirring until smooth. Gradually add milk, cook, stirring constantly until thick. Add broccoli, pureed vegetables, broth, and last four ingredients. Cook over low heat, stirring occasionally until cheese melts. Makes 4 cups."
 allergens: ['dairy', 'gluten']
+nutrition:
+  calories: 58.0
+  protein_g: 11.2
+  carbohydrates_g: 32.8
+  fat_g: 16.6
+  fiber_g: 4.9
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

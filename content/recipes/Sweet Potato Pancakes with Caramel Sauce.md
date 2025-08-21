@@ -1,6 +1,6 @@
 ---
 
-title: "Note: Batter and Caramel can be made the day ahead and kept in the refrigerate overnight"
+title: "Sweet Potato Pancakes with Caramel Sauce"
 date: "2025-08-21T10:44:26.925720"
 type: "recipe"
 description: ""

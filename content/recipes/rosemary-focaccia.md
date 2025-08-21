@@ -1,5 +1,6 @@
 ---
 
+
 title: "Rosemary Focaccia"
 date: "2025-08-21T10:44:26.946430"
 type: "recipe"
@@ -15,6 +16,14 @@ ingredients:
   - "1/4 cup butter, melted"
   - "1/2 cup chopped fresh rosemary, divided"
 allergens: ['dairy', 'gluten']
+nutrition:
+  calories: 124.2
+  protein_g: 14.7
+  carbohydrates_g: 45.4
+  fat_g: 36.1
+  fiber_g: 6.0
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Fast Nut Tree Breadsticks"
 date: "2025-08-21T10:44:26.944486"
 type: "recipe"
@@ -26,6 +27,14 @@ steps:
   - "mixing first with spoon, then with hands, to make a smooth springy ball of dough. Cover with towel and let stand in warm place about"
   - "Bake at 400 degrees about 10 minutes or until golden brown. Makes"
 allergens: ['gluten']
+nutrition:
+  calories: 187.8
+  protein_g: 17.4
+  carbohydrates_g: 93.9
+  fat_g: 22.4
+  fiber_g: 0.7
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

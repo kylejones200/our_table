@@ -1,7 +1,4 @@
 ---
-
-
-
 title: "Lemon Creme Brulee"
 date: "2025-08-21T10:44:26.949256"
 type: "recipe"
@@ -13,6 +10,14 @@ source: ""
 ingredients:
   - "2 large lemons"
   - "3 cups heavy cream"
+  - "10 Tbsp turbinado sugar (such as Sugar in the Raw)"
+  - "6 large egg yolks"
+  - "1 tsp vanilla extract"
+  - "Pinch of salt"
+steps:
+  - "Put oven rack in middle position and preheat oven to 325°F. Finely grate 2 Tbsp zest from lemons into cream in a 2- to 3-quart heavy saucepan. Stir in 7 Tbsp turbinado sugar and a pinch of salt. Heat mixture over moderately low heat, stirring occasionally, until almost boiling, then remove from heat."
+  - "Lightly beat yolks in a bowl, then gradually whisk in hot cream. Pour custard through a fine-mesh sieve into a quart-size glass measure and stir in vanilla and 1 tsp fresh lemon juice. Divide among ramekins."
+  - "Arrange ramekins in a roasting pan and bake in a water bath until custards are just set around edge but centers wobble when pan is gently shaken, 30 to 35 minutes. Cool custards in water bath 20 minutes, then remove from pan and chill, uncovered, at least 4 hours. (Custards will set completely as they chill.) Sprinkle about 1 tsp turbinado sugar evenly over each custard, then move blowtorch flame evenly back and forth close to sugar until sugar is caramelized. Let stand until caramel is hardened, 3 to 5 minutes."
 nutrition:
   calories: 4.2
   protein_g: 0.6

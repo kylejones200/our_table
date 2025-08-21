@@ -1,5 +1,6 @@
 ---
 
+
 title: "Dill Dip"
 date: "2025-08-21T10:44:26.945012"
 type: "recipe"
@@ -17,6 +18,14 @@ ingredients:
 steps:
   - "Combine and refrigerate several hours. Served with carrots, celery, cauliflower, sugar snap peas."
 allergens: ['dairy', 'eggs']
+nutrition:
+  calories: 85.0
+  protein_g: 4.7
+  carbohydrates_g: 11.9
+  fat_g: 7.9
+  fiber_g: 1.6
+  sugar_g: 6.1
+  servings: 4
 ---
 
 {{< recipe-meta >}}

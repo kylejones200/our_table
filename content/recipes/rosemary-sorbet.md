@@ -1,5 +1,6 @@
 ---
 
+
 title: "Rosemary Sorbet"
 date: "2025-08-21T10:44:26.934698"
 type: "recipe"
@@ -17,6 +18,14 @@ ingredients:
   - "3. Remove the pan from the heat, cover and steep until flavor is strong, 20 to 40 minutes. Strain into a bowl, discard the rosemary."
   - "4. Refrigerate until cold. Pour into an ice cream maker and freeze as directed."
 allergens: ['dairy']
+nutrition:
+  calories: 206.4
+  protein_g: 7.6
+  carbohydrates_g: 49.0
+  fat_g: 8.4
+  fiber_g: 5.6
+  sugar_g: 0.0
+  servings: 5
 ---
 
 {{< recipe-meta >}}

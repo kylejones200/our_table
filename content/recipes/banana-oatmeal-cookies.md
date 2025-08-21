@@ -1,5 +1,6 @@
 ---
 
+
 title: "Banana Oatmeal Cookies"
 date: "2025-08-21T10:44:26.932803"
 type: "recipe"
@@ -26,6 +27,14 @@ steps:
   - "Stir in chocolate chips and nuts."
   - "Drop by spoonfuls onto greased or parchment-covered baking sheets. Bake at 375 for 10-13 minutes until golden brown."
 allergens: ['dairy', 'eggs', 'gluten', 'nuts']
+nutrition:
+  calories: 257.1
+  protein_g: 16.8
+  carbohydrates_g: 71.8
+  fat_g: 37.4
+  fiber_g: 5.0
+  sugar_g: 3.5
+  servings: 4
 ---
 
 {{< recipe-meta >}}

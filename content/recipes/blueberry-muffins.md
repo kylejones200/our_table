@@ -1,5 +1,6 @@
 ---
 
+
 title: "Blueberry Muffins"
 date: "2025-08-21T10:44:26.925876"
 type: "recipe"
@@ -24,6 +25,14 @@ steps:
   - "Add the berries to the dry ingredients and gently toss just to combine. Add the sour cream mixture and fold with a rubber spatula until the batter comes together and the berries are evenly distributed, 25 to 30 seconds. (Small spots of flour may remain and the batter will be thick. Do not overmix). Using a large spoon sprayed with nonstick cooking spray to prevent sticking, divide the batter among the muffin cups. Bake until the muffins are light golden brown and a toothpick inserted into the center of a muffin comes out clean, about 25 to 30 minutes, rotating the pan from front to back halfway through the baking time. Invert the muffins onto a wire rack, stand the muffins upright, and cool 5 minutes."
 notes: "When making the batter, be sure to whisk vigorously in step 2, then fold carefully in step 3. You should not see large pockets of flour in the finished batter, but small occasional sprays may remain. A large spoon sprayed with nonstick cooking spray ensures clean dispensing when transferring the dough to the cups in the muffin tin."
 allergens: ['dairy', 'eggs', 'gluten']
+nutrition:
+  calories: 89.0
+  protein_g: 3.1
+  carbohydrates_g: 20.4
+  fat_g: 15.7
+  fiber_g: 0.2
+  sugar_g: 0.0
+  servings: 12
 ---
 
 {{< recipe-meta >}}

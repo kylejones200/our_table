@@ -1,5 +1,6 @@
 ---
 
+
 title: "Lemon-Blueberry Tart"
 date: "2025-08-21T10:44:26.924466"
 type: "recipe"
@@ -10,6 +11,14 @@ source: ""
 ingredients:
   - "
 allergens: ['dairy', 'eggs', 'gluten', 'nuts']
+nutrition:
+  calories: 188.8
+  protein_g: 16.9
+  carbohydrates_g: 80.2
+  fat_g: 63.1
+  fiber_g: 7.9
+  sugar_g: 0.0
+  servings: 4
 --- CRUST ---"
   - "1/3 cup pecans"
   - "1 cup flour"

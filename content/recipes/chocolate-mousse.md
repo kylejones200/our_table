@@ -1,5 +1,6 @@
 ---
 
+
 title: "Chocolate Mousse"
 date: "2025-08-21T10:44:26.933682"
 type: "recipe"
@@ -20,6 +21,14 @@ ingredients:
   - "2. Stir the egg whites in a clean mixing bowl set over a saucepan of hot water until slightly warm, 1 to 2 minutes; remove the bowl from the saucepan. Beat with an electric mixer set at medium speed until soft peaks form. Raise the mixer speed to high and slowly add the sugar; beat to soft peaks. Whisk a quarter of the beaten whites into the chocolate mixture to lighten it, then gently fold in the remaining whites."
 notes: "For an extra-creamy chocolate mousse, fold in 1 cup of heavy cream that's been whipped (instead of the 1/2 cup called for below). Make this mousse at least 2 hours before you wish to serve it to let the flavors develop, but serve it within 24 hours because the flavor and texture will begin to deteriorate."
 allergens: ['dairy', 'eggs']
+nutrition:
+  calories: 230.3
+  protein_g: 9.5
+  carbohydrates_g: 31.6
+  fat_g: 37.0
+  fiber_g: 0.5
+  sugar_g: 2.1
+  servings: 6
 ---
 
 {{< recipe-meta >}}

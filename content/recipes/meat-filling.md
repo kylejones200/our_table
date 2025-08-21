@@ -1,5 +1,6 @@
 ---
 
+
 title: "Meat Filling"
 date: "2025-08-21T10:44:26.946729"
 type: "recipe"
@@ -21,6 +22,14 @@ ingredients:
   - "1/2 tsp cayenne pepper (optional)"
   - "Dash of pepper"
 allergens: []
+nutrition:
+  calories: 9.0
+  protein_g: 9.4
+  carbohydrates_g: 24.5
+  fat_g: 5.7
+  fiber_g: 2.5
+  sugar_g: 0.2
+  servings: 4
 ---
 
 {{< recipe-meta >}}

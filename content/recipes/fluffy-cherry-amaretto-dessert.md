@@ -1,5 +1,6 @@
 ---
 
+
 title: "Fluffy Cherry Amaretto Dessert"
 date: "2025-08-21T10:44:26.949746"
 type: "recipe"
@@ -10,6 +11,14 @@ source: ""
 ingredients:
   - "
 allergens: ['dairy']
+nutrition:
+  calories: 96.2
+  protein_g: 7.3
+  carbohydrates_g: 37.2
+  fat_g: 42.4
+  fiber_g: 2.9
+  sugar_g: 0.0
+  servings: 4
 --- Crust ---"
   - "1/2 package Oreo cookies crushed in food processor"
   - "1/4 cup melted butter"

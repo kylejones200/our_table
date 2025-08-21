@@ -1,5 +1,6 @@
 ---
 
+
 title: "TACO SOUP"
 date: "2025-08-21T10:44:26.936911"
 type: "recipe"
@@ -24,6 +25,14 @@ ingredients:
 steps:
   - "Brown ground beef with onion, add remaining ingredients, simmer 30 minutes."
 allergens: []
+nutrition:
+  calories: 121.2
+  protein_g: 12.0
+  carbohydrates_g: 18.5
+  fat_g: 8.8
+  fiber_g: 1.5
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

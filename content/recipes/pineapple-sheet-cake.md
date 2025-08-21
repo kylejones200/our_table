@@ -1,5 +1,6 @@
 ---
 
+
 title: "Pineapple Sheet Cake"
 date: "2025-08-21T10:44:26.949619"
 type: "recipe"
@@ -17,6 +18,14 @@ ingredients:
   - "1 15 oz. can crushed pineapple and juice"
   - "
 allergens: ['dairy', 'eggs', 'gluten']
+nutrition:
+  calories: 195.8
+  protein_g: 10.0
+  carbohydrates_g: 50.8
+  fat_g: 8.9
+  fiber_g: 1.1
+  sugar_g: 3.2
+  servings: 4
 --- Icing ---"
   - "8 oz. cream cheese, softened"
   - "1 stick margarine, softened"

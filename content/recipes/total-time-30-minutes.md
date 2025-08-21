@@ -1,5 +1,6 @@
 ---
 
+
 title: "Total time: 30 minutes"
 date: "2025-08-21T10:44:26.928591"
 type: "recipe"
@@ -28,6 +29,14 @@ steps:
   - "MIX banana, egg, butter, buttermilk, oil and vanilla extract in large bowl until smooth. Gradually add flour mixture and stir until blended. Add 1/3 cup of the walnuts and mix thoroughly. FILL muffin cups three-quarters full. Sprinkle remaining 2 Tbsp walnuts over tops."
   - "BAKE until a wood pick inserted into center of muffin comes out clean, 15 to 20 minutes."
 allergens: ['dairy', 'eggs', 'gluten']
+nutrition:
+  calories: 176.9
+  protein_g: 8.4
+  carbohydrates_g: 37.2
+  fat_g: 18.5
+  fiber_g: 2.0
+  sugar_g: 0.0
+  servings: 8
 ---
 
 {{< recipe-meta >}}

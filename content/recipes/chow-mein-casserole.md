@@ -1,5 +1,6 @@
 ---
 
+
 title: "Chow Mein Casserole"
 date: "2025-08-21T10:44:26.937120"
 type: "recipe"
@@ -20,6 +21,14 @@ ingredients:
 steps:
   - "Brown hamburger until no longer pink. Drain well. Add the next 6 ingredients to hamburger and mix well. Place in a 9x 13 casserole, cover and bake at 350 for 1 hour. Uncover and bake an additional 30 minutes. Sprinkle noodles on top."
 allergens: ['dairy', 'gluten', 'soy']
+nutrition:
+  calories: 286.2
+  protein_g: 21.4
+  carbohydrates_g: 55.9
+  fat_g: 9.7
+  fiber_g: 4.1
+  sugar_g: 1.5
+  servings: 4
 ---
 
 {{< recipe-meta >}}

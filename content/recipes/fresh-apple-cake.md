@@ -1,5 +1,6 @@
 ---
 
+
 title: "Fresh Apple Cake"
 date: "2025-08-21T10:44:26.943257"
 type: "recipe"
@@ -21,6 +22,14 @@ ingredients:
   - "1 cup pecans, chopped"
   - "
 allergens: ['dairy', 'eggs', 'gluten']
+nutrition:
+  calories: 245.2
+  protein_g: 7.3
+  carbohydrates_g: 58.4
+  fat_g: 22.4
+  fiber_g: 1.6
+  sugar_g: 6.7
+  servings: 4
 --- Icing ---"
   - "2 cups powdered sugar"
   - "4 oz. cream cheese"

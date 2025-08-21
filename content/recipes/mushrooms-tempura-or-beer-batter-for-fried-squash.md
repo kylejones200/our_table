@@ -1,5 +1,6 @@
 ---
 
+
 title: "Mushrooms Tempura or Beer Batter for Fried Squash"
 date: "2025-08-21T10:44:26.945199"
 type: "recipe"
@@ -14,6 +15,14 @@ ingredients:
   - "2 Tbsp Seasoned salt"
   - "1 Tbsp Beau Monde or Bon Appetit"
 allergens: ['gluten']
+nutrition:
+  calories: 67.5
+  protein_g: 5.4
+  carbohydrates_g: 32.1
+  fat_g: 21.9
+  fiber_g: 1.5
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

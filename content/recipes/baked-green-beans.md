@@ -1,5 +1,6 @@
 ---
 
+
 title: "Baked Green Beans"
 date: "2025-08-21T10:44:26.943406"
 type: "recipe"
@@ -17,6 +18,14 @@ ingredients:
 steps:
   - "Cook bacon until crisp, and remove from skillet. Saute onion and mushrooms in drippings until soft. Stir in remaining ingredients except bacon; pour over beans. Cover and bake at 350 degrees for 40 to 45 minutes or until beans are tender. Sprinkel with bacon."
 allergens: []
+nutrition:
+  calories: 7.3
+  protein_g: 5.1
+  carbohydrates_g: 6.6
+  fat_g: 4.9
+  fiber_g: 1.9
+  sugar_g: 0.0
+  servings: 6
 ---
 
 {{< recipe-meta >}}

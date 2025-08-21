@@ -1,5 +1,6 @@
 ---
 
+
 title: "Show: 30 Minute Meals"
 date: "2025-08-21T10:44:26.951836"
 type: "recipe"
@@ -16,6 +17,14 @@ ingredients:
   - "3 Tbsp extra-virgin olive oil, eyeball it"
 notes: "Episode: No Meat, No Worries"
 allergens: []
+nutrition:
+  calories: 0.0
+  protein_g: 4.1
+  carbohydrates_g: 21.0
+  fat_g: 1.6
+  fiber_g: 0.8
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

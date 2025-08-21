@@ -1,5 +1,6 @@
 ---
 
+
 title: "* flour for work surface"
 date: "2025-08-21T10:44:26.932227"
 type: "recipe"
@@ -10,6 +11,14 @@ source: ""
 ingredients:
   - "
 allergens: ['dairy']
+nutrition:
+  calories: 240.2
+  protein_g: 10.2
+  carbohydrates_g: 73.8
+  fat_g: 35.8
+  fiber_g: 0.6
+  sugar_g: 3.2
+  servings: 4
 --- Icing ---"
   - "1 1/2 ounces cream cheese, softened"
   - "3 Tbsp buttermilk or whole milk"

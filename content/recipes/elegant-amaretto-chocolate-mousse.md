@@ -1,5 +1,6 @@
 ---
 
+
 title: "Elegant Amaretto-Chocolate Mousse"
 date: "2025-08-21T10:44:26.935769"
 type: "recipe"
@@ -26,6 +27,14 @@ steps:
   - "Beat egg whites (at room temperature) until stiff peaks form. Set aside 1 cup whipped cream for garnish. Fold egg whites and remaining 3 cups whipped cream into chocolate mixture."
   - "Line bottom and sides of a 9-inch springform pan with ladyfingers. Spoon chocolate mixture into pan. Cover and chill until firm."
 allergens: ['dairy', 'eggs']
+nutrition:
+  calories: 94.6
+  protein_g: 5.4
+  carbohydrates_g: 10.6
+  fat_g: 8.8
+  fiber_g: 1.0
+  sugar_g: 0.0
+  servings: 14
 ---
 
 {{< recipe-meta >}}

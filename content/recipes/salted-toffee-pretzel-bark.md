@@ -1,5 +1,6 @@
 ---
 
+
 title: "Salted Toffee Pretzel Bark"
 date: "2025-08-21T10:44:26.923415"
 type: "recipe"
@@ -18,6 +19,14 @@ steps:
   - "Use a sharp knife to break the bark into pieces."
 notes: "This is a no-bake treat that's beautiful to look at but even better to eat. Forget plain old peppermint bark, spice up your cookie platter with this high-falootin' salty-sweet delight! You can use bittersweet or semisweet chocolate here, but buy the best you can afford. The dark chocolate is the canvas for all the wonderful flavors!"
 allergens: []
+nutrition:
+  calories: 328.5
+  protein_g: 23.7
+  carbohydrates_g: 42.0
+  fat_g: 8.3
+  fiber_g: 0.9
+  sugar_g: 15.8
+  servings: 4
 ---
 
 {{< recipe-meta >}}

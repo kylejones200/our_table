@@ -1,5 +1,6 @@
 ---
 
+
 title: "Minty Marshmallow-Stuffed Chocolate Cookies"
 date: "2025-08-21T10:44:26.923757"
 type: "recipe"
@@ -21,6 +22,14 @@ ingredients:
   - "24-30 chocolate mint marshmallows (note these are smaller than full-size mallows…if you use the full-size, you'll need to cut in half.)"
   - "
 allergens: ['dairy', 'eggs', 'gluten']
+nutrition:
+  calories: 68.0
+  protein_g: 1.9
+  carbohydrates_g: 13.3
+  fat_g: 7.7
+  fiber_g: 0.2
+  sugar_g: 2.7
+  servings: 24
 --- Fudgy frosting ---"
   - "2 cups confectioners' sugar"
   - "1/4 cup cocoa powder"

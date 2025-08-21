@@ -1,5 +1,6 @@
 ---
 
+
 title: "Potato Soup"
 date: "2025-08-21T10:44:26.944416"
 type: "recipe"
@@ -22,6 +23,14 @@ ingredients:
   - "pepper and dillweed. Cook on low 25-30 minutes until potatoes are"
   - "tender. Add milk and parsley. Heat just until boiling."
 allergens: ['dairy']
+nutrition:
+  calories: 160.7
+  protein_g: 3.5
+  carbohydrates_g: 18.1
+  fat_g: 15.5
+  fiber_g: 2.0
+  sugar_g: 0.1
+  servings: 6
 ---
 
 {{< recipe-meta >}}

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Prep Time: 20 min"
 date: "2025-08-21T10:44:26.929045"
 type: "recipe"
@@ -25,6 +26,14 @@ steps:
   - "Add egg whites and vanilla extract. Stir by hand just until dough comes together. If the dough is too dry, add part of a fourth egg white until dough can be formed balls."
   - "Place a few heaping spoonfuls of confectioners' sugar into shallow dish. Roll dough into 1 1/2 inch balls, then roll balls in sugar to coat. Place 2\" apart on baking sheet coated with parchment paper or cooking spray. Bake 12 to 14 minutes, until just set around edges but still soft in the middle. Transfer to rack to cool."
 allergens: ['dairy', 'eggs', 'gluten']
+nutrition:
+  calories: 919.6
+  protein_g: 32.9
+  carbohydrates_g: 204.4
+  fat_g: 74.2
+  fiber_g: 7.8
+  sugar_g: 32.8
+  servings: 2
 ---
 
 {{< recipe-meta >}}

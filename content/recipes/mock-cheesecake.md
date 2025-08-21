@@ -1,5 +1,6 @@
 ---
 
+
 title: "MOCK CHEESECAKE"
 date: "2025-08-21T10:44:26.951026"
 type: "recipe"
@@ -24,6 +25,14 @@ steps:
   - "Dissolve Jell-O in boiling water, add lemon juice and let cool to room temperature."
   - "Combine and press into 13x9 pan, reserving 1/4 cup for topping."
 allergens: ['dairy', 'gluten']
+nutrition:
+  calories: 301.0
+  protein_g: 8.9
+  carbohydrates_g: 58.5
+  fat_g: 25.8
+  fiber_g: 2.2
+  sugar_g: 9.3
+  servings: 4
 ---
 
 {{< recipe-meta >}}

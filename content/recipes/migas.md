@@ -1,5 +1,6 @@
 ---
 
+
 title: "Migas"
 date: "2025-08-21T10:44:26.928361"
 type: "recipe"
@@ -25,6 +26,14 @@ steps:
   - "COOK VEGETABLES. Melt butter in 12-inch nonstick skillet over medium-high heat. Add onion and bell pepper and cook until softened, about 4 minutes. Stir in garlic and jalapeno and cook until fragrant, about 30 seconds."
   - "ADD EGG MIXTURE AND COOK. Reduce heat to medium. Add egg mixture and cook, using rubber spatula to push mixture back and forth until curds begin to form. Continue to cook, lifting and folding curds from side to side, until they clump in single mound but are still very moist, about 3 minutes. FINISH AND SEASON. Off heat, gently fold in cheese and cilantro and season with salt and pepper to taste. Serve."
 allergens: ['dairy', 'eggs', 'gluten']
+nutrition:
+  calories: 151.2
+  protein_g: 18.5
+  carbohydrates_g: 34.6
+  fat_g: 22.7
+  fiber_g: 5.1
+  sugar_g: 3.8
+  servings: 4
 ---
 
 {{< recipe-meta >}}
