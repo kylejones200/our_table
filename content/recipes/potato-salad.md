@@ -1,5 +1,6 @@
 ---
 
+
 title: "Potato Salad"
 date: "2025-08-21T10:44:26.944678"
 type: "recipe"
@@ -21,6 +22,14 @@ steps:
   - "Boil potatoes in jackets until tender (30 minutes). Cooll, peel, cut into bite-size pieces. Put eggs in cold water - bring to boil - put lid on, remove from heat and let set 15 minutes. Immediately run cold water on them to cool. Peel, chop; add onions and green peppers. Mix remaining ingredients for dressing. Pour on salt to taste - 1 tsp or less."
 allergens:
   - "eggs"
+nutrition:
+  calories: 179.2
+  protein_g: 6.3
+  carbohydrates_g: 58.6
+  fat_g: 1.9
+  fiber_g: 3.7
+  sugar_g: 6.3
+  servings: 4
 ---
 
 {{< recipe-meta >}}

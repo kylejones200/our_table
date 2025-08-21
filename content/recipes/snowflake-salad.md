@@ -1,5 +1,6 @@
 ---
 
+
 title: "Snowflake Salad"
 date: "2025-08-21T10:44:26.939742"
 type: "recipe"
@@ -17,6 +18,14 @@ ingredients:
   - "9 oz. Cool Whip"
 allergens:
   - "dairy"
+nutrition:
+  calories: 309.5
+  protein_g: 2.3
+  carbohydrates_g: 34.8
+  fat_g: 28.3
+  fiber_g: 1.7
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

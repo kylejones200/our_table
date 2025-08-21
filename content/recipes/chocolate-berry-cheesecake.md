@@ -1,5 +1,6 @@
 ---
 
+
 title: "Chocolate Berry Cheesecake"
 date: "2025-08-21T10:44:26.950703"
 type: "recipe"
@@ -31,6 +32,14 @@ steps:
 allergens:
   - "dairy"
   - "eggs"
+nutrition:
+  calories: 383.5
+  protein_g: 8.7
+  carbohydrates_g: 76.0
+  fat_g: 38.2
+  fiber_g: 4.6
+  sugar_g: 16.8
+  servings: 4
 ---
 
 {{< recipe-meta >}}

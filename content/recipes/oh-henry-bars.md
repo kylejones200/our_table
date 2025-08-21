@@ -1,5 +1,6 @@
 ---
 
+
 title: "Oh Henry Bars"
 date: "2025-08-21T10:44:26.940112"
 type: "recipe"
@@ -20,6 +21,14 @@ steps:
 allergens:
   - "dairy"
   - "nuts"
+nutrition:
+  calories: 323.1
+  protein_g: 15.6
+  carbohydrates_g: 63.8
+  fat_g: 36.5
+  fiber_g: 4.8
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

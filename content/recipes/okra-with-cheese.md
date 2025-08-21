@@ -1,4 +1,5 @@
 ---
+
 title: "Okra with Cheese"
 date: "2025-08-21T10:44:26.943710"
 type: "recipe"
@@ -26,6 +27,14 @@ allergens:
   - "eggs"
   - "dairy"
   - "gluten"
+nutrition:
+  calories: 184.0
+  protein_g: 9.6
+  carbohydrates_g: 36.5
+  fat_g: 3.7
+  fiber_g: 9.8
+  sugar_g: 3.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

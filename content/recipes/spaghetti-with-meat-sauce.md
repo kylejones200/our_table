@@ -1,5 +1,6 @@
 ---
 
+
 title: "SPAGHETTI WITH MEAT SAUCE"
 date: "2025-08-21T10:44:26.937694"
 type: "recipe"
@@ -15,7 +16,15 @@ ingredients:
 steps:
   - "Add seasonings to meat; brown. Drain off all grease. Saute 1/2 cup chopped onion in 2 Tbsp water in microwave. Add to meat."
 allergens:
-  - 
+  -
+nutrition:
+  calories: 0.0
+  protein_g: 4.5
+  carbohydrates_g: 1.2
+  fat_g: 46.0
+  fiber_g: 0.2
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

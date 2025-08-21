@@ -1,5 +1,6 @@
 ---
 
+
 title: "Rich Truffle Wedges"
 date: "2025-08-21T10:44:26.941321"
 type: "recipe"
@@ -19,6 +20,14 @@ allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+nutrition:
+  calories: 302.0
+  protein_g: 11.8
+  carbohydrates_g: 68.5
+  fat_g: 41.8
+  fiber_g: 4.6
+  sugar_g: 16.8
+  servings: 4
 --- GLAZE ---"
   - "1/4 cup butter"
   - "2 squares, 1 oz each semisweet chocolate"

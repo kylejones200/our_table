@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Chicken Pot Pie"
 date: "2025-08-21T10:44:26.948736"
 type: "recipe"
@@ -29,6 +30,8 @@ nutrition:
   fiber_g: 2.2
   sugar_g: 0.0
   servings: 4
+image: "https://images.unsplash.com/photo-1710143608680-6ed21d27fd82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwcG90JTIwcGllJTIwZm9vZHxlbnwxfDB8fHwxNzU1ODA0NTc4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Ngo Ngoc Khai Huyen on Unsplash"
 ---
 
 {{< recipe-meta >}}

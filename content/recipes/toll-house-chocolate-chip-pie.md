@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Toll House Chocolate Chip Pie"
 date: "2025-08-21T10:44:26.941966"
 type: "recipe"
@@ -34,6 +35,8 @@ nutrition:
   fiber_g: 4.2
   sugar_g: 0.0
   servings: 4
+image: "https://images.unsplash.com/photo-1726514735659-156f5c5139db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHx0b2xsJTIwaG91c2UlMjBjaG9jb2xhdGUlMjBjaGlwJTIwcGllJTIwZm9vZCUyMGRlc3NlcnR8ZW58MXwwfHx8MTc1NTgwNDYxNnww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Fotografía de Alimentos on Unsplash"
 ---
 
 {{< recipe-meta >}}

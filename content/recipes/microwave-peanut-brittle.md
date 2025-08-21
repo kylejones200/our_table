@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Microwave Peanut Brittle"
 date: "2025-08-21T10:44:26.949813"
 type: "recipe"
@@ -28,6 +29,8 @@ nutrition:
   fiber_g: 3.0
   sugar_g: 3.2
   servings: 4
+image: "https://images.unsplash.com/photo-1507187812740-e7df0725974a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxtaWNyb3dhdmUlMjBwZWFudXQlMjBicml0dGxlJTIwZm9vZHxlbnwxfDB8fHwxNzU1ODA0NjA5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by CHUTTERSNAP on Unsplash"
 ---
 
 {{< recipe-meta >}}

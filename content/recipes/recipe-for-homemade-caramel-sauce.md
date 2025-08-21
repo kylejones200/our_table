@@ -1,5 +1,6 @@
 ---
 
+
 title: "Recipe for Homemade Caramel Sauce"
 date: "2025-08-21T10:44:26.925800"
 type: "recipe"
@@ -17,6 +18,14 @@ steps:
   - "Add your warmed cream and whisk vigorously. Mixture will bubble, then settle down to a velvety caramel."
 allergens:
   - "dairy"
+nutrition:
+  calories: 96.2
+  protein_g: 5.7
+  carbohydrates_g: 31.1
+  fat_g: 22.2
+  fiber_g: 2.4
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

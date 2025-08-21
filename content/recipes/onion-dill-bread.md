@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "Onion Dill Bread"
 date: "2025-08-21T10:44:26.946789"
 type: "recipe"
@@ -23,6 +25,14 @@ allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+nutrition:
+  calories: 232.8
+  protein_g: 15.9
+  carbohydrates_g: 64.2
+  fat_g: 26.6
+  fiber_g: 0.6
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

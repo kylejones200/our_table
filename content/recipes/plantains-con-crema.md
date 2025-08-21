@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Plantains con Crema"
 date: "2025-08-21T10:44:26.936248"
 type: "recipe"
@@ -31,6 +32,8 @@ nutrition:
   fiber_g: 1.3
   sugar_g: 6.7
   servings: 4
+image: "https://images.unsplash.com/photo-1526364163643-89e30b8fcb70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxwbGFudGFpbnMlMjBjb24lMjBjcmVtYSUyMGZvb2QlMjBkZXNzZXJ0fGVufDF8MHx8fDE3NTU4MDQ1ODh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Eiliv Aceron on Unsplash"
 ---
 
 {{< recipe-meta >}}

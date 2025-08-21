@@ -1,5 +1,6 @@
 ---
 
+
 title: "Salted Caramel Thumbprints"
 date: "2025-08-21T10:44:26.922224"
 type: "recipe"
@@ -29,6 +30,14 @@ allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+nutrition:
+  calories: 50.1
+  protein_g: 1.9
+  carbohydrates_g: 12.9
+  fat_g: 5.8
+  fiber_g: 0.5
+  sugar_g: 0.0
+  servings: 24
 ---
 
 Caramel

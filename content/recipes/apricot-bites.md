@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "Apricot Bites"
 date: "2025-08-21T10:44:26.934494"
 type: "recipe"
@@ -20,6 +22,14 @@ ingredients:
   - "2. Starting with the dried apricot, stack ingredients: apricot, goat cheese, dried cranberries, and thyme sprig."
 allergens:
   - "dairy"
+nutrition:
+  calories: 107.5
+  protein_g: 11.7
+  carbohydrates_g: 40.7
+  fat_g: 5.6
+  fiber_g: 2.6
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

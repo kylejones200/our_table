@@ -1,5 +1,6 @@
 ---
 
+
 title: "Coconut Pecan Filling for German Chocolate Cake"
 date: "2025-08-21T10:44:26.949942"
 type: "recipe"
@@ -20,6 +21,14 @@ steps:
 allergens:
   - "dairy"
   - "eggs"
+nutrition:
+  calories: 371.0
+  protein_g: 22.2
+  carbohydrates_g: 53.2
+  fat_g: 52.1
+  fiber_g: 12.4
+  sugar_g: 3.2
+  servings: 4
 ---
 
 {{< recipe-meta >}}

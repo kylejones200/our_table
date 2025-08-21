@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "(Makes 5 dozen) [Makes 3 dozen]"
 date: "2025-08-21T10:44:26.928660"
 type: "recipe"
@@ -29,6 +31,14 @@ allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+nutrition:
+  calories: 494.3
+  protein_g: 12.5
+  carbohydrates_g: 71.5
+  fat_g: 60.2
+  fiber_g: 3.1
+  sugar_g: 3.2
+  servings: 4
 ---
 
 {{< recipe-meta >}}

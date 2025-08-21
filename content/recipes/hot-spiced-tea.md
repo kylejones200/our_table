@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Hot Spiced Tea"
 date: "2025-08-21T10:44:26.945907"
 type: "recipe"
@@ -28,6 +29,8 @@ nutrition:
   fiber_g: 9.0
   sugar_g: 0.6
   servings: 4
+image: "https://images.unsplash.com/photo-1567475752413-9c5074c6db39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxob3QlMjBzcGljZWQlMjB0ZWElMjBmb29kJTIwYmV2ZXJhZ2V8ZW58MXwwfHx8MTc1NTgwNDYwN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by allen lee on Unsplash"
 ---
 
 {{< recipe-meta >}}

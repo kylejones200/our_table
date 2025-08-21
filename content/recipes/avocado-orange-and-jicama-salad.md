@@ -2,6 +2,7 @@
 
 
 
+
 title: "Avocado, Orange, and Jicama Salad"
 date: "2025-08-21T10:44:26.952994"
 type: "recipe"
@@ -30,10 +31,10 @@ nutrition:
   fiber_g: 17.6
   sugar_g: 1.7
   servings: 4
+allergens:
+  -
 image: "https://images.unsplash.com/photo-1714281121101-fdae2ed0272a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxhdm9jYWRvJTIwb3JhbmdlJTIwYW5kJTIwamljYW1hJTIwc2FsYWQlMjBmb29kJTIwc2FsYWR8ZW58MXwwfHx8MTc1NTc5NTkxM3ww&ixlib=rb-4.1.0&q=80&w=1080"
 image_credit: "Photo by Kouji Tsuru on Unsplash"
-allergens:
-  - 
 ---
 
 {{< recipe-meta >}}

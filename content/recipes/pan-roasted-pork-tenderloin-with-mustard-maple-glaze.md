@@ -1,5 +1,6 @@
 ---
 
+
 title: "Pan-Roasted Pork Tenderloin with Mustard-Maple Glaze"
 date: "2025-08-21T10:44:26.927193"
 type: "recipe"
@@ -11,7 +12,15 @@ ingredients:
   - "2 pork tenderloins (1 pound each), trimmed"
   - "1 Tbsp vegetable oil"
 allergens:
-  - 
+  -
+nutrition:
+  calories: 0.0
+  protein_g: 5.4
+  carbohydrates_g: 0.0
+  fat_g: 1.0
+  fiber_g: 0.0
+  sugar_g: 0.0
+  servings: 4
 --- Mustard-Maple Glaze ---"
   - "1/2 cup pure maple syrup"
   - "2/3 cup whole-grain mustard"

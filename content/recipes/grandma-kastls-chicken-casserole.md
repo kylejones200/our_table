@@ -1,5 +1,6 @@
 ---
 
+
 title: "Grandma Kastl's Chicken Casserole"
 date: "2025-08-21T10:44:26.948597"
 type: "recipe"
@@ -22,6 +23,14 @@ steps:
 allergens:
   - "dairy"
   - "gluten"
+nutrition:
+  calories: 73.2
+  protein_g: 14.2
+  carbohydrates_g: 60.5
+  fat_g: 6.2
+  fiber_g: 5.9
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

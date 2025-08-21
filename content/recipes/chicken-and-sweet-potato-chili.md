@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "Chicken and Sweet Potato Chili"
 date: "2025-08-21T10:44:26.930192"
 type: "recipe"
@@ -27,7 +29,15 @@ steps:
   - "In a Dutch oven, sauté onion and garlic in oil until tender. Add chicken, 2 cans broth and seasonings. Bring to a boil. Reduce heat; cover and simmer for 1 hour or until chicken is tender. Meanwhile, in a small saucepan, bring remaining broth to a boil, then add quinoa. Reduce heat; cover and simmer for 12-15 minutes or until liquid is absorbed. Remove from the heat; fluff with a fork. Set aside."
   - "Remove chicken; cool slightly. Strain broth, reserving vegetables; skim fat from broth. Return vegetables and broth to the Dutch oven; add the sweet potatoes, beans, tomatoes, and cooked quinoa. Bring to a boil. Reduce heat; simmer for 15-20 minutes or until sweet potatoes are tender. Meanwhile, remove chicken from bones, cut into bite-size pieces. Discard bones. Stir chicken into chili, heat through."
 allergens:
-  - 
+  -
+nutrition:
+  calories: 48.2
+  protein_g: 4.2
+  carbohydrates_g: 7.4
+  fat_g: 10.3
+  fiber_g: 4.0
+  sugar_g: 0.7
+  servings: 10
 ---
 
 {{< recipe-meta >}}

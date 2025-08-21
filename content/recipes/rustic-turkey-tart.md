@@ -1,5 +1,6 @@
 ---
 
+
 title: "Rustic Turkey Tart"
 date: "2025-08-21T10:44:26.930858"
 type: "recipe"
@@ -20,6 +21,14 @@ ingredients:
 notes: "Pillsbury Jus Unroll! Pie Crust is the test kitchen's favorite brand of prepared pie dough."
 allergens:
   - "dairy"
+nutrition:
+  calories: 9.5
+  protein_g: 15.6
+  carbohydrates_g: 18.9
+  fat_g: 26.5
+  fiber_g: 2.2
+  sugar_g: 0.0
+  servings: 6
 ---
 
 {{< recipe-meta >}}

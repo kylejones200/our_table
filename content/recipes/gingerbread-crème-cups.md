@@ -1,5 +1,6 @@
 ---
 
+
 title: "Gingerbread Crème Cups"
 date: "2025-08-21T10:44:26.923327"
 type: "recipe"
@@ -21,6 +22,14 @@ notes: "If you are really short on time, skip the homemade creme filling and pip
 allergens:
   - "dairy"
   - "gluten"
+nutrition:
+  calories: 32.5
+  protein_g: 0.9
+  carbohydrates_g: 4.9
+  fat_g: 1.6
+  fiber_g: 0.0
+  sugar_g: 0.5
+  servings: 24
 ---
 
 {{< recipe-meta >}}

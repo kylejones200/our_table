@@ -1,5 +1,6 @@
 ---
 
+
 title: "Walnut-Cheese Spinach Salad"
 date: "2025-08-21T10:44:26.941258"
 type: "recipe"
@@ -20,6 +21,14 @@ ingredients:
   - "1/2 cup chopped walnuts"
 allergens:
   - "dairy"
+nutrition:
+  calories: 114.5
+  protein_g: 6.8
+  carbohydrates_g: 37.5
+  fat_g: 5.2
+  fiber_g: 1.4
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

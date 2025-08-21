@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Angel Biscuits"
 date: "2025-08-21T10:44:26.939404"
 type: "recipe"
@@ -29,6 +30,8 @@ nutrition:
   fiber_g: 3.4
   sugar_g: 0.4
   servings: 4
+image: "https://images.unsplash.com/photo-1700957710668-394d25a4a5f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxhbmdlbCUyMGJpc2N1aXRzJTIwZm9vZHxlbnwxfDB8fHwxNzU1ODA0NTg3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Fernando Dantas on Unsplash"
 ---
 
 {{< recipe-meta >}}

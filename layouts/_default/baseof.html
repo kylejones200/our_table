@@ -153,6 +153,7 @@
                 <ul class="nav-links">
                     <li><a href="{{ .Site.BaseURL }}">Home</a></li>
                     <li><a href="/recipes/">Recipes</a></li>
+                    <li><a href="/bulk-prep/">Bulk Prep</a></li>
                     <li><a href="/shopping-list/">Shopping List</a></li>
                 </ul>
             </nav>
@@ -168,5 +169,8 @@
             <p>&copy; {{ now.Format "2006" }} {{ .Site.Params.author }}. All rights reserved.</p>
         </div>
     </footer>
+    
+    <!-- Allergen Filter JavaScript -->
+    <script src="/js/allergen-filter.js"></script>
 </body>
 </html>

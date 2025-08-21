@@ -1,5 +1,6 @@
 ---
 
+
 title: "Sausage Muffins"
 date: "2025-08-21T10:44:26.946183"
 type: "recipe"
@@ -26,6 +27,14 @@ allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+nutrition:
+  calories: 388.8
+  protein_g: 19.4
+  carbohydrates_g: 64.7
+  fat_g: 44.5
+  fiber_g: 3.0
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

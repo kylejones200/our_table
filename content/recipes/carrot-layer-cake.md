@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Carrot Layer Cake"
 date: "2025-08-21T10:44:26.949477"
 type: "recipe"
@@ -42,6 +43,8 @@ allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+image: "https://images.unsplash.com/photo-1602095459485-3dc39c9b79f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjYXJyb3QlMjBsYXllciUyMGNha2UlMjBmb29kfGVufDF8MHx8fDE3NTU4MDQ1NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Logan Clark on Unsplash"
 ---
 
 {{< recipe-meta >}}

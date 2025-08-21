@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "Amaretto Custard with Raspberries"
 date: "2025-08-21T10:44:26.950151"
 type: "recipe"
@@ -16,6 +18,14 @@ ingredients:
 allergens:
   - "dairy"
   - "eggs"
+nutrition:
+  calories: 159.8
+  protein_g: 2.1
+  carbohydrates_g: 32.4
+  fat_g: 2.9
+  fiber_g: 0.4
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

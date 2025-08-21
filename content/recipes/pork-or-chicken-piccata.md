@@ -1,5 +1,6 @@
 ---
 
+
 title: "Pork or Chicken Piccata"
 date: "2025-08-21T10:44:26.948322"
 type: "recipe"
@@ -23,6 +24,14 @@ ingredients:
 allergens:
   - "dairy"
   - "gluten"
+nutrition:
+  calories: 106.8
+  protein_g: 19.1
+  carbohydrates_g: 29.3
+  fat_g: 37.9
+  fiber_g: 3.9
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

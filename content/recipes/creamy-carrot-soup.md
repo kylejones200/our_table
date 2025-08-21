@@ -1,5 +1,6 @@
 ---
 
+
 title: "Creamy Carrot Soup"
 date: "2025-08-21T10:44:26.933321"
 type: "recipe"
@@ -24,6 +25,14 @@ steps:
   - "Return all to the saucepan; add cream, rosemary, salt and pepper. Cook over low heat until heated through."
 allergens:
   - "dairy"
+nutrition:
+  calories: 20.7
+  protein_g: 7.7
+  carbohydrates_g: 12.0
+  fat_g: 16.2
+  fiber_g: 3.1
+  sugar_g: 0.3
+  servings: 6
 ---
 
 {{< recipe-meta >}}

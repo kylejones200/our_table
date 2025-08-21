@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "Stuffed Gouda Cheese"
 date: "2025-08-21T10:44:26.945702"
 type: "recipe"
@@ -19,6 +21,14 @@ steps:
 allergens:
   - "dairy"
   - "gluten"
+nutrition:
+  calories: 351.0
+  protein_g: 10.8
+  carbohydrates_g: 24.4
+  fat_g: 39.6
+  fiber_g: 3.5
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

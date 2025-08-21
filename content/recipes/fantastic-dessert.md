@@ -1,5 +1,6 @@
 ---
 
+
 title: "Fantastic Dessert"
 date: "2025-08-21T10:44:26.935908"
 type: "recipe"
@@ -16,6 +17,14 @@ ingredients:
 allergens:
   - "dairy"
   - "gluten"
+nutrition:
+  calories: 32.1
+  protein_g: 1.8
+  carbohydrates_g: 15.6
+  fat_g: 13.1
+  fiber_g: 0.7
+  sugar_g: 0.0
+  servings: 12
 --- Second part ---"
   - "1/2 lb. cream cheese, softened"
   - "1 cup Cool Whip"

@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Fresh Apple Cake"
 date: "2025-08-21T10:44:26.943257"
 type: "recipe"
@@ -32,6 +33,8 @@ nutrition:
   fiber_g: 1.6
   sugar_g: 6.7
   servings: 4
+image: "https://images.unsplash.com/photo-1508736375612-66c03035c629?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxmcmVzaCUyMGFwcGxlJTIwY2FrZSUyMGZvb2QlMjBjYWtlfGVufDF8MHx8fDE3NTU4MDQ1NzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Allen Rad on Unsplash"
 --- Icing ---"
   - "2 cups powdered sugar"
   - "4 oz. cream cheese"

@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Fresh Broccoli Soup"
 date: "2025-08-21T10:44:26.946856"
 type: "recipe"
@@ -38,6 +39,8 @@ nutrition:
   fiber_g: 4.9
   sugar_g: 0.0
   servings: 4
+image: "https://images.unsplash.com/photo-1577467566380-b95430c7ddf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxmcmVzaCUyMGJyb2Njb2xpJTIwc291cCUyMGZvb2QlMjBzb3VwfGVufDF8MHx8fDE3NTU4MDQ2MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Louis Hansel on Unsplash"
 ---
 
 {{< recipe-meta >}}

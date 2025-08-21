@@ -1,4 +1,6 @@
 ---
+
+
 title: "Chicken Breasts with Plum Salsa and Basmati Rice"
 date: "2025-08-21T10:44:26.924925"
 type: "recipe"
@@ -29,7 +31,17 @@ steps:
   - "Serve sliced chicken over basmati rice topped with plum salsa."
 notes: "Skinless chicken breasts are seasoned with rosemary and pan-fried, then served over basmati rice with a unique, sweet and spicy plum and habanero salsa. Pair with green beans and toasted pine nuts."
 allergens:
-  - 
+  -
+nutrition:
+  calories: 113.0
+  protein_g: 15.8
+  carbohydrates_g: 41.3
+  fat_g: 11.1
+  fiber_g: 2.9
+  sugar_g: 0.2
+  servings: 4
+image: "https://images.unsplash.com/photo-1646809156467-6e825869b29f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwYnJlYXN0cyUyMHdpdGglMjBwbHVtJTIwc2Fsc2ElMjBhbmQlMjBiYXNtYXRpJTIwcmljZSUyMGZvb2QlMjBtYWluJTIwY291cnNlfGVufDF8MHx8fDE3NTU4MDE1MjV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Dary Lam on Unsplash"
 ---
 
 {{< recipe-meta >}}

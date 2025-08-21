@@ -1,0 +1,164 @@
+{{/* Recipe Recommendations Partial */}}
+{{ $recommendations := .recommendations }}
+
+{{ if $recommendations }}
+<div class="recipe-recommendations">
+  <h3>🍽️ If you liked this recipe, you might also like...</h3>
+  <div class="recommendations-grid">
+    {{ range $recommendations }}
+    <div class="recommendation-card">
+      <a href="/recipes/{{ .slug }}/" class="recommendation-link">
+        <div class="recommendation-content">
+          <h4>{{ .title }}</h4>
+          {{ if .categories }}
+          <div class="recommendation-categories">
+            {{ range .categories }}
+            <span class="category-tag">{{ . }}</span>
+            {{ end }}
+          </div>
+          {{ end }}
+          <div class="similarity-score">
+            <span class="score-label">Similarity:</span>
+            <div class="score-bar">
+              <div class="score-fill" data-width="{{ mul .score 100 | printf "%.0f" }}"></div>
+            </div>
+            <span class="score-value">{{ mul .score 100 | printf "%.0f" }}%</span>
+          </div>
+        </div>
+      </a>
+    </div>
+    {{ end }}
+  </div>
+</div>
+
+<style>
+.recipe-recommendations {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-radius: 12px;
+  border-left: 4px solid #28a745;
+}
+
+.recipe-recommendations h3 {
+  margin: 0 0 1rem 0;
+  color: #2c3e50;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.recommendations-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+.recommendation-card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  overflow: hidden;
+}
+
+.recommendation-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.recommendation-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.recommendation-content {
+  padding: 1rem;
+}
+
+.recommendation-content h4 {
+  margin: 0 0 0.5rem 0;
+  color: #2c3e50;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.recommendation-categories {
+  margin-bottom: 0.75rem;
+}
+
+.category-tag {
+  display: inline-block;
+  background: #e3f2fd;
+  color: #1976d2;
+  padding: 0.2rem 0.5rem;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  margin-right: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.similarity-score {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+}
+
+.score-label {
+  color: #6c757d;
+  font-weight: 500;
+  min-width: 60px;
+}
+
+.score-bar {
+  flex: 1;
+  height: 6px;
+  background: #e9ecef;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.score-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #28a745 0%, #20c997 100%);
+  transition: width 0.3s ease;
+  width: 0%;
+}
+
+.score-value {
+  color: #28a745;
+  font-weight: 600;
+  min-width: 35px;
+  text-align: right;
+}
+
+@media (max-width: 768px) {
+  .recommendations-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .recipe-recommendations {
+    margin: 1rem 0;
+    padding: 1rem;
+  }
+}
+</style>
+
+<script>
+// Set width for score bars after page load
+document.addEventListener('DOMContentLoaded', function() {
+  const scoreFills = document.querySelectorAll('.score-fill');
+  scoreFills.forEach(function(fill) {
+    const width = fill.getAttribute('data-width');
+    if (width) {
+      setTimeout(function() {
+        fill.style.width = width + '%';
+      }, 100);
+    }
+  });
+});
+</script>
+{{ end }}

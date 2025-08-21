@@ -1,5 +1,6 @@
 ---
 
+
 title: "MEXICAN LASAGNA"
 date: "2025-08-21T10:44:26.937199"
 type: "recipe"
@@ -18,6 +19,14 @@ ingredients:
 
 allergens:
   - "dairy"
+nutrition:
+  calories: 89.5
+  protein_g: 4.8
+  carbohydrates_g: 10.5
+  fat_g: 7.4
+  fiber_g: 2.7
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

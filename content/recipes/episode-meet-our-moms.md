@@ -1,5 +1,6 @@
 ---
 
+
 title: "Episode: Meet Our Moms"
 date: "2025-08-21T10:44:26.951771"
 type: "recipe"
@@ -26,6 +27,14 @@ steps:
 notes: "Recipe adapted from The New York Times Cookbook, Craig Claiborne, Harper/Rowe, 1961"
 allergens:
   - "fish"
+nutrition:
+  calories: 20.8
+  protein_g: 8.3
+  carbohydrates_g: 18.2
+  fat_g: 5.5
+  fiber_g: 2.3
+  sugar_g: 0.6
+  servings: 4
 ---
 
 {{< recipe-meta >}}

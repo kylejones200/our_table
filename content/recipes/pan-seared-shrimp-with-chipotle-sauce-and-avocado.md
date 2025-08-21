@@ -2,6 +2,7 @@
 
 
 
+
 title: "Pan-Seared Shrimp with Chipotle Sauce and Avocado"
 date: "2025-08-21T10:44:26.926136"
 type: "recipe"
@@ -35,10 +36,10 @@ nutrition:
   fiber_g: 6.6
   sugar_g: 0.5
   servings: 2
-image: "https://images.unsplash.com/photo-1632660345494-9cc2607f89c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxwYW4tc2VhcmVkJTIwc2hyaW1wJTIwd2l0aCUyMGNoaXBvdGxlJTIwc2F1Y2UlMjBhbmQlMjBhdm9jYWRvJTIwZm9vZCUyMGVudHJlZXxlbnwxfDB8fHwxNzU1Nzk1OTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-image_credit: "Photo by Advocator SY on Unsplash"
 allergens:
   - "shellfish"
+image: "https://images.unsplash.com/photo-1632660345494-9cc2607f89c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxwYW4tc2VhcmVkJTIwc2hyaW1wJTIwd2l0aCUyMGNoaXBvdGxlJTIwc2F1Y2UlMjBhbmQlMjBhdm9jYWRvJTIwZm9vZCUyMGVudHJlZXxlbnwxfDB8fHwxNzU1Nzk1OTMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Advocator SY on Unsplash"
 ---
 
 {{< recipe-meta >}}

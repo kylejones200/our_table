@@ -1,5 +1,6 @@
 ---
 
+
 title: "Sunseed Bread"
 date: "2025-08-21T10:44:26.942883"
 type: "recipe"
@@ -23,9 +24,17 @@ ingredients:
   - "minutes. During last rising time, preheat oven to 400 degrees."
   - "50 minutes."
 steps:
-  - "Place loaves in oven and immediately turn to 350 degrees. Bake for"
+  - "Bake loaves in oven at350 degrees for 50 minutes."
 allergens:
   - "gluten"
+nutrition:
+  calories: 244.5
+  protein_g: 27.2
+  carbohydrates_g: 100.9
+  fat_g: 66.5
+  fiber_g: 8.3
+  sugar_g: 41.9
+  servings: 2
 ---
 
 {{< recipe-meta >}}

@@ -11,6 +11,7 @@
 
 
 
+
 title: "Layered Peach Dessert"
 date: "2025-08-21T10:44:26.949401"
 type: "recipe"
@@ -43,12 +44,12 @@ nutrition:
   fiber_g: 4.2
   sugar_g: 0.0
   servings: 4
-image: "https://images.unsplash.com/photo-1545873957-c71fc027ac2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxsYXllcmVkJTIwcGVhY2glMjBkZXNzZXJ0JTIwZm9vZCUyMGRlc3NlcnR8ZW58MXwwfHx8MTc1NTc5NTc5NXww&ixlib=rb-4.1.0&q=80&w=1080"
-image_credit: "Photo by Nicholas Goh on Unsplash"
 allergens:
   - "dairy"
   - "gluten"
   - "nuts"
+image: "https://images.unsplash.com/photo-1545873957-c71fc027ac2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxsYXllcmVkJTIwcGVhY2glMjBkZXNzZXJ0JTIwZm9vZCUyMGRlc3NlcnR8ZW58MXwwfHx8MTc1NTc5NTc5NXww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Nicholas Goh on Unsplash"
 ---
 
 {{< recipe-meta >}}

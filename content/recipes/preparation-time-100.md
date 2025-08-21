@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "Preparation Time :1:00"
 date: "2025-08-21T10:44:26.941053"
 type: "recipe"
@@ -29,6 +31,14 @@ allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+nutrition:
+  calories: 336.0
+  protein_g: 1.9
+  carbohydrates_g: 44.7
+  fat_g: 44.4
+  fiber_g: 0.1
+  sugar_g: 0.0
+  servings: 6
 ---
 
 {{< recipe-meta >}}

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Broccoli Salad"
 date: "2025-08-21T10:44:26.939578"
 type: "recipe"
@@ -21,6 +22,14 @@ steps:
   - "Mix and chill."
 allergens:
   - "eggs"
+nutrition:
+  calories: 65.5
+  protein_g: 3.2
+  carbohydrates_g: 9.2
+  fat_g: 5.2
+  fiber_g: 0.6
+  sugar_g: 1.0
+  servings: 20
 ---
 
 {{< recipe-meta >}}

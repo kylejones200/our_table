@@ -1,5 +1,6 @@
 ---
 
+
 title: "Sweet and Crunchy Salad"
 date: "2025-08-21T10:44:26.925536"
 type: "recipe"
@@ -25,6 +26,14 @@ steps:
   - "Pour dressing over salad and toss to coat evenly. Refrigerate for 2 to 4 hours. note: You can add chicken."
 allergens:
   - "gluten"
+nutrition:
+  calories: 243.2
+  protein_g: 35.0
+  carbohydrates_g: 37.6
+  fat_g: 14.5
+  fiber_g: 1.8
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

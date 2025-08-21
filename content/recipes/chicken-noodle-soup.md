@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "Chicken Noodle Soup"
 date: "2025-08-21T10:44:26.938705"
 type: "recipe"
@@ -21,7 +23,15 @@ steps:
   - "cut into bite-sized pieces. Bring broth to boil, add homemade noodles, stirring occasionally. Cook 15 minutes. Add chicken and"
   - "serve."
 allergens:
-  - 
+  -
+nutrition:
+  calories: 5.5
+  protein_g: 2.5
+  carbohydrates_g: 2.2
+  fat_g: 11.2
+  fiber_g: 0.4
+  sugar_g: 0.0
+  servings: 8
 ---
 
 {{< recipe-meta >}}

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Mediterranean Couscous"
 date: "2025-08-21T10:44:26.927871"
 type: "recipe"
@@ -28,6 +29,14 @@ steps:
 allergens:
   - "dairy"
   - "gluten"
+nutrition:
+  calories: 69.0
+  protein_g: 7.5
+  carbohydrates_g: 19.2
+  fat_g: 17.6
+  fiber_g: 2.3
+  sugar_g: 0.0
+  servings: 6
 ---
 
 {{< recipe-meta >}}

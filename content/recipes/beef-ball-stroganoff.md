@@ -1,5 +1,6 @@
 ---
 
+
 title: "Beef Ball Stroganoff"
 date: "2025-08-21T10:44:26.943081"
 type: "recipe"
@@ -28,6 +29,14 @@ allergens:
   - "gluten"
 steps:
   - "Brown meatballs in 2 Tbsp butter. Reduce heat, cover, and simmer 8 minutes. Remove meatballs from pan. In pan, sauté onions and mushrooms for 3 minutes. Stir in meat extract paste, catsup, and flour. Gradually stir in beef broth. Add meatballs and simmer 5 minutes. Stir in sour cream and simmer 3 minutes. Serve over rice or noodles. Can also leave out egg, and bread crumbs – don't make meatballs. Brown ground beef, seasoning and onion. Add mushrooms, flour, steak sauce, paste, dill weed, and catsup. Gradually stir in beef broth. Bring to boil. Reduce heat and stir in sour cream. Simmer 3 minutes. Serve over rice or noodles, or cook noodles, mix together and place in casserole and bake for 30 minutes at 350°"
+nutrition:
+  calories: 95.2
+  protein_g: 15.4
+  carbohydrates_g: 17.1
+  fat_g: 27.7
+  fiber_g: 1.6
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

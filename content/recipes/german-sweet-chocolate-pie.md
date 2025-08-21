@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "German Sweet Chocolate Pie"
 date: "2025-08-21T10:44:26.951159"
 type: "recipe"
@@ -30,6 +31,8 @@ nutrition:
   fiber_g: 1.1
   sugar_g: 0.0
   servings: 4
+image: "https://images.unsplash.com/photo-1546896687-bb1645078119?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxnZXJtYW4lMjBzd2VldCUyMGNob2NvbGF0ZSUyMHBpZSUyMGZvb2QlMjBwaWV8ZW58MXwwfHx8MTc1NTgwNDU2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Kara Eads on Unsplash"
 ---
 
 {{< recipe-meta >}}

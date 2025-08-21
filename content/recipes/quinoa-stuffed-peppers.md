@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Quinoa-Stuffed Peppers"
 date: "2025-08-21T10:44:26.931572"
 type: "recipe"
@@ -32,6 +33,8 @@ nutrition:
   servings: 4
 allergens:
   - "dairy"
+image: "https://images.unsplash.com/photo-1739595415308-ba632ebfbfe2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxxdWlub2Etc3R1ZmZlZCUyMHBlcHBlcnMlMjBmb29kfGVufDF8MHx8fDE3NTU4MDQ1NjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Khanh Nguyen on Unsplash"
 ---
 
 {{< recipe-meta >}}

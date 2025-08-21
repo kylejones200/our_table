@@ -1,5 +1,6 @@
 ---
 
+
 title: "Chicken Casserole"
 date: "2025-08-21T10:44:26.938055"
 type: "recipe"
@@ -24,6 +25,14 @@ steps:
 allergens:
   - "dairy"
   - "gluten"
+nutrition:
+  calories: 73.2
+  protein_g: 8.1
+  carbohydrates_g: 22.4
+  fat_g: 25.9
+  fiber_g: 3.8
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Hearts of Palm Salad"
 date: "2025-08-21T10:44:26.952868"
 type: "recipe"
@@ -29,6 +30,8 @@ nutrition:
   servings: 4
 allergens:
   - "eggs"
+image: "https://images.unsplash.com/photo-1722032617357-7b09276b1a8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxoZWFydHMlMjBvZiUyMHBhbG0lMjBzYWxhZCUyMGZvb2QlMjBzYWxhZHxlbnwxfDB8fHwxNzU1ODA0NTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by KODO Tenco on Unsplash"
 ---
 
 {{< recipe-meta >}}

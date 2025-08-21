@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "Hamburger Stroganoff"
 date: "2025-08-21T10:44:26.937960"
 type: "recipe"
@@ -24,6 +26,14 @@ steps:
 allergens:
   - "dairy"
   - "gluten"
+nutrition:
+  calories: 143.2
+  protein_g: 11.9
+  carbohydrates_g: 60.7
+  fat_g: 7.9
+  fiber_g: 3.4
+  sugar_g: 10.8
+  servings: 4
 ---
 
 {{< recipe-meta >}}

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Cauliflower soup with pear chips"
 date: "2025-08-21T10:44:26.928729"
 type: "recipe"
@@ -20,6 +21,14 @@ allergens:
 steps:
   - "Heat 2 Tbsp of butter in a large Dutch oven. Sauté a large onion (chopped) until clear and soft but not browned about 5 minutes. Add in spices (Bay leaf, pepper, salt, garlic) cook for one minute. Add in 4 cups of chicken broth and one cup of water. Bring to boil. Add in one head of cauliflower (chopped) and one potato (pealed and diced). Bring to simmer, cover and cook for 15 minutes. Remove from heat and put batchers into a blender to puree until smooth. Soup can be made up to two days in advance."
   - "Slice Bosc pear into 1/8 in strips. Combine paprika and cinnamon and sprinkle over pear slices. Place on parchment paper in a single layer. Put into 275 degree oven for 45 minutes or until slices are dried. Remove from heat and allow to cool."
+nutrition:
+  calories: 14.2
+  protein_g: 10.9
+  carbohydrates_g: 12.4
+  fat_g: 24.1
+  fiber_g: 3.9
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

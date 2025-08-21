@@ -2,6 +2,7 @@
 
 
 
+
 title: "Biscoff White Chocolate Oatmeal Cookies"
 date: "2025-08-21T10:44:26.922964"
 type: "recipe"
@@ -37,12 +38,12 @@ nutrition:
   fiber_g: 1.2
   sugar_g: 0.7
   servings: 18
-image: "https://images.unsplash.com/photo-1671915768480-66538c18eb1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxiaXNjb2ZmJTIwd2hpdGUlMjBjaG9jb2xhdGUlMjBvYXRtZWFsJTIwY29va2llcyUyMGZvb2QlMjBjb29raWV8ZW58MXwwfHx8MTc1NTc5NTg3OHww&ixlib=rb-4.1.0&q=80&w=1080"
-image_credit: "Photo by Vladislav Igumnov on Unsplash"
 allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+image: "https://images.unsplash.com/photo-1671915768480-66538c18eb1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxiaXNjb2ZmJTIwd2hpdGUlMjBjaG9jb2xhdGUlMjBvYXRtZWFsJTIwY29va2llcyUyMGZvb2QlMjBjb29raWV8ZW58MXwwfHx8MTc1NTc5NTg3OHww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Vladislav Igumnov on Unsplash"
 ---
 
 {{< recipe-meta >}}

@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Microwave Hopscotch Crunchies"
 date: "2025-08-21T10:44:26.942154"
 type: "recipe"
@@ -28,6 +29,8 @@ nutrition:
   fiber_g: 6.5
   sugar_g: 69.0
   servings: 2
+image: "https://images.unsplash.com/photo-1621423828877-f6afc6fafa90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxtaWNyb3dhdmUlMjBob3BzY290Y2glMjBjcnVuY2hpZXMlMjBmb29kJTIwZGVzc2VydHxlbnwxfDB8fHwxNzU1ODA0NjE4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Yu Jinyang on Unsplash"
 ---
 
 {{< recipe-meta >}}

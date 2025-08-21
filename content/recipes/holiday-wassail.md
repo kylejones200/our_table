@@ -1,5 +1,6 @@
 ---
 
+
 title: "Holiday Wassail"
 date: "2025-08-21T10:44:26.944615"
 type: "recipe"
@@ -19,7 +20,15 @@ ingredients:
 steps:
   - "Combine in Dutch oven - bring to boil. Reduce heat simmer 15 minutes. STRAIN & DISCARD SPICES!!!"
 allergens:
-  - 
+  -
+nutrition:
+  calories: 134.2
+  protein_g: 3.6
+  carbohydrates_g: 47.0
+  fat_g: 26.2
+  fiber_g: 15.0
+  sugar_g: 3.9
+  servings: 4
 ---
 
 {{< recipe-meta >}}

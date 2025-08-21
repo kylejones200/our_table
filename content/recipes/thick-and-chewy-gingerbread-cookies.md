@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Thick and Chewy Gingerbread Cookies"
 date: "2025-08-21T10:44:26.932600"
 type: "recipe"
@@ -34,6 +35,8 @@ nutrition:
   fiber_g: 2.1
   sugar_g: 0.9
   servings: 20
+image: "https://images.unsplash.com/photo-1671823093085-42310261dc2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHx0aGljayUyMGFuZCUyMGNoZXd5JTIwZ2luZ2VyYnJlYWQlMjBjb29raWVzJTIwZm9vZHxlbnwxfDB8fHwxNzU1ODA0NjE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Evgeny Matveev on Unsplash"
 ---
 
 {{< recipe-meta >}}

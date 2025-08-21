@@ -1,5 +1,6 @@
 ---
 
+
 title: "Lavender Cookies"
 date: "2025-08-21T10:44:26.934290"
 type: "recipe"
@@ -29,6 +30,14 @@ allergens:
   - "eggs"
   - "gluten"
   - "nuts"
+nutrition:
+  calories: 253.2
+  protein_g: 19.9
+  carbohydrates_g: 69.8
+  fat_g: 27.2
+  fiber_g: 6.0
+  sugar_g: 3.2
+  servings: 4
 ---
 
 {{< recipe-meta >}}

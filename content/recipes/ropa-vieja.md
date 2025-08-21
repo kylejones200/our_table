@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Ropa Vieja"
 date: "2025-08-21T10:44:26.928994"
 type: "recipe"
@@ -29,7 +30,9 @@ nutrition:
   sugar_g: 5.2
   servings: 4
 allergens:
-  - 
+  -
+image: "https://images.unsplash.com/photo-1640718367221-6235c0007bdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxyb3BhJTIwdmllamElMjBmb29kfGVufDF8MHx8fDE3NTU4MDQ1NTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Mary West on Unsplash"
 ---
 
 {{< recipe-meta >}}

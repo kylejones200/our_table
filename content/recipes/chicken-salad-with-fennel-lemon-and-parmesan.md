@@ -1,5 +1,6 @@
 ---
 
+
 title: "Chicken Salad with Fennel, Lemon, and Parmesan"
 date: "2025-08-21T10:44:26.931749"
 type: "recipe"
@@ -15,6 +16,14 @@ ingredients:
 allergens:
   - "dairy"
   - "eggs"
+nutrition:
+  calories: 233.7
+  protein_g: 10.5
+  carbohydrates_g: 14.0
+  fat_g: 15.7
+  fiber_g: 0.2
+  sugar_g: 2.0
+  servings: 3
 ---
 
 {{< recipe-meta >}}

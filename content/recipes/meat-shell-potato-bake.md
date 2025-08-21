@@ -1,5 +1,6 @@
 ---
 
+
 title: "MEAT SHELL POTATO BAKE"
 date: "2025-08-21T10:44:26.937891"
 type: "recipe"
@@ -23,6 +24,14 @@ allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+nutrition:
+  calories: 103.2
+  protein_g: 13.5
+  carbohydrates_g: 28.1
+  fat_g: 32.7
+  fiber_g: 2.9
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

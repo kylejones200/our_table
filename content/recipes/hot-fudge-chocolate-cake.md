@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Hot Fudge Chocolate Cake"
 date: "2025-08-21T10:44:26.951090"
 type: "recipe"
@@ -34,6 +35,8 @@ nutrition:
   fiber_g: 1.2
   sugar_g: 3.2
   servings: 4
+image: "https://images.unsplash.com/photo-1645805740318-31bb7604ffd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxob3QlMjBmdWRnZSUyMGNob2NvbGF0ZSUyMGNha2UlMjBmb29kJTIwY2FrZXxlbnwxfDB8fHwxNzU1ODA0NjAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Richard Bell on Unsplash"
 ---
 
 {{< recipe-meta >}}

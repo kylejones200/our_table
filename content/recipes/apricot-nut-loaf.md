@@ -2,6 +2,7 @@
 
 
 
+
 title: "APRICOT NUT LOAF"
 date: "2025-08-21T10:44:26.942955"
 type: "recipe"
@@ -30,11 +31,11 @@ nutrition:
   fiber_g: 9.4
   sugar_g: 0.0
   servings: 1
-image: "https://images.unsplash.com/photo-1651961741075-15901a3ad407?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxhcHJpY290JTIwbnV0JTIwbG9hZiUyMGZvb2R8ZW58MXwwfHx8MTc1NTc5NTg4Mnww&ixlib=rb-4.1.0&q=80&w=1080"
-image_credit: "Photo by Rebekah Vos on Unsplash"
 allergens:
   - "eggs"
   - "nuts"
+image: "https://images.unsplash.com/photo-1651961741075-15901a3ad407?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxhcHJpY290JTIwbnV0JTIwbG9hZiUyMGZvb2R8ZW58MXwwfHx8MTc1NTc5NTg4Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Rebekah Vos on Unsplash"
 ---
 
 {{< recipe-meta >}}

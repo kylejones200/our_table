@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "Corn and Lima Bean Medley"
 date: "2025-08-21T10:44:26.927803"
 type: "recipe"
@@ -25,6 +27,14 @@ steps:
 notes: "Because it uses nonfat evaporated milk rather than cream, this quick version of New England succotash has less fat than traditional recipes. It is one of the rare vegetable dishes that you can make ahead and reheat, using a double boiler, without loss of taste or texture."
 allergens:
   - "dairy"
+nutrition:
+  calories: 139.5
+  protein_g: 1.8
+  carbohydrates_g: 37.9
+  fat_g: 0.5
+  fiber_g: 1.2
+  sugar_g: 0.0
+  servings: 6
 ---
 
 {{< recipe-meta >}}

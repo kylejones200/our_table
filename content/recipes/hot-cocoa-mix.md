@@ -1,5 +1,6 @@
 ---
 
+
 title: "Hot Cocoa Mix"
 date: "2025-08-21T10:44:26.945775"
 type: "recipe"
@@ -15,6 +16,14 @@ ingredients:
   - "2 lbs powdered sugar"
 allergens:
   - "dairy"
+nutrition:
+  calories: 243.8
+  protein_g: 5.9
+  carbohydrates_g: 46.2
+  fat_g: 4.9
+  fiber_g: 2.4
+  sugar_g: 2.7
+  servings: 4
 --- 1/2 recipe ---"
   - "11 1/3 cups powdered milk"
   - "1/2 jar Coffee Mate"

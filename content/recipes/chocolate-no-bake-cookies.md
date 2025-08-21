@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "Chocolate No Bake Cookies"
 date: "2025-08-21T10:44:26.950395"
 type: "recipe"
@@ -21,6 +23,14 @@ allergens:
   - "dairy"
   - "gluten"
   - "nuts"
+nutrition:
+  calories: 356.5
+  protein_g: 11.2
+  carbohydrates_g: 49.8
+  fat_g: 62.3
+  fiber_g: 4.2
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

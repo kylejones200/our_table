@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Rosemary Lamb and White Beans"
 date: "2025-08-21T10:44:26.928009"
 type: "recipe"
@@ -25,7 +26,9 @@ nutrition:
   sugar_g: 0.0
   servings: 6
 allergens:
-  - 
+  -
+image: "https://images.unsplash.com/photo-1719495953460-acd0f93b2577?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxyb3NlbWFyeSUyMGxhbWIlMjBhbmQlMjB3aGl0ZSUyMGJlYW5zJTIwZm9vZCUyMGxhbWJ8ZW58MXwwfHx8MTc1NTgwNDU1N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Ries Bosch on Unsplash"
 --- Beans ---"
   - "41/2 cups (2lb/1 kg) canned white beans, rinsed and drained"
   - "11/2 cups (9 oz/280 g) diced fresh tomatoes or canned diced tomatoes, drained"

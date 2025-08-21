@@ -2,6 +2,7 @@
 
 
 
+
 title: "Chocolate Chiffon Fudge Cookies"
 date: "2025-08-21T10:44:26.922642"
 type: "recipe"
@@ -32,10 +33,10 @@ nutrition:
   fiber_g: 0.0
   sugar_g: 0.0
   servings: 24
-image: "https://images.unsplash.com/photo-1629750413458-90c737a1c57b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjaG9jb2xhdGUlMjBjaGlmZm9uJTIwZnVkZ2UlMjBjb29raWVzJTIwZm9vZCUyMGNvb2tpZXxlbnwxfDB8fHwxNzU1Nzk1ODkwfDA&ixlib=rb-4.1.0&q=80&w=1080"
-image_credit: "Photo by Karolina Bobek on Unsplash"
 allergens:
   - "eggs"
+image: "https://images.unsplash.com/photo-1629750413458-90c737a1c57b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjaG9jb2xhdGUlMjBjaGlmZm9uJTIwZnVkZ2UlMjBjb29raWVzJTIwZm9vZCUyMGNvb2tpZXxlbnwxfDB8fHwxNzU1Nzk1ODkwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Karolina Bobek on Unsplash"
 ---
 
 {{< recipe-meta >}}

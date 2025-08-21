@@ -2,6 +2,7 @@
 
 
 
+
 title: "Sesame Noodles with Salmon"
 date: "2025-08-21T10:44:26.931242"
 type: "recipe"
@@ -37,13 +38,13 @@ nutrition:
   fiber_g: 7.1
   sugar_g: 0.0
   servings: 4
-image: "https://images.unsplash.com/photo-1600363472151-75817ac26205?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxzZXNhbWUlMjBub29kbGVzJTIwd2l0aCUyMHNhbG1vbiUyMGZvb2R8ZW58MXwwfHx8MTc1NTc5NTkyMXww&ixlib=rb-4.1.0&q=80&w=1080"
-image_credit: "Photo by Jason Leung on Unsplash"
 allergens:
   - "dairy"
   - "fish"
   - "gluten"
   - "soy"
+image: "https://images.unsplash.com/photo-1600363472151-75817ac26205?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxzZXNhbWUlMjBub29kbGVzJTIwd2l0aCUyMHNhbG1vbiUyMGZvb2R8ZW58MXwwfHx8MTc1NTc5NTkyMXww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Jason Leung on Unsplash"
 ---
 
 {{< recipe-meta >}}

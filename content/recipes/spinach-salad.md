@@ -1,4 +1,5 @@
 ---
+
 title: "Spinach Salad"
 date: "2025-08-21T10:44:26.940037"
 type: "recipe"
@@ -25,7 +26,15 @@ steps:
   - "Let dressing set several hours or overnight in the refrigerator to let flavors blend."
   - "Toss greens with dressing and sprinkle bacon and mushrooms over the top."
 allergens:
-  - 
+  -
+nutrition:
+  calories: 48.1
+  protein_g: 3.4
+  carbohydrates_g: 16.7
+  fat_g: 2.6
+  fiber_g: 0.6
+  sugar_g: 0.0
+  servings: 8
 ---
 
 {{< recipe-meta >}}

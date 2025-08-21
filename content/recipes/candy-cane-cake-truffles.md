@@ -1,4 +1,5 @@
 ---
+
 title: "Candy Cane Cake Truffles"
 date: "2025-08-21T10:44:26.924320"
 type: "recipe"
@@ -36,6 +37,8 @@ nutrition:
   fiber_g: 1.0
   sugar_g: 3.2
   servings: 4
+image: "https://images.unsplash.com/photo-1738932372100-ecb5ce8b559a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjYW5keSUyMGNhbmUlMjBjYWtlJTIwdHJ1ZmZsZXMlMjBmb29kJTIwZGVzc2VydHxlbnwxfDB8fHwxNzU1ODA0NTk1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Mohamed Marey on Unsplash"
 ---
 
 {{< recipe-meta >}}

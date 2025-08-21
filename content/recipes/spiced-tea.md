@@ -1,4 +1,6 @@
 ---
+
+
 title: "Spiced Tea"
 date: "2025-08-21T10:44:26.943023"
 type: "recipe"
@@ -22,10 +24,18 @@ steps:
   - "Combine water, orange juice, lemonade, lemon juice, sugar, nutmeg, cloves, and cinnamon in a large pot."
   - "Boil together for four minutes."
   - "Pour over 1 cup strong tea and serve hot."
-image: "https://images.unsplash.com/photo-1567475752413-9c5074c6db39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxzcGljZWQlMjB0ZWElMjBmb29kfGVufDF8MHx8fDE3NTU3OTU5MTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-image_credit: "Photo by allen lee on Unsplash"
 allergens:
-  - 
+  -
+nutrition:
+  calories: 395.0
+  protein_g: 2.1
+  carbohydrates_g: 45.2
+  fat_g: 49.1
+  fiber_g: 9.0
+  sugar_g: 0.6
+  servings: 4
+image: "https://images.unsplash.com/photo-1749215784680-a0bb6b7ac950?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxzcGljZWQlMjB0ZWElMjBmb29kJTIwYmV2ZXJhZ2V8ZW58MXwwfHx8MTc1NTgwMTU0Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Mildlee on Unsplash"
 ---
 
 {{< recipe-meta >}}

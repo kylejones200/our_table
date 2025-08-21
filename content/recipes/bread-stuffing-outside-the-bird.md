@@ -2,6 +2,7 @@
 
 
 
+
 title: "Bread Stuffing Outside the Bird"
 date: "2025-08-21T10:44:26.929576"
 type: "recipe"
@@ -39,13 +40,13 @@ nutrition:
   fiber_g: 6.2
   sugar_g: 0.2
   servings: 10
-image: "https://images.unsplash.com/photo-1619392306939-30e1bbc20138?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxicmVhZCUyMHN0dWZmaW5nJTIwb3V0c2lkZSUyMHRoZSUyMGJpcmQlMjBmb29kJTIwc2lkZXxlbnwxfDB8fHwxNzU1Nzk1ODY2fDA&ixlib=rb-4.1.0&q=80&w=1080"
-image_credit: "Photo by Rogean James Caleffi on Unsplash"
 allergens:
   - "dairy"
   - "eggs"
   - "gluten"
   - "soy"
+image: "https://images.unsplash.com/photo-1619392306939-30e1bbc20138?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxicmVhZCUyMHN0dWZmaW5nJTIwb3V0c2lkZSUyMHRoZSUyMGJpcmQlMjBmb29kJTIwc2lkZXxlbnwxfDB8fHwxNzU1Nzk1ODY2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Rogean James Caleffi on Unsplash"
 ---
 
 {{< recipe-meta >}}

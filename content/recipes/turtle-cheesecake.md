@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "Turtle Cheesecake"
 date: "2025-08-21T10:44:26.950837"
 type: "recipe"
@@ -37,6 +39,14 @@ steps:
   - "Cool on wire rack for at least an hour"
   - "Refrigerate or freeze up to two months (thaw overnight in refrigerator)"
 notes: "Avoid over mixing ingredients, especially after adding eggs"
+nutrition:
+  calories: 410.5
+  protein_g: 13.7
+  carbohydrates_g: 76.0
+  fat_g: 48.4
+  fiber_g: 4.7
+  sugar_g: 19.6
+  servings: 4
 ---
 
 {{< recipe-meta >}}

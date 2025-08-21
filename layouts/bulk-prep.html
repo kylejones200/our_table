@@ -1,0 +1,391 @@
+{{ define "main" }}
+<style>
+.bulk-prep-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.bulk-prep-section {
+  margin: 3rem 0;
+  padding: 2rem;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.section-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid #e9ecef;
+}
+
+.section-icon {
+  font-size: 2rem;
+}
+
+.section-title {
+  margin: 0;
+  color: #2c3e50;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.section-description {
+  color: #6c757d;
+  margin: 0.5rem 0 0 0;
+  font-size: 1rem;
+}
+
+.prep-groups-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 1.5rem;
+}
+
+.prep-group {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 1.5rem;
+  border-left: 4px solid #28a745;
+}
+
+.group-name {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #2c3e50;
+  margin: 0 0 0.5rem 0;
+}
+
+.group-description {
+  color: #6c757d;
+  margin: 0 0 1rem 0;
+  font-size: 0.9rem;
+}
+
+.recipe-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.recipe-item {
+  background: white;
+  margin: 0.5rem 0;
+  padding: 0.75rem;
+  border-radius: 6px;
+  border: 1px solid #dee2e6;
+  transition: background-color 0.2s ease;
+}
+
+.recipe-item:hover {
+  background: #e3f2fd;
+}
+
+.recipe-link {
+  text-decoration: none;
+  color: #2c3e50;
+  font-weight: 500;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.recipe-categories {
+  display: flex;
+  gap: 0.25rem;
+}
+
+.category-tag {
+  background: #e3f2fd;
+  color: #1976d2;
+  padding: 0.2rem 0.5rem;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+.prep-tips {
+  margin-top: 1rem;
+  padding: 1rem;
+  background: #fff3cd;
+  border-radius: 6px;
+  border-left: 4px solid #ffc107;
+}
+
+.prep-tips h4 {
+  margin: 0 0 0.5rem 0;
+  color: #856404;
+  font-size: 1rem;
+}
+
+.prep-tips ul {
+  margin: 0;
+  padding-left: 1.5rem;
+  color: #856404;
+}
+
+.prep-tips li {
+  margin: 0.25rem 0;
+  font-size: 0.9rem;
+}
+
+.combo-efficiency {
+  display: inline-block;
+  background: #d4edda;
+  color: #155724;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.stat-card {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.stat-number {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.stat-label {
+  font-size: 1rem;
+  margin: 0.5rem 0 0 0;
+  opacity: 0.9;
+}
+
+@media (max-width: 768px) {
+  .bulk-prep-container {
+    padding: 1rem;
+  }
+  
+  .prep-groups-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .stat-number {
+    font-size: 2rem;
+  }
+}
+</style>
+
+<div class="bulk-prep-container">
+  <header class="page-header">
+    {{ .Content }}
+  </header>
+
+  {{ $bulkPrep := site.Data.bulk_prep }}
+  
+  <!-- Statistics Overview -->
+  <div class="stats-grid">
+    <div class="stat-card">
+      <div class="stat-number">{{ len $bulkPrep.by_ingredient }}</div>
+      <div class="stat-label">Ingredient Groups</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">{{ len $bulkPrep.by_cooking_method }}</div>
+      <div class="stat-label">Cooking Methods</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">{{ len $bulkPrep.by_equipment }}</div>
+      <div class="stat-label">Equipment Groups</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">{{ len $bulkPrep.meal_prep_combos }}</div>
+      <div class="stat-label">Smart Combos</div>
+    </div>
+  </div>
+
+  <!-- Ingredient-Based Groups -->
+  {{ if $bulkPrep.by_ingredient }}
+  <section class="bulk-prep-section">
+    <div class="section-header">
+      <span class="section-icon">🥕</span>
+      <div>
+        <h2 class="section-title">Prep by Ingredient</h2>
+        <p class="section-description">Group recipes by shared major ingredients for efficient bulk preparation</p>
+      </div>
+    </div>
+    
+    <div class="prep-groups-grid">
+      {{ range $ingredient, $group := $bulkPrep.by_ingredient }}
+      <div class="prep-group">
+        <h3 class="group-name">{{ $group.name }}</h3>
+        <p class="group-description">{{ $group.description }}</p>
+        
+        <ul class="recipe-list">
+          {{ range $group.recipes }}
+          <li class="recipe-item">
+            <a href="/recipes/{{ .slug }}/" class="recipe-link">
+              <span>{{ .title }}</span>
+              <div class="recipe-categories">
+                {{ range .categories }}
+                <span class="category-tag">{{ . }}</span>
+                {{ end }}
+              </div>
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+        
+        {{ if $group.prep_tips }}
+        <div class="prep-tips">
+          <h4>💡 Prep Tips</h4>
+          <ul>
+            {{ range $group.prep_tips }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  <!-- Cooking Method Groups -->
+  {{ if $bulkPrep.by_cooking_method }}
+  <section class="bulk-prep-section">
+    <div class="section-header">
+      <span class="section-icon">🔥</span>
+      <div>
+        <h2 class="section-title">Prep by Cooking Method</h2>
+        <p class="section-description">Maximize efficiency by cooking multiple dishes using the same techniques</p>
+      </div>
+    </div>
+    
+    <div class="prep-groups-grid">
+      {{ range $method, $group := $bulkPrep.by_cooking_method }}
+      <div class="prep-group">
+        <h3 class="group-name">{{ $group.name }}</h3>
+        <p class="group-description">{{ $group.description }}</p>
+        
+        <ul class="recipe-list">
+          {{ range $group.recipes }}
+          <li class="recipe-item">
+            <a href="/recipes/{{ .slug }}/" class="recipe-link">
+              <span>{{ .title }}</span>
+              <div class="recipe-categories">
+                {{ range .categories }}
+                <span class="category-tag">{{ . }}</span>
+                {{ end }}
+              </div>
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+        
+        {{ if $group.efficiency_tips }}
+        <div class="prep-tips">
+          <h4>⚡ Efficiency Tips</h4>
+          <ul>
+            {{ range $group.efficiency_tips }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  <!-- Equipment-Based Groups -->
+  {{ if $bulkPrep.by_equipment }}
+  <section class="bulk-prep-section">
+    <div class="section-header">
+      <span class="section-icon">🍳</span>
+      <div>
+        <h2 class="section-title">Prep by Equipment</h2>
+        <p class="section-description">Make the most of your cooking equipment by preparing multiple recipes together</p>
+      </div>
+    </div>
+    
+    <div class="prep-groups-grid">
+      {{ range $equipment, $group := $bulkPrep.by_equipment }}
+      <div class="prep-group">
+        <h3 class="group-name">{{ $group.name }}</h3>
+        <p class="group-description">{{ $group.description }}</p>
+        
+        <ul class="recipe-list">
+          {{ range $group.recipes }}
+          <li class="recipe-item">
+            <a href="/recipes/{{ .slug }}/" class="recipe-link">
+              <span>{{ .title }}</span>
+              <div class="recipe-categories">
+                {{ range .categories }}
+                <span class="category-tag">{{ . }}</span>
+                {{ end }}
+              </div>
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  <!-- Smart Meal Prep Combinations -->
+  {{ if $bulkPrep.meal_prep_combos }}
+  <section class="bulk-prep-section">
+    <div class="section-header">
+      <span class="section-icon">🧠</span>
+      <div>
+        <h2 class="section-title">Smart Meal Prep Combinations</h2>
+        <p class="section-description">Optimal recipe pairings that share ingredients and cooking methods</p>
+      </div>
+    </div>
+    
+    <div class="prep-groups-grid">
+      {{ range $bulkPrep.meal_prep_combos }}
+      <div class="prep-group">
+        <div class="combo-efficiency">Efficiency Score: {{ .efficiency_score }}</div>
+        <h3 class="group-name">{{ .name }}</h3>
+        <p class="group-description">{{ .description }}</p>
+        
+        <ul class="recipe-list">
+          {{ range .recipes }}
+          <li class="recipe-item">
+            <a href="/recipes/{{ .slug }}/" class="recipe-link">
+              <span>{{ .title }}</span>
+              <div class="recipe-categories">
+                {{ range .categories }}
+                <span class="category-tag">{{ . }}</span>
+                {{ end }}
+              </div>
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+</div>
+{{ end }}

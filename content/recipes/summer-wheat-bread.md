@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Summer Wheat Bread"
 date: "2025-08-21T10:44:26.942818"
 type: "recipe"
@@ -33,6 +34,8 @@ nutrition:
   servings: 2
 allergens:
   - "gluten"
+image: "https://images.unsplash.com/photo-1587573172084-e0a05cd0d42c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxzdW1tZXIlMjB3aGVhdCUyMGJyZWFkJTIwZm9vZCUyMGJyZWFkfGVufDF8MHx8fDE3NTU4MDQ1NTl8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Chad Stembridge on Unsplash"
 ---
 
 {{< recipe-meta >}}

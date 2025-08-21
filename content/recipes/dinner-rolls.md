@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "Dinner Rolls"
 date: "2025-08-21T10:44:26.941510"
 type: "recipe"
@@ -25,6 +27,14 @@ allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+nutrition:
+  calories: 200.8
+  protein_g: 17.9
+  carbohydrates_g: 65.5
+  fat_g: 43.7
+  fiber_g: 2.4
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

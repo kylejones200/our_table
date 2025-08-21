@@ -1,5 +1,6 @@
 ---
 
+
 title: "Chuck Wagon Baked Beans"
 date: "2025-08-21T10:44:26.947723"
 type: "recipe"
@@ -20,7 +21,15 @@ ingredients:
 steps:
   - "Combine ingredients and pour into 9\"x13\" casserole. Bake uncovered at 350° for 50-60 minutes."
 allergens:
-  - 
+  -
+nutrition:
+  calories: 211.3
+  protein_g: 4.8
+  carbohydrates_g: 55.6
+  fat_g: 1.6
+  fiber_g: 1.4
+  sugar_g: 18.7
+  servings: 4
 ---
 
 {{< recipe-meta >}}

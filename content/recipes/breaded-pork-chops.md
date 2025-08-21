@@ -1,4 +1,5 @@
 ---
+
 title: "Breaded Pork Chops"
 date: "2025-08-21T10:44:26.942302"
 type: "recipe"
@@ -33,6 +34,8 @@ nutrition:
   fiber_g: 0.3
   sugar_g: 0.0
   servings: 6
+image: "https://images.unsplash.com/photo-1709457248718-91313ea7ed52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxicmVhZGVkJTIwcG9yayUyMGNob3BzJTIwZm9vZCUyMHBvcmt8ZW58MXwwfHx8MTc1NTgwNDYyM3ww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by John Fery Jame on Unsplash"
 ---
 
 {{< recipe-meta >}}

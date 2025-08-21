@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "MOCK CHEESECAKE"
 date: "2025-08-21T10:44:26.951026"
 type: "recipe"
@@ -35,6 +36,8 @@ nutrition:
   fiber_g: 2.2
   sugar_g: 9.3
   servings: 4
+image: "https://images.unsplash.com/photo-1608019526960-a8de3d90966f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxtb2NrJTIwY2hlZXNlY2FrZSUyMGZvb2QlMjBjaGVlc2VjYWtlfGVufDF8MHx8fDE3NTU4MDQ2MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Sincerely Media on Unsplash"
 ---
 
 {{< recipe-meta >}}

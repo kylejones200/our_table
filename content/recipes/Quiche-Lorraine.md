@@ -1,4 +1,5 @@
 ---
+
 title: "Quiche Lorraine"
 date: "2025-08-21T10:44:26.930982"
 type: "recipe"
@@ -18,6 +19,14 @@ steps:
 allergens:
   - "dairy"
   - "gluten"
+nutrition:
+  calories: 187.8
+  protein_g: 5.8
+  carbohydrates_g: 61.6
+  fat_g: 22.4
+  fiber_g: 0.0
+  sugar_g: 0.0
+  servings: 4
 ---
 
 Shortcrust Pastry (Pate Brisee)

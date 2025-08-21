@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Salted Toffee Pretzel Bark"
 date: "2025-08-21T10:44:26.923415"
 type: "recipe"
@@ -28,6 +29,8 @@ nutrition:
   fiber_g: 0.9
   sugar_g: 15.8
   servings: 4
+image: "https://images.unsplash.com/photo-1703630162269-2b77792e07a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxzYWx0ZWQlMjB0b2ZmZWUlMjBwcmV0emVsJTIwYmFyayUyMGZvb2R8ZW58MXwwfHx8MTc1NTgwNDU3Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Zeki Okur on Unsplash"
 ---
 
 {{< recipe-meta >}}

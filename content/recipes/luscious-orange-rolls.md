@@ -1,5 +1,6 @@
 ---
 
+
 title: "Luscious Orange Rolls"
 date: "2025-08-21T10:44:26.946283"
 type: "recipe"
@@ -22,6 +23,14 @@ allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+nutrition:
+  calories: 258.0
+  protein_g: 19.2
+  carbohydrates_g: 68.3
+  fat_g: 39.0
+  fiber_g: 3.8
+  sugar_g: 0.0
+  servings: 4
 --- Orange Glaze ---"
   - "1/4 cup sugar"
   - "1/4 cup commercial sour cream"

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Vichyssoise"
 date: "2025-08-21T10:44:26.930730"
 type: "recipe"
@@ -20,6 +21,14 @@ steps:
 notes: "Be sure to process the soup to a velvety smoothness."
 allergens:
   - "dairy"
+nutrition:
+  calories: 0.0
+  protein_g: 6.1
+  carbohydrates_g: 4.0
+  fat_g: 13.7
+  fiber_g: 1.4
+  sugar_g: 0.0
+  servings: 7
 ---
 
 {{< recipe-meta >}}

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Chocolate Fudge Sauce"
 date: "2025-08-21T10:44:26.936055"
 type: "recipe"
@@ -19,6 +20,14 @@ steps:
   - "Melt butter and chocolate in microwave; stir in remaining ingredients. Cook until sugar is dissolved and sauce is smooth. Serve warm or cold over ice cream. Yield 4 cups."
 allergens:
   - "dairy"
+nutrition:
+  calories: 168.2
+  protein_g: 5.8
+  carbohydrates_g: 35.5
+  fat_g: 34.4
+  fiber_g: 2.9
+  sugar_g: 3.2
+  servings: 4
 ---
 
 {{< recipe-meta >}}

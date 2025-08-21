@@ -1,5 +1,6 @@
 ---
 
+
 title: "Sweet Potato Pancakes with Caramel Sauce"
 date: "2025-08-21T10:44:26.925720"
 type: "recipe"
@@ -32,6 +33,14 @@ allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+nutrition:
+  calories: 354.5
+  protein_g: 6.1
+  carbohydrates_g: 48.0
+  fat_g: 29.4
+  fiber_g: 4.2
+  sugar_g: 2.3
+  servings: 7
 ---
 
 {{< recipe-meta >}}

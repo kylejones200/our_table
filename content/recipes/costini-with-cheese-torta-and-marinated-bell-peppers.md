@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "Costini with Cheese Torta and Marinated Bell Peppers"
 date: "2025-08-21T10:44:26.928434"
 type: "recipe"
@@ -27,6 +29,14 @@ notes: "plain crostini"
 allergens:
   - "dairy"
   - "nuts"
+nutrition:
+  calories: 24.5
+  protein_g: 7.6
+  carbohydrates_g: 19.5
+  fat_g: 9.4
+  fiber_g: 1.9
+  sugar_g: 2.7
+  servings: 6
 ---
 
 {{< recipe-meta >}}

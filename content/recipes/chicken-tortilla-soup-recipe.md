@@ -1,5 +1,6 @@
 ---
 
+
 title: "Chicken Tortilla Soup Recipe"
 date: "2025-08-21T10:44:26.930264"
 type: "recipe"
@@ -25,7 +26,15 @@ ingredients:
   - "3 cups shredded chicken breast"
   - "1 Tbsp lime juice"
 allergens:
-  - 
+  -
+nutrition:
+  calories: 243.0
+  protein_g: 17.5
+  carbohydrates_g: 86.2
+  fat_g: 8.9
+  fiber_g: 30.6
+  sugar_g: 5.4
+  servings: 4
 ---
 
 {{< recipe-meta >}}

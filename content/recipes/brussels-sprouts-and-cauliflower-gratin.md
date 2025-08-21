@@ -1,5 +1,6 @@
 ---
 
+
 title: "Brussels Sprouts and Cauliflower Gratin"
 date: "2025-08-21T10:44:26.929986"
 type: "recipe"
@@ -29,6 +30,14 @@ steps:
 allergens:
   - "dairy"
   - "gluten"
+nutrition:
+  calories: 88.8
+  protein_g: 6.9
+  carbohydrates_g: 17.6
+  fat_g: 7.6
+  fiber_g: 1.4
+  sugar_g: 0.0
+  servings: 8
 ---
 
 {{< recipe-meta >}}

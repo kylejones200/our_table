@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Fast Nut Tree Breadsticks"
 date: "2025-08-21T10:44:26.944486"
 type: "recipe"
@@ -36,6 +37,8 @@ nutrition:
   fiber_g: 0.7
   sugar_g: 0.0
   servings: 4
+image: "https://images.unsplash.com/photo-1643490982826-8b0cef4831d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxmYXN0JTIwbnV0JTIwdHJlZSUyMGJyZWFkc3RpY2tzJTIwZm9vZCUyMGJyZWFkc3RpY2t8ZW58MXwwfHx8MTc1NTgwNDU3MHww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Rena on Unsplash"
 ---
 
 {{< recipe-meta >}}

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Walnut-Parmesan Pesto"
 date: "2025-08-21T10:44:26.945135"
 type: "recipe"
@@ -20,6 +21,14 @@ steps:
   - "Pulse all ingredients in a blender until smooth, stopping to scrape down sides as needed. Stir into hot cooked pasta, or spoon over cream cheese and serve with crackers."
 allergens:
   - "dairy"
+nutrition:
+  calories: 166.0
+  protein_g: 15.9
+  carbohydrates_g: 16.5
+  fat_g: 45.6
+  fiber_g: 3.3
+  sugar_g: 0.2
+  servings: 4
 ---
 
 {{< recipe-meta >}}

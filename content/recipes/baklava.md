@@ -1,5 +1,6 @@
 ---
 
+
 title: "Baklava"
 date: "2025-08-21T10:44:26.951222"
 type: "recipe"
@@ -26,6 +27,14 @@ steps:
 allergens:
   - "dairy"
   - "nuts"
+nutrition:
+  calories: 382.2
+  protein_g: 8.0
+  carbohydrates_g: 82.0
+  fat_g: 33.2
+  fiber_g: 2.4
+  sugar_g: 27.3
+  servings: 4
 ---
 
 {{< recipe-meta >}}

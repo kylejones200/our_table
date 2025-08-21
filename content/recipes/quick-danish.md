@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "Quick Danish"
 date: "2025-08-21T10:44:26.943331"
 type: "recipe"
@@ -20,6 +22,14 @@ steps:
   - "Preheat oven to 425 degrees. Place crescent rolls in bottom of 9\" x mixture. Reduce heat to 325 degrees, return rolls to oven and bake"
 allergens:
   - "dairy"
+nutrition:
+  calories: 168.2
+  protein_g: 8.6
+  carbohydrates_g: 33.1
+  fat_g: 12.1
+  fiber_g: 0.4
+  sugar_g: 3.2
+  servings: 4
 ---
 
 {{< recipe-meta >}}

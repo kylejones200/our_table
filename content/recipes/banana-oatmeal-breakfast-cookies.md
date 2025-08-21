@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "Banana Oatmeal Breakfast Cookies"
 date: "2025-08-21T10:44:26.925464"
 type: "recipe"
@@ -30,6 +32,14 @@ allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+nutrition:
+  calories: 89.6
+  protein_g: 3.6
+  carbohydrates_g: 16.3
+  fat_g: 9.0
+  fiber_g: 0.9
+  sugar_g: 0.8
+  servings: 16
 ---
 
 {{< recipe-meta >}}

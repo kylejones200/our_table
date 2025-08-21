@@ -104,6 +104,15 @@
     </section>
     {{ end }}
 
+    <!-- Recipe Recommendations -->
+    {{ $recipeSlug := .File.BaseFileName }}
+    {{ $recommendations := index site.Data.recommendations $recipeSlug }}
+    {{ if $recommendations }}
+    <section class="recommendations">
+      {{ partial "recommendations.html" (dict "recommendations" $recommendations "context" .) }}
+    </section>
+    {{ end }}
+
     <footer class="recipe-footer">
       <div class="recipe-tags">
         {{ with .Params.cuisines }}

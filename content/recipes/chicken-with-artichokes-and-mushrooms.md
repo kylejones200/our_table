@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Chicken with Artichokes and Mushrooms"
 date: "2025-08-21T10:44:26.935310"
 type: "recipe"
@@ -27,6 +28,8 @@ nutrition:
   fiber_g: 3.5
   sugar_g: 0.0
   servings: 4
+image: "https://images.unsplash.com/photo-1653543362907-b9e87d2be5db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwd2l0aCUyMGFydGljaG9rZXMlMjBhbmQlMjBtdXNocm9vbXMlMjBmb29kfGVufDF8MHx8fDE3NTU4MDQ2MjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Alexey Demidov on Unsplash"
 ---
 
 {{< recipe-meta >}}

@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "NANCY WEISS'S CALICO BEANS"
 date: "2025-08-21T10:44:26.937829"
 type: "recipe"
@@ -22,7 +24,15 @@ ingredients:
 steps:
   - "Brown bacon, remove. Drain off grease, add onions and ground beef; brown. Mix all other ingredients together and add to meat mixture along with browned bacon. Place in a 9x13 casserole and bake 1 hour in a 350 degree oven."
 allergens:
-  - 
+  -
+nutrition:
+  calories: 350.3
+  protein_g: 18.2
+  carbohydrates_g: 35.6
+  fat_g: 39.0
+  fiber_g: 1.6
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "LIME SWEET PICKLES"
 date: "2025-08-21T10:44:26.951460"
 type: "recipe"
@@ -21,7 +23,15 @@ ingredients:
 steps:
   - "Soak cucumbers in lime and water for 24 hours. Rinse well and soak in cold water 3 hours. Combine remaining ingredients and pour over drained cucumbers. Let stand overnight. Boil 35 minutes and pack in sterilized jars and seal. Process in water bath for 5 minutes."
 allergens:
-  - 
+  -
+nutrition:
+  calories: 200.8
+  protein_g: 20.6
+  carbohydrates_g: 31.1
+  fat_g: 21.0
+  fiber_g: 0.9
+  sugar_g: 0.4
+  servings: 4
 ---
 
 {{< recipe-meta >}}

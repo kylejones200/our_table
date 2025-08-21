@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Mexican Stuffed Shells"
 date: "2025-08-21T10:44:26.949128"
 type: "recipe"
@@ -33,6 +34,8 @@ nutrition:
 allergens:
   - "dairy"
   - "gluten"
+image: "https://images.unsplash.com/photo-1601842929683-7d8755387735?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxtZXhpY2FuJTIwc3R1ZmZlZCUyMHNoZWxscyUyMGZvb2R8ZW58MXwwfHx8MTc1NTgwNDU1Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Craig Pattenaude on Unsplash"
 ---
 
 {{< recipe-meta >}}

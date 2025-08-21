@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "Broiled Maple-Soy Glazed Salmon Fillets with Toasted Sesame Seeds"
 date: "2025-08-21T10:44:26.932983"
 type: "recipe"
@@ -17,6 +19,14 @@ allergens:
   - "fish"
   - "gluten"
   - "soy"
+nutrition:
+  calories: 91.5
+  protein_g: 18.2
+  carbohydrates_g: 10.2
+  fat_g: 4.2
+  fiber_g: 0.5
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

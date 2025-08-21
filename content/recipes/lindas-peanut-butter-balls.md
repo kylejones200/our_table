@@ -1,5 +1,6 @@
 ---
 
+
 title: "Linda's Peanut Butter Balls"
 date: "2025-08-21T10:44:26.950460"
 type: "recipe"
@@ -20,6 +21,14 @@ steps:
 allergens:
   - "dairy"
   - "nuts"
+nutrition:
+  calories: 311.2
+  protein_g: 11.1
+  carbohydrates_g: 66.3
+  fat_g: 40.2
+  fiber_g: 3.5
+  sugar_g: 7.5
+  servings: 4
 ---
 
 {{< recipe-meta >}}

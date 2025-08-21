@@ -1,5 +1,6 @@
 ---
 
+
 title: "Pumpkin-Praline Pie"
 date: "2025-08-21T10:44:26.929790"
 type: "recipe"
@@ -13,6 +14,14 @@ ingredients:
 allergens:
   - "dairy"
   - "eggs"
+nutrition:
+  calories: 0.0
+  protein_g: 0.1
+  carbohydrates_g: 0.0
+  fat_g: 0.0
+  fiber_g: 0.0
+  sugar_g: 0.0
+  servings: 8
 --- Pumpkin Filling ---"
   - "1 15 ounce can plain pie puree"
   - "3/4 cup packed dark brown sugar"

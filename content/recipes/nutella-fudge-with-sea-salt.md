@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "Nutella Fudge with Sea Salt"
 date: "2025-08-21T10:44:26.924064"
 type: "recipe"
@@ -22,6 +24,14 @@ notes: "You may think and 8×8 pan is not enough, but you'll want to cut these b
 allergens:
   - "dairy"
   - "nuts"
+nutrition:
+  calories: 23.1
+  protein_g: 0.8
+  carbohydrates_g: 3.0
+  fat_g: 3.0
+  fiber_g: 0.1
+  sugar_g: 1.2
+  servings: 50
 ---
 
 {{< recipe-meta >}}

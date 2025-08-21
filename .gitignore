@@ -2,21 +2,28 @@
 public/
 resources/
 
-# Hugo cache
+# Hugo
+public/
+resources/
 .hugo_build.lock
-hugo_stats.json
 
-# OS
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# macOS
 .DS_Store
-Thumbs.db
 
-# Editor
+# IDE
 .vscode/
 .idea/
 
 # Logs
 *.log
-
 # Secrets and API keys
 .env
 *.env

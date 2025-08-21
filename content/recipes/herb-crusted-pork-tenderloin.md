@@ -1,5 +1,6 @@
 ---
 
+
 title: "Herb-Crusted Pork Tenderloin"
 date: "2025-08-21T10:44:26.948000"
 type: "recipe"
@@ -17,7 +18,15 @@ ingredients:
   - "3 Tbsp Chopped fresh thyme"
   - "11/2 lbs. pork tenderloins"
 allergens:
-  - 
+  -
+nutrition:
+  calories: 31.0
+  protein_g: 13.7
+  carbohydrates_g: 23.5
+  fat_g: 22.6
+  fiber_g: 4.1
+  sugar_g: 0.1
+  servings: 4
 ---
 
 {{< recipe-meta >}}

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Strawberry Nests"
 date: "2025-08-21T10:44:26.942453"
 type: "recipe"
@@ -21,6 +22,14 @@ steps:
   - "spoon sliced strawberries over the coated dessert cups."
 allergens:
   - "dairy"
+nutrition:
+  calories: 260.2
+  protein_g: 6.0
+  carbohydrates_g: 55.1
+  fat_g: 12.5
+  fiber_g: 5.7
+  sugar_g: 2.1
+  servings: 6
 ---
 
 {{< recipe-meta >}}

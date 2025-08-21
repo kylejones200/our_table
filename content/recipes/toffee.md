@@ -11,6 +11,7 @@
 
 
 
+
 title: "Toffee"
 date: "2025-08-21T10:44:26.949680"
 type: "recipe"
@@ -36,10 +37,10 @@ nutrition:
   fiber_g: 2.3
   sugar_g: 0.0
   servings: 4
-image: "https://images.unsplash.com/photo-1655808897584-8370283ea22c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHx0b2ZmZWUlMjBmb29kJTIwZGVzc2VydHxlbnwxfDB8fHwxNzU1Nzk1NzkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-image_credit: "Photo by Dan Dennis on Unsplash"
 allergens:
   - "dairy"
+image: "https://images.unsplash.com/photo-1655808897584-8370283ea22c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHx0b2ZmZWUlMjBmb29kJTIwZGVzc2VydHxlbnwxfDB8fHwxNzU1Nzk1NzkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Dan Dennis on Unsplash"
 ---
 
 {{< recipe-meta >}}

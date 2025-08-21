@@ -2,6 +2,7 @@
 
 
 
+
 title: "Paul's Louisiana Barbecued Shrimp"
 date: "2025-08-21T10:44:26.932442"
 type: "recipe"
@@ -37,12 +38,12 @@ nutrition:
   fiber_g: 18.4
   sugar_g: 1.6
   servings: 4
-image: "https://images.unsplash.com/photo-1651395246043-9895530daa53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxwYXVsJTIwZm9vZHxlbnwxfDB8fHwxNzU1Nzk1ODg1fDA&ixlib=rb-4.1.0&q=80&w=1080"
-image_credit: "Photo by paul saad on Unsplash"
 allergens:
   - "dairy"
   - "gluten"
   - "shellfish"
+image: "https://images.unsplash.com/photo-1651395246043-9895530daa53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxwYXVsJTIwZm9vZHxlbnwxfDB8fHwxNzU1Nzk1ODg1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by paul saad on Unsplash"
 ---
 
 {{< recipe-meta >}}

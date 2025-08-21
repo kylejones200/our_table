@@ -2,6 +2,7 @@
 
 
 
+
 title: "Mango Sorbet with Amaretto and Crystallized Ginger"
 date: "2025-08-21T10:44:26.935835"
 type: "recipe"
@@ -26,10 +27,10 @@ nutrition:
   fiber_g: 1.7
   sugar_g: 0.0
   servings: 8
-image: "https://images.unsplash.com/photo-1733505843122-0aaad7c9d9a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxtYW5nbyUyMHNvcmJldCUyMHdpdGglMjBhbWFyZXR0byUyMGFuZCUyMGNyeXN0YWxsaXplZCUyMGdpbmdlciUyMGZvb2QlMjBkZXNzZXJ0fGVufDF8MHx8fDE3NTU3OTU5MDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
-image_credit: "Photo by Letian Zhang on Unsplash"
 allergens:
   - "nuts"
+image: "https://images.unsplash.com/photo-1733505843122-0aaad7c9d9a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxtYW5nbyUyMHNvcmJldCUyMHdpdGglMjBhbWFyZXR0byUyMGFuZCUyMGNyeXN0YWxsaXplZCUyMGdpbmdlciUyMGZvb2QlMjBkZXNzZXJ0fGVufDF8MHx8fDE3NTU3OTU5MDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Letian Zhang on Unsplash"
 ---
 
 {{< recipe-meta >}}

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Peppermint Truffle Brownies"
 date: "2025-08-21T10:44:26.923205"
 type: "recipe"
@@ -28,6 +29,14 @@ allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+nutrition:
+  calories: 393.5
+  protein_g: 10.1
+  carbohydrates_g: 82.3
+  fat_g: 38.9
+  fiber_g: 1.5
+  sugar_g: 16.8
+  servings: 4
 ---
 
 {{< recipe-meta >}}

@@ -2,6 +2,7 @@
 
 
 
+
 title: "Make-Ahead Turkey Gravy"
 date: "2025-08-21T10:44:26.929870"
 type: "recipe"
@@ -28,11 +29,11 @@ nutrition:
   fiber_g: 4.3
   sugar_g: 0.0
   servings: 6
-image: "https://images.unsplash.com/photo-1672787380741-6fe6c7450668?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxtYWtlLWFoZWFkJTIwdHVya2V5JTIwZ3JhdnklMjBmb29kfGVufDF8MHx8fDE3NTU3OTU5MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-image_credit: "Photo by Hayley Ryczek on Unsplash"
 allergens:
   - "dairy"
   - "gluten"
+image: "https://images.unsplash.com/photo-1672787380741-6fe6c7450668?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxtYWtlLWFoZWFkJTIwdHVya2V5JTIwZ3JhdnklMjBmb29kfGVufDF8MHx8fDE3NTU3OTU5MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Hayley Ryczek on Unsplash"
 ---
 
 {{< recipe-meta >}}

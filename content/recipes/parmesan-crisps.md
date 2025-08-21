@@ -1,5 +1,6 @@
 ---
 
+
 title: "Parmesan Crisps"
 date: "2025-08-21T10:44:26.952120"
 type: "recipe"
@@ -16,6 +17,14 @@ steps:
   - "Bake for 3 to 5 minutes or until golden and crisp. Cool."
 allergens:
   - "dairy"
+nutrition:
+  calories: 105.2
+  protein_g: 7.4
+  carbohydrates_g: 3.1
+  fat_g: 7.0
+  fiber_g: 0.0
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

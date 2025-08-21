@@ -1,5 +1,6 @@
 ---
 
+
 title: "Dates with Orange and Pistachio"
 date: "2025-08-21T10:44:26.934432"
 type: "recipe"
@@ -20,6 +21,14 @@ ingredients:
   - "3. Sprinkle the dates with 1/4 cup chopped pistachios and orange zest"
 allergens:
   - "dairy"
+nutrition:
+  calories: 296.0
+  protein_g: 14.2
+  carbohydrates_g: 70.3
+  fat_g: 29.7
+  fiber_g: 7.3
+  sugar_g: 16.6
+  servings: 4
 ---
 
 {{< recipe-meta >}}

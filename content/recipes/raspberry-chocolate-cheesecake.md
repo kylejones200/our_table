@@ -1,5 +1,6 @@
 ---
 
+
 title: "RASPBERRY CHOCOLATE CHEESECAKE"
 date: "2025-08-21T10:44:26.950774"
 type: "recipe"
@@ -28,6 +29,14 @@ allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+nutrition:
+  calories: 317.5
+  protein_g: 10.8
+  carbohydrates_g: 94.8
+  fat_g: 28.7
+  fiber_g: 3.6
+  sugar_g: 9.3
+  servings: 4
 ---
 
 {{< recipe-meta >}}

@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Minty Marshmallow-Stuffed Chocolate Cookies"
 date: "2025-08-21T10:44:26.923757"
 type: "recipe"
@@ -32,6 +33,8 @@ nutrition:
   fiber_g: 0.2
   sugar_g: 2.7
   servings: 24
+image: "https://images.unsplash.com/photo-1651840481356-776b3f6cceab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxtaW50eSUyMG1hcnNobWFsbG93LXN0dWZmZWQlMjBjaG9jb2xhdGUlMjBjb29raWVzJTIwZm9vZHxlbnwxfDB8fHwxNzU1ODA0NTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Jane Sh on Unsplash"
 --- Fudgy frosting ---"
   - "2 cups confectioners' sugar"
   - "1/4 cup cocoa powder"

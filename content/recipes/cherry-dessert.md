@@ -1,5 +1,6 @@
 ---
 
+
 title: "Cherry Dessert"
 date: "2025-08-21T10:44:26.940469"
 type: "recipe"
@@ -22,6 +23,14 @@ allergens:
 steps:
   - "Mix, press into 9 x 13 pan, bake at 375 for 5 minutes."
   - "Spread over crust, sprinkle reserved crumbs on top and refrigerate."
+nutrition:
+  calories: 182.8
+  protein_g: 17.4
+  carbohydrates_g: 21.4
+  fat_g: 44.4
+  fiber_g: 4.0
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

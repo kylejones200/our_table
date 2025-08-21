@@ -1,4 +1,6 @@
 ---
+
+
 title: "Pappy's Potato Soup"
 date: "2025-08-21T10:44:26.935639"
 type: "recipe"
@@ -24,6 +26,14 @@ steps:
 notes: "This is plain old potato soup the way my grandfather used to make it. It is so good and very easy."
 allergens:
   - "dairy"
+nutrition:
+  calories: 39.2
+  protein_g: 10.8
+  carbohydrates_g: 26.9
+  fat_g: 16.6
+  fiber_g: 3.6
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

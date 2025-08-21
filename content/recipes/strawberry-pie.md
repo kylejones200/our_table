@@ -1,5 +1,6 @@
 ---
 
+
 title: "Strawberry Pie"
 date: "2025-08-21T10:44:26.926050"
 type: "recipe"
@@ -18,6 +19,14 @@ ingredients:
 allergens:
   - "dairy"
   - "gluten"
+nutrition:
+  calories: 312.5
+  protein_g: 2.7
+  carbohydrates_g: 19.3
+  fat_g: 45.9
+  fiber_g: 0.0
+  sugar_g: 0.0
+  servings: 4
 --- Filling ---"
   - "1 1/2 quarts (6 cups) strawberries, hulled"
   - "1 cup sugar"

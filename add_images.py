@@ -173,6 +173,57 @@ def update_recipe_with_image(file_path, image_data=None, emoji_fallback=None):
     
     return True
 
+def validate_recipe_file(content):
+    """
+    Validate that a recipe file has proper structure and ingredients
+    """
+    # Check if file has ingredients section
+    if 'ingredients:' not in content.lower():
+        return False, "No ingredients section found"
+    
+    # Check if file already has an image
+    if 'image:' in content or 'image_emoji:' in content:
+        return False, "Already has image"
+    
+    # Check for basic recipe structure
+    if '---' not in content:
+        return False, "No front matter found"
+    
+    # Extract ingredients to validate they exist and are not empty
+    try:
+        parts = content.split('---', 2)
+        if len(parts) < 3:
+            return False, "Malformed front matter"
+        
+        front_matter = parts[1].lower()
+        
+        # Look for ingredients section in front matter
+        if 'ingredients:' in front_matter:
+            # Find ingredients section
+            lines = front_matter.split('\n')
+            in_ingredients = False
+            ingredient_count = 0
+            
+            for line in lines:
+                line = line.strip()
+                if line.startswith('ingredients:'):
+                    in_ingredients = True
+                    continue
+                elif in_ingredients:
+                    if line.startswith('-') or line.startswith('*'):
+                        ingredient_count += 1
+                    elif line and not line.startswith(' ') and ':' in line:
+                        # Hit next section
+                        break
+            
+            if ingredient_count == 0:
+                return False, "No ingredients listed"
+        
+        return True, "Valid recipe"
+        
+    except Exception as e:
+        return False, f"Error parsing: {e}"
+
 def process_recipes_with_images(max_recipes=10, use_api=True):
     """
     Process recipe files and add image information
@@ -182,11 +233,12 @@ def process_recipes_with_images(max_recipes=10, use_api=True):
         print("❌ Recipes directory not found")
         return
     
-    recipe_files = list(recipes_dir.glob('*.md'))[:max_recipes]
+    recipe_files = list(recipes_dir.glob('*.md'))
     processed = 0
     api_calls = 0
+    skipped = 0
     
-    print(f"🖼️  Processing images for {len(recipe_files)} recipes...")
+    print(f"🖼️  Processing images for up to {max_recipes} recipes...")
     if use_api and UNSPLASH_ACCESS_KEY:
         print("📸 Using Unsplash API (50 requests/hour limit)")
     else:
@@ -194,11 +246,21 @@ def process_recipes_with_images(max_recipes=10, use_api=True):
     print()
     
     for recipe_file in recipe_files:
+        if processed >= max_recipes:
+            break
+            
         try:
             print(f"🖼️  Processing: {recipe_file.name}")
             
             with open(recipe_file, 'r', encoding='utf-8') as f:
                 content = f.read()
+            
+            # Validate recipe file first
+            is_valid, reason = validate_recipe_file(content)
+            if not is_valid:
+                print(f"  ⏭️  Skipping: {reason}")
+                skipped += 1
+                continue
             
             # Extract recipe metadata
             title, categories = extract_recipe_metadata(content)
@@ -233,6 +295,7 @@ def process_recipes_with_images(max_recipes=10, use_api=True):
             continue
     
     print(f"\n✅ Completed! Processed {processed} recipes with images.")
+    print(f"⏭️  Skipped {skipped} recipes (already have images or invalid)")
     print(f"📊 API calls used: {api_calls}/50 (hourly limit)")
     
     if not UNSPLASH_ACCESS_KEY:

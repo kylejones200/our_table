@@ -1,5 +1,6 @@
 ---
 
+
 title: "Greek Pita Pizzas"
 date: "2025-08-21T10:44:26.931505"
 type: "recipe"
@@ -23,6 +24,14 @@ steps:
 allergens:
   - "dairy"
   - "gluten"
+nutrition:
+  calories: 134.2
+  protein_g: 10.8
+  carbohydrates_g: 43.6
+  fat_g: 4.8
+  fiber_g: 10.5
+  sugar_g: 0.7
+  servings: 6
 ---
 
 {{< recipe-meta >}}

@@ -1,5 +1,6 @@
 ---
 
+
 title: "KING RANCH CASSEROLE"
 date: "2025-08-21T10:44:26.937487"
 type: "recipe"
@@ -21,6 +22,14 @@ steps:
   - "Mix soups and broth together. Layer chicken, soup mix, Ro-Tel tomatoes, then onions, tortillas, and cheese. Cover with foil and bake at 350 for 1 hour."
 allergens:
   - "dairy"
+nutrition:
+  calories: 118.5
+  protein_g: 7.9
+  carbohydrates_g: 27.6
+  fat_g: 5.7
+  fiber_g: 3.6
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

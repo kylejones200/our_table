@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Grandma Brashears' Noodles"
 date: "2025-08-21T10:44:26.924840"
 type: "recipe"
@@ -34,6 +35,8 @@ nutrition:
 allergens:
   - "eggs"
   - "gluten"
+image: "https://images.unsplash.com/photo-1517692763673-3b5085badf72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxncmFuZG1hJTIwYnJhc2hlYXJzJTIwZm9vZHxlbnwxfDB8fHwxNzU1ODA0NTYxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Laura Fonseca on Unsplash"
 ---
 
 Tomato Base

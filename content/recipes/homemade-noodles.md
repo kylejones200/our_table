@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Homemade Noodles"
 date: "2025-08-21T10:44:26.944552"
 type: "recipe"
@@ -23,6 +24,8 @@ nutrition:
   fiber_g: 0.0
   sugar_g: 0.0
   servings: 4
+image: "https://images.unsplash.com/photo-1585503913867-f3382c5d1122?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxob21lbWFkZSUyMG5vb2RsZXMlMjBmb29kfGVufDF8MHx8fDE3NTU4MDQ2MDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Fahim Reza on Unsplash"
 ---
 
 {{< recipe-meta >}}

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Broiled Honey-Lime Glazed Salmon Fillets with Scallions"
 date: "2025-08-21T10:44:26.933100"
 type: "recipe"
@@ -17,6 +18,14 @@ ingredients:
 notes: "Try to find fillets that are of similar size (about 6 ounces) for even cooking times. If the fillets are thinner than 1 1/4 inches, they will cook much more quickly and won't have enough oven time to glaze nicely. This recipe will work with both skin-on and skinless fillets."
 allergens:
   - "fish"
+nutrition:
+  calories: 226.0
+  protein_g: 11.6
+  carbohydrates_g: 47.2
+  fat_g: 11.2
+  fiber_g: 15.6
+  sugar_g: 24.9
+  servings: 4
 ---
 
 {{< recipe-meta >}}

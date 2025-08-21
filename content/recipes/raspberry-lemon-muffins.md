@@ -1,5 +1,6 @@
 ---
 
+
 title: "Raspberry Lemon Muffins"
 date: "2025-08-21T10:44:26.946049"
 type: "recipe"
@@ -23,6 +24,14 @@ allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+nutrition:
+  calories: 269.0
+  protein_g: 8.4
+  carbohydrates_g: 58.1
+  fat_g: 30.8
+  fiber_g: 0.6
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

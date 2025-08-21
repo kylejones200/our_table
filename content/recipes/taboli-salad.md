@@ -1,5 +1,6 @@
 ---
 
+
 title: "Taboli Salad"
 date: "2025-08-21T10:44:26.939814"
 type: "recipe"
@@ -17,6 +18,14 @@ ingredients:
   - "1/2 cup vegetable oil"
 allergens:
   - "gluten"
+nutrition:
+  calories: 92.5
+  protein_g: 10.7
+  carbohydrates_g: 53.8
+  fat_g: 1.6
+  fiber_g: 4.5
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

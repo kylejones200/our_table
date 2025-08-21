@@ -2,6 +2,7 @@
 
 
 
+
 title: "Spicy Breakfast Casserole"
 date: "2025-08-21T10:44:26.947799"
 type: "recipe"
@@ -27,12 +28,12 @@ nutrition:
   fiber_g: 0.3
   sugar_g: 0.6
   servings: 4
-image: "https://images.unsplash.com/photo-1572441536343-446b9b99adde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxzcGljeSUyMGJyZWFrZmFzdCUyMGNhc3Nlcm9sZSUyMGZvb2QlMjBjYXNzZXJvbGV8ZW58MXwwfHx8MTc1NTc5NTg4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
-image_credit: "Photo by LumenSoft Technologies on Unsplash"
 allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+image: "https://images.unsplash.com/photo-1572441536343-446b9b99adde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxzcGljeSUyMGJyZWFrZmFzdCUyMGNhc3Nlcm9sZSUyMGZvb2QlMjBjYXNzZXJvbGV8ZW58MXwwfHx8MTc1NTc5NTg4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by LumenSoft Technologies on Unsplash"
 ---
 
 {{< recipe-meta >}}

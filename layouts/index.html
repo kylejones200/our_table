@@ -27,7 +27,7 @@
             <h2>Recent Recipes</h2>
             <div class="recipe-grid">
                 {{ range first 6 (where .Site.RegularPages "Type" "recipe") }}
-                <article class="recipe-card">
+                <article class="recipe-card" data-allergens="{{ if .Params.allergens }}{{ .Params.allergens | jsonify }}{{ else }}[]{{ end }}">
                     {{ if .Params.image }}
                     <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy">
                     {{ end }}

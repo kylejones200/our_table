@@ -1,5 +1,6 @@
 ---
 
+
 title: "Sausage & Rice Casserole"
 date: "2025-08-21T10:44:26.944744"
 type: "recipe"
@@ -23,7 +24,15 @@ ingredients:
 steps:
   - "Brown sausage in heavy skillet over medium heat; transfer sausage to a 9x13 pan. In the sausage drippings, saute celery, onion, peppers and mushrooms until lightly browned; transfer to the casserole. To casserole, add water chestnuts, rice, broth, and seasonings; mix well. Cover tightly and bake at 350 for 1 to 1 1/2 hours until rice is fluffy and tender."
 allergens:
-  - 
+  -
+nutrition:
+  calories: 76.9
+  protein_g: 3.3
+  carbohydrates_g: 12.2
+  fat_g: 3.5
+  fiber_g: 2.1
+  sugar_g: 0.0
+  servings: 8
 ---
 
 {{< recipe-meta >}}

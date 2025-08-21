@@ -254,6 +254,11 @@ def process_recipes_with_usda_nutrition(max_recipes=5):
             with open(recipe_file, 'r', encoding='utf-8') as f:
                 content = f.read()
             
+            # Skip recipes that already have nutrition data
+            if 'nutrition:' in content and 'calories:' in content:
+                print("  ✅ Already has nutrition data, skipping")
+                continue
+            
             # Extract ingredients from front matter
             if 'ingredients:' not in content:
                 print("  ⚠️  No ingredients found, skipping")

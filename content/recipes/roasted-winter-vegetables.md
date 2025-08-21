@@ -1,5 +1,6 @@
 ---
 
+
 title: "Roasted Winter Vegetables"
 date: "2025-08-21T10:44:26.927939"
 type: "recipe"
@@ -27,6 +28,14 @@ steps:
 notes: "Hearty and heart-healthy, this vegetable array makes a warming and filling main course for a cold winter night."
 allergens:
   - "gluten"
+nutrition:
+  calories: 16.8
+  protein_g: 5.0
+  carbohydrates_g: 12.3
+  fat_g: 24.8
+  fiber_g: 4.4
+  sugar_g: 0.0
+  servings: 6
 ---
 
 {{< recipe-meta >}}

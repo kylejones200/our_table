@@ -2,6 +2,7 @@
 
 
 
+
 title: "Oatmeal Cookies"
 date: "2025-08-21T10:44:26.940255"
 type: "recipe"
@@ -32,11 +33,11 @@ nutrition:
   fiber_g: 0.7
   sugar_g: 3.2
   servings: 4
-image: "https://images.unsplash.com/photo-1671915768480-66538c18eb1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxvYXRtZWFsJTIwY29va2llcyUyMGZvb2QlMjBjb29raWVzfGVufDF8MHx8fDE3NTU3OTU5MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
-image_credit: "Photo by Vladislav Igumnov on Unsplash"
 allergens:
   - "eggs"
   - "gluten"
+image: "https://images.unsplash.com/photo-1671915768480-66538c18eb1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxvYXRtZWFsJTIwY29va2llcyUyMGZvb2QlMjBjb29raWVzfGVufDF8MHx8fDE3NTU3OTU5MDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Vladislav Igumnov on Unsplash"
 ---
 
 {{< recipe-meta >}}

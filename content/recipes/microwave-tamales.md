@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "Microwave Tamales"
 date: "2025-08-21T10:44:26.949061"
 type: "recipe"
@@ -18,6 +20,14 @@ ingredients:
   - "1 cup shredded Cheddar cheese"
 allergens:
   - "dairy"
+nutrition:
+  calories: 430.5
+  protein_g: 21.2
+  carbohydrates_g: 73.0
+  fat_g: 65.0
+  fiber_g: 39.1
+  sugar_g: 5.7
+  servings: 2
 --- TOPPING ---"
   - "11/2 cups water"
   - "1 cup cornmeal"

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Beef Taco Bake"
 date: "2025-08-21T10:44:26.930791"
 type: "recipe"
@@ -25,6 +26,14 @@ steps:
   - "Spoon 1 Tbsp cheese into each taco and top with beef mixture. Arrange tacos upright in bean mixture, cover with foil, and bake until bubbling, about 10 minutes. Remove foil, top with remaining cheese, and bake until cheese is melted, about 6 minutes. Sprinkle with scallions and serve."
 allergens:
   - "dairy"
+nutrition:
+  calories: 123.2
+  protein_g: 13.2
+  carbohydrates_g: 30.1
+  fat_g: 6.8
+  fiber_g: 2.8
+  sugar_g: 0.2
+  servings: 4
 ---
 
 {{< recipe-meta >}}

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Heck of a Jicama Salad"
 date: "2025-08-21T10:44:26.952740"
 type: "recipe"
@@ -18,7 +19,15 @@ ingredients:
   - "1/2 tsp ground cumin, eyeball it in the palm of your hand"
   - "3 Tbsp extra-virgin olive oil, eyeball it"
 allergens:
-  - 
+  -
+nutrition:
+  calories: 321.5
+  protein_g: 4.1
+  carbohydrates_g: 43.7
+  fat_g: 46.1
+  fiber_g: 1.4
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

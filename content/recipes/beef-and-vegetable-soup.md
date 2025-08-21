@@ -1,5 +1,7 @@
 ---
 
+
+
 title: "Beef and Vegetable Soup"
 date: "2025-08-21T10:44:26.927424"
 type: "recipe"
@@ -32,6 +34,14 @@ notes: |
 allergens:
   - "gluten"
   - "soy"
+nutrition:
+  calories: 92.2
+  protein_g: 14.7
+  carbohydrates_g: 17.5
+  fat_g: 1.8
+  fiber_g: 2.1
+  sugar_g: 0.0
+  servings: 6
 ---
 
 {{< recipe-meta >}}

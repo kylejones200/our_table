@@ -7,7 +7,7 @@
 
   <div class="recipe-grid">
     {{ range .Pages }}
-    <article class="recipe-card">
+    <article class="recipe-card" data-allergens="{{ if .Params.allergens }}{{ .Params.allergens | jsonify }}{{ else }}[]{{ end }}">
       {{ if .Params.image }}
       <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy">
       {{ end }}

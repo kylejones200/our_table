@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "German Butterkuchen"
 date: "2025-08-21T10:44:26.943144"
 type: "recipe"
@@ -32,6 +33,8 @@ allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+image: "https://images.unsplash.com/photo-1712594533988-13a401974b44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxnZXJtYW4lMjBidXR0ZXJrdWNoZW4lMjBmb29kfGVufDF8MHx8fDE3NTU4MDQ1NTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Divya Kothari on Unsplash"
 --- TOPPING ---"
 steps:
   - "Scald the milk, add 1/2 cup sugar, salt, and shortening, and cool to lukewarm. Dissolve yeast and 1 tsp sugar in warm water, then stir into cooled milk mixture. Beat the eggs with 1 cup of the flour."

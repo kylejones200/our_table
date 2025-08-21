@@ -2,6 +2,7 @@
 
 
 
+
 title: "Fillet O'Fu"
 date: "2025-08-21T10:44:26.925332"
 type: "recipe"
@@ -23,8 +24,6 @@ nutrition:
   fiber_g: 0.7
   sugar_g: 3.7
   servings: 4
-image: "https://images.unsplash.com/photo-1624900042668-8e96d78c29d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxmaWxsZXQlMjBvJTIwZm9vZHxlbnwxfDB8fHwxNzU1Nzk1OTAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
-image_credit: "Photo by Claudio Schwarz on Unsplash"
 allergens:
   - "soy"
 
@@ -36,6 +35,8 @@ steps:
   - "Place the flour into a shallow dish and the eggs into another. Lightly beat the eggs."
   - "Heat the canola oil in the skillet over medium-high heat."
   - "Remove tofu from marinade and drain on paper towels to remove any excess marinade. Lightly dredge the tofu in the flour, knocking off any excess flour and slide into the eggs until completely, but thinly, coated on both sides. Slide tofu gently into the hot oil and fry for 2 minutes until golden brown and delicious. Flip the tofu using the tongs, and cook for another 2 minutes."
+image: "https://images.unsplash.com/photo-1624900042668-8e96d78c29d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxmaWxsZXQlMjBvJTIwZm9vZHxlbnwxfDB8fHwxNzU1Nzk1OTAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Claudio Schwarz on Unsplash"
 ---
 
 {{< recipe-meta >}}
