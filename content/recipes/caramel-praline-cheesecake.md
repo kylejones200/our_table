@@ -9,8 +9,12 @@ categories:
   - "cheesecake"
 source: ""
 ingredients:
-  - "
-allergens: ['dairy', 'eggs', 'gluten', 'nuts']
+  []
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
+  - "nuts"
 --- CRUST ---"
   - "14 graham cracker squares"
   - "1/2 cup chopped pecans, toasted"

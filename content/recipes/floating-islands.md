@@ -9,8 +9,10 @@ categories:
   - "dessert"
 source: "Restaurant Favorites at Home"
 ingredients:
-  - "
-allergens: ['dairy', 'eggs']
+  []
+allergens:
+  - "dairy"
+  - "eggs"
 --- Crème Anglaise ---"
   - "2 cups heavy cream"
   - "4 large egg yolks"

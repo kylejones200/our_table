@@ -14,7 +14,8 @@ ingredients:
   - "1/4 tsp sugar"
   - "1 Tbsp vegetable oil"
   - "3 to 3 1/2 cups flour"
-allergens: ['gluten']
+allergens:
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

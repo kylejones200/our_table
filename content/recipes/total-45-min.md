@@ -1,5 +1,6 @@
 ---
 
+
 title: "Total : 45 min"
 date: "2025-08-21T10:44:26.929109"
 type: "recipe"
@@ -26,7 +27,17 @@ steps:
   - "Cover and chill dough at least 15 minutes (essential step). Meanwhile, heat oven to 375F. Line 2 making sheets with parchment paper."
   - "Shape dough into 16 balls (scant 1/4 cup each). Place 8 balls onto each prepared sheet. With fingers, press each into a patty about 3\" in diameter, allowing about 2\" between patties for slight spreading."
   - "Bake 7 to 10 minutes or until desired brownness (Do Not Overbake), switching position of sheets halfway through. Let cool a few minutes before moving to rack to cool completely."
-allergens: ['eggs', 'gluten']
+allergens:
+  - "eggs"
+  - "gluten"
+nutrition:
+  calories: 108.1
+  protein_g: 2.4
+  carbohydrates_g: 19.8
+  fat_g: 5.7
+  fiber_g: 0.1
+  sugar_g: 0.8
+  servings: 16
 ---
 
 {{< recipe-meta >}}

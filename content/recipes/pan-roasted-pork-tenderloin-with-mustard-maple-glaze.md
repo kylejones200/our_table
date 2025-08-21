@@ -10,8 +10,8 @@ source: "The Best 30-Minute Recipe"
 ingredients:
   - "2 pork tenderloins (1 pound each), trimmed"
   - "1 Tbsp vegetable oil"
-  - "
-allergens: []
+allergens:
+  - 
 --- Mustard-Maple Glaze ---"
   - "1/2 cup pure maple syrup"
   - "2/3 cup whole-grain mustard"

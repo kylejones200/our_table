@@ -27,7 +27,9 @@ steps:
   - "Cook broccoli in 1 inch water for 10-12 minutes. Drain and set aside."
   - "Combine onion, diced carrot, celery, and 1 cup water in saucepan. Bring to boil, turn down and simmer 15 minutes. Cool, but do not drain. Process vegetables and water in blender until smooth."
   - "Melt butter in Dutch oven, add flour, stirring until smooth. Gradually add milk, cook, stirring constantly until thick. Add broccoli, pureed vegetables, broth, and last four ingredients. Cook over low heat, stirring occasionally until cheese melts. Makes 4 cups."
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 nutrition:
   calories: 58.0
   protein_g: 11.2

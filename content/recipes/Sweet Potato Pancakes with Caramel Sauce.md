@@ -28,7 +28,10 @@ steps:
   - "In a small bowl, combine the first eight, dry, ingredients. In another bowl, whisk the egg, milk, sweet potatoes and melted butter. Stir into dry ingredients just until moistened."
   - "Pour batter by 1/4 cupfuls onto a greased hot griddle; turn when bubbles form on top. Cook until second side is golden brown."
   - "Drizzle with caramel topping; sprinkle with nuts. Serve with whipped butter or whipped cream if desired."
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

@@ -24,7 +24,8 @@ steps:
   - "Cut the chicken breasts into 1-inch chunks. Push the vegetables aside,"
   - "add the chicken and cook for 3 to 4 minutes, turning the pieces often, until the chicken is lightly browned."
   - "Add the marinara sauce and pepper flakes, reduce heat to medium and simmer"
-allergens: []
+allergens:
+  - 
 nutrition:
   calories: 22.2
   protein_g: 11.5

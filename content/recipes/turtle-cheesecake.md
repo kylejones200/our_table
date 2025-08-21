@@ -23,7 +23,10 @@ ingredients:
 steps:
   - "Preheat oven to 350° F. In large bowl, mix cookie crumbs and melted butter. Press into bottom and 1-in cup side of a 9-inch spring-form pan. In heavy saucepan over low heat, melt caramels with milk. Stir frequently until smooth. Pour caramel sauce over crust and top with pecans. In large bowl, combine cream cheese, sugar, and vanilla. Beat until smooth. Add eggs one at a time. Melt chocolate and blend into cream cheese mixture. Melt chocolate and blend into cream cheese mixture. Pour batter over pecans. Bake 40 to 50 minutes or until set. Loosen cake from pan edge. To avoid cracking, do not remove sides until cooled. Refrigerate eight hours or overnight. Notes: Bring ingredients to room temp before mixing"
   - "Crush graham crackers or cookies in zip-lock bag"
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 
 
 

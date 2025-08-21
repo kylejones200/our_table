@@ -13,7 +13,8 @@ ingredients:
   - "1/2 cup ketchup"
 steps:
   - "Simmer over low heat while cooking spaghetti according to directions on the package. Sauce may be served over cooked spaghetti or mixed together."
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

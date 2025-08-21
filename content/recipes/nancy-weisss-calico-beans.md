@@ -21,7 +21,8 @@ ingredients:
   - "1 lb. can lima beans (drained)"
 steps:
   - "Brown bacon, remove. Drain off grease, add onions and ground beef; brown. Mix all other ingredients together and add to meat mixture along with browned bacon. Place in a 9x13 casserole and bake 1 hour in a 350 degree oven."
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

@@ -25,7 +25,10 @@ steps:
   - "Combine flour, granulated sugar, brown sugar, cocoa, baking powder, and salt, breaking up any lumps of brown sugar. Stir in butter until mixture is well combined and crumbly. (This part can be done in a food processor.)"
   - "Add egg whites and vanilla extract. Stir by hand just until dough comes together. If the dough is too dry, add part of a fourth egg white until dough can be formed balls."
   - "Place a few heaping spoonfuls of confectioners' sugar into shallow dish. Roll dough into 1 1/2 inch balls, then roll balls in sugar to coat. Place 2\" apart on baking sheet coated with parchment paper or cooking spray. Bake 12 to 14 minutes, until just set around edges but still soft in the middle. Transfer to rack to cool."
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 nutrition:
   calories: 919.6
   protein_g: 32.9

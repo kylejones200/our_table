@@ -29,7 +29,9 @@ ingredients:
 notes: |
   time: Usually takes 2- 2 1/2 hours to make
   Choose whole sirloin tip steaks over ones that have been cut into small pieces for stir-fries. If sirloin tip steaks are unavailable, substitute blade or flank steak, removing any hard gristle or excess fat. Button mushrooms can be used in place of the cremini mushrooms, with some trade-off in flavor. Our preferred brand of beef broth is Pacific. If you like, add 1 cup of frozen peas, frozen corn, or frozen cut green beans during the last 5 minutes of cooking. For a heartier soup, add 10 ounces of red-skinned potatoes, cut into 1/2 inch pieces (2 cups), during the last 15 minutes of cooking.
-allergens: ['gluten', 'soy']
+allergens:
+  - "gluten"
+  - "soy"
 ---
 
 {{< recipe-meta >}}

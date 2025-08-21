@@ -17,7 +17,9 @@ ingredients:
   - "2 Tbsp peanut butter"
 steps:
   - "Combine oats and butter in glass mixing bowl. Microwave on high 3-4 minutes. Stir in brown sugar and corn syrup. Microwave 1 1/2 to 2 1/2 minutes, or until heated and sugar is dissolved. Turn into greased 8x8 pan. Press evenly in dish. Melt chocolate chips in separate bowl 1 1/2 - 2 1/2 minutes. Blend in peanut butter, spread over warm bars. Refrigerate until chocolate is set. Cut into squares."
-allergens: ['dairy', 'nuts']
+allergens:
+  - "dairy"
+  - "nuts"
 ---
 
 {{< recipe-meta >}}

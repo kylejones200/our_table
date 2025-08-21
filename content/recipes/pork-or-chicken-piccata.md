@@ -20,7 +20,9 @@ ingredients:
   - "1 garlic clove, pressed"
   - "1 Tbsp snipped fresh parsley"
   - "2 Tbsp capers, drained and rinsed"
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

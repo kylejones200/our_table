@@ -20,8 +20,10 @@ ingredients:
   - "2 tsp soda"
   - "4 apples, peeled and diced or shredded"
   - "1 cup pecans, chopped"
-  - "
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 nutrition:
   calories: 245.2
   protein_g: 7.3

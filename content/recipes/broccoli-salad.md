@@ -19,7 +19,8 @@ ingredients:
 steps:
   - "Mix dressing ingredients, and add to vegetables, bits, and seeds."
   - "Mix and chill."
-allergens: ['eggs']
+allergens:
+  - "eggs"
 ---
 
 {{< recipe-meta >}}

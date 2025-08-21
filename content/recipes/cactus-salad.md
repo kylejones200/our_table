@@ -30,7 +30,8 @@ ingredients:
   - "In a small bowl, stir all the ingredients together. Spoon over vegetables or drizzle lightly over dressed salads as a garnish."
 steps:
   - "Preheat grill or broiler. Place cactus paddles in a bowl and toss with 1/4 cup of the olive oil and 1/2 tsp of the salt. Grill or broil the paddles until grill marks appear on each side, or they turn dark green with black patches, about 3 to 5 minutes. Set aside to cool to room temperature. Cover and chill 2 to 4 hours or overnight. Cut cactus into 1/2-inch pieces. In a large bowl, combine the cactus, tomatoes, onions, chiles, cilantro and cheese with the remaining 1/2 cup oil, the vinegar, the remaining 1 tsp salt and pepper. Toss well. Serve on plates lined with lettuce leaves, and garnish with avocado slices sprinkled with cracked pepper garnish."
-allergens: ['dairy']
+allergens:
+  - "dairy"
 nutrition:
   calories: 50.0
   protein_g: 16.1

@@ -18,7 +18,8 @@ ingredients:
   - "1 tsp nutmeg"
   - "1 tsp whole cloves"
   - "2 sticks cinnamon"
-allergens: []
+allergens:
+  - 
 nutrition:
   calories: 395.0
   protein_g: 2.1

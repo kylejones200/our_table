@@ -1,5 +1,6 @@
 ---
 
+
 title: "Chicken Salad"
 date: "2025-08-21T10:44:26.947010"
 type: "recipe"
@@ -20,7 +21,16 @@ ingredients:
   - "1/2 tsp salt"
   - "1/2 tsp sugar"
   - "⅛ tsp pepper"
-allergens: ['eggs']
+allergens:
+  - "eggs"
+nutrition:
+  calories: 95.2
+  protein_g: 7.0
+  carbohydrates_g: 14.6
+  fat_g: 7.7
+  fiber_g: 1.9
+  sugar_g: 1.4
+  servings: 4
 ---
 
 {{< recipe-meta >}}

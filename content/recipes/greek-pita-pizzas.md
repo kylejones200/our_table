@@ -20,7 +20,9 @@ ingredients:
   - "1 scallion, thinly sliced"
 steps:
   - "Preheat the oven to 425 degrees. Pat the artichokes dry with paper towels. In a large nonstick skillet, over medium-high heat, cook the artichokes, zucchini, garlic, and oregano for 4 to 5 minutes, or until the zucchini is tender. Stir in the olives."
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

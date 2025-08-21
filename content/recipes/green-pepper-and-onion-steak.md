@@ -8,8 +8,10 @@ yield: "4 servings"
 categories: []
 source: ""
 ingredients:
-  - "
-allergens: ['gluten', 'soy']
+  []
+allergens:
+  - "gluten"
+  - "soy"
 --- Marinade ---"
   - "1/4 cup soy sauce"
   - "1/4 cup water"

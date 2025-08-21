@@ -17,7 +17,9 @@ ingredients:
   - "12-16 oz. chocolate chips"
 steps:
   - "Melt margarine. Add peanut butter, mix well. Add powdered sugar, mix, then add Rice Krispies. Form into walnut-sized balls with plastic gloved hands. Place onto jelly roll pan. Melt paraffin and chocolate chips in top of double boiler. Dip balls into chocolate mixture, shake excess off, and place on wax paper lined jelly roll pan. Place in freezer to set chocolate. Makes 80-100 balls. May be stored in airtight container in freezer."
-allergens: ['dairy', 'nuts']
+allergens:
+  - "dairy"
+  - "nuts"
 ---
 
 {{< recipe-meta >}}

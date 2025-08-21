@@ -19,7 +19,8 @@ ingredients:
   - "6 slices bacon, chopped"
 steps:
   - "Combine ingredients and pour into 9\"x13\" casserole. Bake uncovered at 350° for 50-60 minutes."
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

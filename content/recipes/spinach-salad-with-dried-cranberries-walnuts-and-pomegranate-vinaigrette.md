@@ -14,7 +14,8 @@ ingredients:
   - "2 Tbsp white wine vinegar"
   - "2 Tbsp olive oil"
   - "2 tsp Dijon mustard"
-allergens: []
+allergens:
+  - 
 nutrition:
   calories: 109.2
   protein_g: 21.1

@@ -24,7 +24,8 @@ steps:
   - "Store in refrigerator up to a week."
 image: "https://images.unsplash.com/photo-1707339088654-117df66bd55c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHwlMjBzYWx0JTIwdG8lMjB0YXN0ZSUyMDIlMjBncmVlbiUyMG9uaW9ucyUyMGZvb2R8ZW58MXwwfHx8MTc1NTc5NTc5Nnww&ixlib=rb-4.1.0&q=80&w=1080"
 image_credit: "Photo by Ariel Cattai on Unsplash"
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

@@ -10,8 +10,11 @@ categories:
   - "dessert"
 source: "Briana Warner"
 ingredients:
-  - "
-allergens: ['dairy', 'eggs', 'gluten']
+  []
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 nutrition:
   calories: 134.5
   protein_g: 5.4

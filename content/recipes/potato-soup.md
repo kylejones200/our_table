@@ -22,7 +22,8 @@ ingredients:
   - "Saute onions in margarine until tender. Add water, potatoes, salt,"
   - "pepper and dillweed. Cook on low 25-30 minutes until potatoes are"
   - "tender. Add milk and parsley. Heat just until boiling."
-allergens: ['dairy']
+allergens:
+  - "dairy"
 nutrition:
   calories: 160.7
   protein_g: 3.5

@@ -14,7 +14,8 @@ ingredients:
   - "1/2 tsp baking soda"
   - "1 1/2 cups buttermilk"
   - "1 egg beaten"
-allergens: ['eggs']
+allergens:
+  - "eggs"
 ---
 
 {{< recipe-meta >}}

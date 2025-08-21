@@ -26,7 +26,9 @@ ingredients:
   - "4. Stir honey mixture again. Drizzle mixture over oat mixture while stirring. Continue stirring until oats are thoroughly covered."
   - "5. Spread mixture on prepared baking sheets. Bake 15 minutes. Stir. Rotate pans top to bottom and turn pans from front to back. Continue baking, stirring every 5 minutes, until golden brown, 10 to 18 minutes more. Watch closely to avoid burning."
   - "6. Cool completely and stir in cranberries and raisins or other fruit. Transfer to airtight storage containers."
-allergens: ['gluten', 'sesame']
+allergens:
+  - "gluten"
+  - "sesame"
 nutrition:
   calories: 12.7
   protein_g: 4.4

@@ -15,8 +15,10 @@ ingredients:
   - "1 tsp Vanilla"
   - "1/4 tsp Salt"
   - "2/3-cup flour"
-  - "
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 --- GLAZE ---"
   - "1/4 cup butter"
   - "2 squares, 1 oz each semisweet chocolate"

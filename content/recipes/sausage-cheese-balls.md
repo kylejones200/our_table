@@ -14,7 +14,8 @@ ingredients:
   - "2 cups baking mix"
 steps:
   - "Combine sausage, longhorn cheese and baking mix in bowl; mix well. Shape into 1-inch balls. Place on baking sheet. Bake at 325 degrees for 25 minutes. Can add 2 tsp sage to sausage for additional spice, and also hot red peppers. Serve with mustard."
-allergens: ['dairy']
+allergens:
+  - "dairy"
 ---
 
 {{< recipe-meta >}}

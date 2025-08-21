@@ -39,7 +39,9 @@ nutrition:
   servings: 4
 image: "https://images.unsplash.com/photo-1624634564715-2ab7c65f9dae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHx3aW5lJTIwbWFyaW5hdGUlMjBmb29kfGVufDF8MHx8fDE3NTU3OTU4ODB8MA&ixlib=rb-4.1.0&q=80&w=1080"
 image_credit: "Photo by engin akyurt on Unsplash"
-allergens: ['gluten', 'soy']
+allergens:
+  - "gluten"
+  - "soy"
 ---
 
 {{< recipe-meta >}}

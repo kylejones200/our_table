@@ -39,7 +39,10 @@ nutrition:
   servings: 4
 image: "https://images.unsplash.com/photo-1651395246043-9895530daa53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxwYXVsJTIwZm9vZHxlbnwxfDB8fHwxNzU1Nzk1ODg1fDA&ixlib=rb-4.1.0&q=80&w=1080"
 image_credit: "Photo by paul saad on Unsplash"
-allergens: ['dairy', 'gluten', 'shellfish']
+allergens:
+  - "dairy"
+  - "gluten"
+  - "shellfish"
 ---
 
 {{< recipe-meta >}}

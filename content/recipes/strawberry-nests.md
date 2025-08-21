@@ -19,7 +19,8 @@ ingredients:
 steps:
   - "Whip cream cheese, sugar, milk, and vanilla until fluffy. Spread this mixture on each shortcake cup as a frosting. Coat each cupcake with coconut and place on dessert dish. Refrigerate. To serve,"
   - "spoon sliced strawberries over the coated dessert cups."
-allergens: ['dairy']
+allergens:
+  - "dairy"
 ---
 
 {{< recipe-meta >}}

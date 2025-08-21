@@ -20,7 +20,10 @@ ingredients:
   - "1/2 cup nuts"
 steps:
   - "Beat Crisco, sugar, eggs, and bananas well. Add remaining ingredients, mix well. Pour into 5 mini loaf pans - bake at 325 degrees for 30-35 minutes, or bake 1 regular loaf for 1 hour."
-allergens: ['eggs', 'gluten', 'nuts']
+allergens:
+  - "eggs"
+  - "gluten"
+  - "nuts"
 nutrition:
   calories: 131.2
   protein_g: 10.1

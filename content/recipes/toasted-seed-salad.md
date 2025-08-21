@@ -9,8 +9,10 @@ categories:
   - "salad"
 source: "Stop and Smell the Rosemary"
 ingredients:
-  - "
-allergens: ['dairy', 'sesame']
+  []
+allergens:
+  - "dairy"
+  - "sesame"
 --- Dressing ---"
   - "2 Tbsp fresh lemon juice"
   - "dash Tabasco sauce"

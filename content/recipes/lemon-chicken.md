@@ -31,7 +31,8 @@ nutrition:
   servings: 4
 image: "https://images.unsplash.com/photo-1748819762564-21fc970cfa23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxsZW1vbiUyMGNoaWNrZW4lMjBmb29kJTIwbWFpbiUyMGNvdXJzZXxlbnwxfDB8fHwxNzU1Nzk1ODc2fDA&ixlib=rb-4.1.0&q=80&w=1080"
 image_credit: "Photo by János Venczák on Unsplash"
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

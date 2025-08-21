@@ -15,8 +15,9 @@ ingredients:
   - "1/2 tsp salt"
   - "1/3 cup plus 1 Tbsp shortening"
   - "2 to 3 Tbsp cold water"
-  - "
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 --- Filling ---"
   - "1 1/2 quarts (6 cups) strawberries, hulled"
   - "1 cup sugar"

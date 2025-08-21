@@ -20,7 +20,10 @@ ingredients:
   - "1/2 cup melted butter"
   - "1 cup sugar"
   - "1 Tbsp cinnamon"
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 nutrition:
   calories: 267.7
   protein_g: 23.8

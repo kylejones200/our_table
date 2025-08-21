@@ -15,7 +15,8 @@ ingredients:
   - "3 Tbsp almonds"
   - "6 egg whites"
   - "1 tsp fresh lemon juice"
-allergens: ['eggs']
+allergens:
+  - "eggs"
 ---
 
 {{< recipe-meta >}}

@@ -20,7 +20,8 @@ steps:
   - "Cook chicken with seasonings for 1 1/2 hours until tender. Remove chicken, cool. Strain broth, return to kettle. Bone chicken and"
   - "cut into bite-sized pieces. Bring broth to boil, add homemade noodles, stirring occasionally. Cook 15 minutes. Add chicken and"
   - "serve."
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

@@ -9,7 +9,7 @@ yield: "12 servings"
 categories: []
 source: "Cooks Illustrated Make-Ahead Recipes 2010"
 ingredients:
-  - "
+  []
 nutrition:
   calories: 81.9
   protein_g: 4.3

@@ -24,7 +24,8 @@ steps:
   - "Prepare salad dressing by combining the sugar, salad oil, vinegar, salt, mustard and onion juice."
   - "Let dressing set several hours or overnight in the refrigerator to let flavors blend."
   - "Toss greens with dressing and sprinkle bacon and mushrooms over the top."
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

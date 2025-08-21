@@ -16,9 +16,9 @@ ingredients:
   - "2 cups Cool Whip"
   - "2 cans sour pie cherries, drained well"
   - "1 cup nuts"
-  - "
-allergens: ['dairy', 'nuts']
---- Stir and mix well. Add to ---"
+allergens:
+  - "dairy"
+  - "nuts"
 steps:
   - "Mix, press into 9 x 13 pan, bake at 375 for 5 minutes."
   - "Spread over crust, sprinkle reserved crumbs on top and refrigerate."

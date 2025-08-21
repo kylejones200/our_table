@@ -14,7 +14,8 @@ ingredients:
   - "1/2 tsp seasoned salt"
 steps:
   - "Add seasonings to meat; brown. Drain off all grease. Saute 1/2 cup chopped onion in 2 Tbsp water in microwave. Add to meat."
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

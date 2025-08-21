@@ -16,7 +16,8 @@ ingredients:
   - "21/2 lbs pork ribs"
 steps:
   - "Rub mixture into ribs. Smoke ribs 8 hours Cook in oven 1 hour to tenderize at 325°."
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

@@ -28,7 +28,9 @@ steps:
   - "Spoon heaping Tbsp of the batter evenly over the blueberries."
   - "Bake for 20 to 25 minutes, or until the blueberries are bubbly and the topping is golden brown."
 notes: "Alternate versions: Cherry Cobbler - Replace blueberries with 2 cups pitted sweet cherries and 2 cups pitted sour cherries, increase sugar to 2/3 cup. Peach Cobbler - Replace blueberries with 4 cups fresh or frozen sliced peaches, increase sugar to 2/3 cup."
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 nutrition:
   calories: 440.5
   protein_g: 4.3

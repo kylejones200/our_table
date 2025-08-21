@@ -19,7 +19,8 @@ ingredients:
   - "1 cup grated cheddar cheese"
 steps:
   - "Mix soups and broth together. Layer chicken, soup mix, Ro-Tel tomatoes, then onions, tortillas, and cheese. Cover with foil and bake at 350 for 1 hour."
-allergens: ['dairy']
+allergens:
+  - "dairy"
 ---
 
 {{< recipe-meta >}}

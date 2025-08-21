@@ -22,7 +22,8 @@ ingredients:
 steps:
   - "In a 5 quart Dutch oven, sauté onion in butter until tender. Add the carrots, potato, broth and ginger. Cover and cook over medium heat for 30 minutes or until vegetables are tender. Cool 15 minutes. Puree in small batches in a blender or food processor until smooth."
   - "Return all to the saucepan; add cream, rosemary, salt and pepper. Cook over low heat until heated through."
-allergens: ['dairy']
+allergens:
+  - "dairy"
 ---
 
 {{< recipe-meta >}}

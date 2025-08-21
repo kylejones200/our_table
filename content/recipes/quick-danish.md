@@ -18,7 +18,8 @@ ingredients:
   - "6 to 8 minutes."
 steps:
   - "Preheat oven to 425 degrees. Place crescent rolls in bottom of 9\" x mixture. Reduce heat to 325 degrees, return rolls to oven and bake"
-allergens: ['dairy']
+allergens:
+  - "dairy"
 ---
 
 {{< recipe-meta >}}

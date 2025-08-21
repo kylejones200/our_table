@@ -9,8 +9,12 @@ yield: "4 servings"
 categories: []
 source: ""
 ingredients:
-  - "
-allergens: ['dairy', 'eggs', 'gluten', 'nuts']
+  []
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
+  - "nuts"
 nutrition:
   calories: 188.8
   protein_g: 16.9

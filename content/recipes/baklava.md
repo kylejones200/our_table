@@ -12,12 +12,20 @@ source: ""
 ingredients:
   - "3 pkgs. phyllo dough"
   - "6 sticks butter, melted"
-  - "
-allergens: ['dairy', 'nuts']
---- Filling: Syrup ---"
-  - "9 cups nuts 6 cups sugar"
-  - "9 Tbsp sugar 3 cups water"
-  - "1 Tbsp Cinnamon 4 tsp lemon juice"
+  - "2 lbs mixed nuts, chopped"
+  - "1 tsp cinnamon"
+  - "2 cups sugar"
+  - "1 cup water"
+  - "1/2 cup honey"
+  - "1 tsp vanilla"
+steps:
+  - "Layer phyllo dough with butter and nuts mixture"
+  - "Bake until golden brown"
+  - "Make syrup with sugar, water, honey and vanilla"
+  - "Pour syrup over hot baklava"
+allergens:
+  - "dairy"
+  - "nuts"
 ---
 
 {{< recipe-meta >}}

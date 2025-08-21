@@ -9,8 +9,11 @@ categories:
   - "cake"
 source: ""
 ingredients:
-  - "
-allergens: ['dairy', 'gluten', 'nuts']
+  []
+allergens:
+  - "dairy"
+  - "gluten"
+  - "nuts"
 --- Prepare white cake mix in 13x9 pan as directed. Immediately after taking out of oven, prick holes with meat fork all over cake and while still hot, pour over the following mix ---"
   - "1 can Eagle Brand milk"
   - "1/2 cup cream of coconut"

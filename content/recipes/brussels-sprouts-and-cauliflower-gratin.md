@@ -26,7 +26,9 @@ steps:
   - "Place cauliflower and Brussels sprouts in a large saucepan and cover with water. Bring to a boil. Cover and cook for 2-3 minutes or until crisp-tender, then drain. Meanwhile, in a large skillet, cook the bacon over medium heat until crisp. Remove to paper towels with a slotted spoon; drain, reserving drippings. Saute onion and garlic in bacon drippings until tender. Stir in flour until blended; gradually whisk in the milk, cream, salt and pepper. Bring to a boil; cook and stir for 2 minutes or until thickened."
   - "Stir in cauliflower mixture and bacon. Transfer to a greased 2 1/2 quart baking dish. Cover and bake at 375 degrees for 15 minutes."
   - "Combine bread crumbs and cheese blend. Uncover vegetables and sprinkle with bread crumb mixture. Bake, uncovered, for 15-20 minutes or until golden brown."
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

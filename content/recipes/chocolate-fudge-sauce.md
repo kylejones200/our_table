@@ -17,7 +17,8 @@ ingredients:
   - "1 tsp vanilla"
 steps:
   - "Melt butter and chocolate in microwave; stir in remaining ingredients. Cook until sugar is dissolved and sauce is smooth. Serve warm or cold over ice cream. Yield 4 cups."
-allergens: ['dairy']
+allergens:
+  - "dairy"
 ---
 
 {{< recipe-meta >}}

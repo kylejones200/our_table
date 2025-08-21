@@ -17,7 +17,9 @@ ingredients:
   - "1 lb. ham, chopped into bite-sized pieces"
   - "1 tsp salt"
   - "1/2 tsp pepper"
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

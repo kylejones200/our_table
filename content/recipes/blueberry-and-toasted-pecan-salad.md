@@ -14,8 +14,9 @@ ingredients:
   - "2 Tbsp butter, melted"
   - "1 cup fresh blueberries"
   - "5 cups fresh spinach leaves or green leaf, rinsed and dried"
-  - "
-allergens: ['dairy', 'nuts']
+allergens:
+  - "dairy"
+  - "nuts"
 nutrition:
   calories: 22.0
   protein_g: 12.6

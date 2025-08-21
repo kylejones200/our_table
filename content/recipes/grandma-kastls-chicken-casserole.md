@@ -19,7 +19,9 @@ ingredients:
   - "1 small onion, minced"
 steps:
   - "Cook chicken breasts in 4 cups water with 1 cup chopped onion, and 1 cup chopped celery. Remove breasts and vegetables. Cook noodles in broth 5 minutes. Drain and add chicken breasts which have been cubed into bite sized pieces, soups, sour cream, and onion. Place in greased 13x9 casserole and bake in 350° oven for 30-45 minutes."
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

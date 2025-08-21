@@ -16,8 +16,8 @@ ingredients:
   - "1/2 tsp oregano"
   - "1/4 tsp pepper"
   - "1 cup shredded Cheddar cheese"
-  - "
-allergens: ['dairy']
+allergens:
+  - "dairy"
 --- TOPPING ---"
   - "11/2 cups water"
   - "1 cup cornmeal"

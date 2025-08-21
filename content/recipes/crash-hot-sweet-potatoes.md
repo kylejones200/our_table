@@ -1,5 +1,6 @@
 ---
 
+
 title: "Crash Hot Sweet Potatoes"
 date: "2025-08-21T10:44:26.932521"
 type: "recipe"
@@ -13,8 +14,16 @@ ingredients:
   - "2 quarts water"
   - "1 Tbsp melted butter"
   - "1 Tbsp olive oil"
-  - "
-allergens: ['dairy']
+allergens:
+  - "dairy"
+nutrition:
+  calories: 6.0
+  protein_g: 13.2
+  carbohydrates_g: 16.1
+  fat_g: 15.3
+  fiber_g: 2.9
+  sugar_g: 0.0
+  servings: 4
 --- Topping Mixture ---"
   - "1 1/2 Tbsp light brown sugar"
   - "1/2 tsp kosher salt"

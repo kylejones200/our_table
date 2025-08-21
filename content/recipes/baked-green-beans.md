@@ -17,7 +17,8 @@ ingredients:
   - "1 (10 3/4 oz.) can chicken broth"
 steps:
   - "Cook bacon until crisp, and remove from skillet. Saute onion and mushrooms in drippings until soft. Stir in remaining ingredients except bacon; pour over beans. Cover and bake at 350 degrees for 40 to 45 minutes or until beans are tender. Sprinkel with bacon."
-allergens: []
+allergens:
+  - 
 nutrition:
   calories: 7.3
   protein_g: 5.1

@@ -9,8 +9,11 @@ categories:
   - "dessert"
 source: ""
 ingredients:
-  - "
-allergens: ['dairy', 'eggs', 'gluten']
+  []
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 --- Crust ---"
   - "1 pkg. yellow cake mix"
   - "1/2 cup butter, melted"

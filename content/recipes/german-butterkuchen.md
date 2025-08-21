@@ -20,7 +20,6 @@ ingredients:
   - "3 1/4 cups unsifted flour"
   - "1/3 cup chopped almonds"
   - "Butter topping"
-  - "
 nutrition:
   calories: 155.5
   protein_g: 3.5
@@ -29,7 +28,10 @@ nutrition:
   fiber_g: 0.0
   sugar_g: 0.0
   servings: 12
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 --- TOPPING ---"
 steps:
   - "Scald the milk, add 1/2 cup sugar, salt, and shortening, and cool to lukewarm. Dissolve yeast and 1 tsp sugar in warm water, then stir into cooled milk mixture. Beat the eggs with 1 cup of the flour."

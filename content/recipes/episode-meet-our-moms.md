@@ -24,7 +24,8 @@ ingredients:
 steps:
   - "Arrange the first nine items decoratively on a large platter. Whisk together the oregano, the vinegar and salt and pepper, to taste. Add the oil in a stream, whisking. Drizzle the dressing over the platter."
 notes: "Recipe adapted from The New York Times Cookbook, Craig Claiborne, Harper/Rowe, 1961"
-allergens: ['fish']
+allergens:
+  - "fish"
 ---
 
 {{< recipe-meta >}}

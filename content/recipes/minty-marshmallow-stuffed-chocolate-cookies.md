@@ -20,8 +20,10 @@ ingredients:
   - "1 tsp pure vanilla extract"
   - "1/4 tsp peppermint extract"
   - "24-30 chocolate mint marshmallows (note these are smaller than full-size mallows…if you use the full-size, you'll need to cut in half.)"
-  - "
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 nutrition:
   calories: 68.0
   protein_g: 1.9

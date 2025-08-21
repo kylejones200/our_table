@@ -33,7 +33,9 @@ nutrition:
   servings: 4
 image: "https://images.unsplash.com/photo-1597075349517-0deb1e127c37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxwaXp6YSUyMGNhc3Nlcm9sZSUyMGZvb2QlMjBjYXNzZXJvbGV8ZW58MXwwfHx8MTc1NTc5NTg3Mnww&ixlib=rb-4.1.0&q=80&w=1080"
 image_credit: "Photo by Markus Spiske on Unsplash"
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

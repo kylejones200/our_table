@@ -1,5 +1,6 @@
 ---
 
+
 title: "Roasted Vegetable Tacos with Avocado Cream and Feta"
 date: "2025-08-21T10:44:26.932304"
 type: "recipe"
@@ -8,8 +9,17 @@ yield: "4 servings"
 categories: []
 source: "naturallyella.com"
 ingredients:
-  - "
-allergens: ['dairy']
+  []
+allergens:
+  - "dairy"
+nutrition:
+  calories: 11.0
+  protein_g: 1.5
+  carbohydrates_g: 7.0
+  fat_g: 20.8
+  fiber_g: 1.5
+  sugar_g: 0.0
+  servings: 4
 --- Taco Filling ---"
   - "1 small zucchini, diced"
   - "1 small summer squash, diced"

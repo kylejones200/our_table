@@ -11,7 +11,8 @@ categories:
 source: "30 Minute Recipe"
 ingredients:
   - "4 Boneless, skinless chicken breasts (about 1.5 lbs)"
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

@@ -20,7 +20,9 @@ ingredients:
   - "1 small jar pimentos"
 steps:
   - "Mix altogether. Place in 9x13 casserole. Bake uncovered in 350 degree oven for 45 minutes."
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 nutrition:
   calories: 63.0
   protein_g: 8.1

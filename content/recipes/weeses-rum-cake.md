@@ -9,8 +9,11 @@ categories:
   - "cake"
 source: ""
 ingredients:
-  - "
-allergens: ['dairy', 'eggs', 'gluten']
+  []
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 --- Cake ---"
   - "1 cup pecans"
   - "1 pkg. yellow cake mix"

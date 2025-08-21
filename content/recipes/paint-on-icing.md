@@ -29,7 +29,9 @@ nutrition:
   servings: 4
 image: "https://images.unsplash.com/photo-1677064730827-d8bbf7d1ceed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxwYWludC1vbiUyMGljaW5nJTIwZm9vZHxlbnwxfDB8fHwxNzU1Nzk1ODc0fDA&ixlib=rb-4.1.0&q=80&w=1080"
 image_credit: "Photo by Kseniya Lapteva on Unsplash"
-allergens: ['dairy', 'nuts']
+allergens:
+  - "dairy"
+  - "nuts"
 ---
 
 {{< recipe-meta >}}

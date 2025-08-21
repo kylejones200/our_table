@@ -9,8 +9,10 @@ categories:
   - "dessert"
 source: ""
 ingredients:
-  - "
-allergens: ['dairy', 'eggs']
+  []
+allergens:
+  - "dairy"
+  - "eggs"
 --- Crust ---"
   - "1 cup vanilla wafer crumbs"
   - "3 Tbsp unsalted butter, melted"

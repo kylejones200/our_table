@@ -22,7 +22,9 @@ ingredients:
   - "2. Marinate meat several hours or overnight."
 steps:
   - "Served with Sautéed Mushrooms, Steams Sugar Snap Peas, and Rohlicky"
-allergens: ['gluten', 'soy']
+allergens:
+  - "gluten"
+  - "soy"
 nutrition:
   calories: 95.0
   protein_g: 14.6

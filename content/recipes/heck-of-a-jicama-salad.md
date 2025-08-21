@@ -17,7 +17,8 @@ ingredients:
   - "2 Tbsp chopped cilantro leaves, a handful of leaves, finely chopped"
   - "1/2 tsp ground cumin, eyeball it in the palm of your hand"
   - "3 Tbsp extra-virgin olive oil, eyeball it"
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

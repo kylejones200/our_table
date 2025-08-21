@@ -18,7 +18,8 @@ ingredients:
   - "1. Slice dates in half and remove pits."
   - "2. Fill each date with 1 tsp soft goat cheese"
   - "3. Sprinkle the dates with 1/4 cup chopped pistachios and orange zest"
-allergens: ['dairy']
+allergens:
+  - "dairy"
 ---
 
 {{< recipe-meta >}}

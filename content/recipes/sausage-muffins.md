@@ -22,7 +22,10 @@ steps:
   - "Combine flour, baking powder and salt in a mixing bowl; making a well in center. Combine milk, egg, and butter, add to dry mixture, stirring just until moistened. Stir in sausage and cheese."
   - "Place paper baking cups in muffin pans and coat lightly with cooking spray. Spoon batter into cups, filling two-thirds full."
   - "Bake at 375° for 20 minutes or until golden. Remove from pans immediately. Yield: 1 dozen."
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

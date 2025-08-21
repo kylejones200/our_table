@@ -19,7 +19,10 @@ ingredients:
   - "1 1/2 cups fresh or frozen raspberries"
 steps:
   - "Preheat oven to 400°. In a large bowl, combine flour, sugar, baking powder and salt. Combine the eggs, cream, oil and lemon juice; stir into dry ingredients just until moistened. Fold in raspberries. Fill greased or paper-lined muffin cups two-thirds full. Bake at 400° for 18-20 minutes or until golden brown. Cool for 5 minutes before removing from pan. Yield: 1 1/2 dozen."
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

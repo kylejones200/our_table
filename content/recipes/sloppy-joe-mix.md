@@ -16,7 +16,8 @@ ingredients:
   - "1/2 tsp seasoned salt"
 steps:
   - "Saute chopped onion in 2 Tbsp water in microwave. Brown meat. Drain off all grease. Add sauteed onions. Add seasonings. Mix with Barbeque Sauce to good consistency for sandwiches. Serve on buns."
-allergens: []
+allergens:
+  - 
 nutrition:
   calories: 41.8
   protein_g: 6.3

@@ -38,7 +38,9 @@ nutrition:
   servings: 4
 image: "https://images.unsplash.com/photo-1633251354936-138f29f88108?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxwYXJtZXNhbiUyMHBvcHBlcnMlMjBmb29kJTIwYXBwZXRpemVyfGVufDF8MHx8fDE3NTU3OTU3OTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
 image_credit: "Photo by Tatev Arsh on Unsplash"
-allergens: ['dairy', 'eggs']
+allergens:
+  - "dairy"
+  - "eggs"
 ---
 
 {{< recipe-meta >}}

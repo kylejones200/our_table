@@ -26,7 +26,10 @@ steps:
   - "Sift together flour, salt, and baking soda. Add to mixture and mix well."
   - "Stir in almonds, chocolate chips, and chia seeds (if using). Using a 1/4 cup measure, scoop dough onto parchment lined baking sheets. Bake for 15 minutes or until golden brown, rotating halfway through."
 notes: "Steel cut oats or quick cook oats work with this recipe, but each provides a different texture. If you can't find white or pastry whole wheat flour, you can substitute all-purporse flour, or a half and half mixture of whole wheat flour and all-purpose flour. The cookies can be kept fresh for a few days or frozen."
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

@@ -17,7 +17,9 @@ ingredients:
   - "1 cup chopped pecans"
 steps:
   - "Combine milk, sugar, egg yolks, and butter in sauce pan. Cook over medium heat, stirring constantly until mixture thickens 10-12 minutes. Remove from heat; add vanilla, coconut and pecans. Beat until cool and of spreading consistency. Makes enough to cover tops of three 9 inch cake layers."
-allergens: ['dairy', 'eggs']
+allergens:
+  - "dairy"
+  - "eggs"
 ---
 
 {{< recipe-meta >}}

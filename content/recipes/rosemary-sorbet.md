@@ -17,7 +17,8 @@ ingredients:
   - "2. Stir in chopped rosemary."
   - "3. Remove the pan from the heat, cover and steep until flavor is strong, 20 to 40 minutes. Strain into a bowl, discard the rosemary."
   - "4. Refrigerate until cold. Pour into an ice cream maker and freeze as directed."
-allergens: ['dairy']
+allergens:
+  - "dairy"
 nutrition:
   calories: 206.4
   protein_g: 7.6

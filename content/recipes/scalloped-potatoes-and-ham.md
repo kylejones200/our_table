@@ -15,7 +15,9 @@ ingredients:
   - "31/2 cups milk"
   - "6 Tbl Margarine"
   - "6 Tbl Flour"
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 nutrition:
   calories: 335.0
   protein_g: 6.2

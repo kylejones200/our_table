@@ -16,7 +16,10 @@ ingredients:
   - "2 cups chow mein noodles"
 steps:
   - "Melt butterscotch morsels, peanut butter, and marshmallows in glass bowl in microwave for 2 minutes. Stir in noodles and drop on waxed paper. Chill in refrigerator for 30 minutes. Makes 2 dozen."
-allergens: ['dairy', 'gluten', 'nuts']
+allergens:
+  - "dairy"
+  - "gluten"
+  - "nuts"
 nutrition:
   calories: 590.0
   protein_g: 18.4

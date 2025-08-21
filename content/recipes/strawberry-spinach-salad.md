@@ -14,7 +14,8 @@ ingredients:
   - "6 Tbsp vegetable oil"
   - "1 (10 oz.) fresh spinach"
   - "2 cups sliced fresh strawberries"
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

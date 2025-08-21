@@ -16,7 +16,9 @@ ingredients:
   - "1/2 tsp caraway seed"
 steps:
   - "Cut out a circle from center of top of the cheese. Carefully scoop out the cheese inside, leaving the shell intact. Use a curved small knife, such as a grapefruit knife to remove the cheese when you being the process; finish the job carefully with a spoon to avoid puncturing the casing."
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

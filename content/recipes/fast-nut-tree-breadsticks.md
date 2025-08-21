@@ -26,7 +26,8 @@ ingredients:
 steps:
   - "mixing first with spoon, then with hands, to make a smooth springy ball of dough. Cover with towel and let stand in warm place about"
   - "Bake at 400 degrees about 10 minutes or until golden brown. Makes"
-allergens: ['gluten']
+allergens:
+  - "gluten"
 nutrition:
   calories: 187.8
   protein_g: 17.4

@@ -14,7 +14,8 @@ ingredients:
   - "3 navel oranges"
   - "2 ounces, 1/4 cup, sliced almonds or slivered almonds, available on the baking aisle, toasted"
   - "2 Tbsp chopped fresh tarragon, 2 or 3 sprigs"
-allergens: []
+allergens:
+  - 
 nutrition:
   calories: 89.8
   protein_g: 12.8

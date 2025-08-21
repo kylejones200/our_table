@@ -12,7 +12,9 @@ ingredients:
   - "1/4 cup grated Parmesan cheese"
   - "2 Tbsp fresh lemon juice"
   - "1/4 tsp grated lemon zest"
-allergens: ['dairy', 'eggs']
+allergens:
+  - "dairy"
+  - "eggs"
 ---
 
 {{< recipe-meta >}}

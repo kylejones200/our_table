@@ -13,7 +13,8 @@ ingredients:
   - "1 1/2 pounds red potatoes (4-5 medium) cut into 1/2 inch chunks"
   - "1 tsp fresh thyme or 1/4 tsp dried thyme"
   - "2 bay leaves"
-allergens: []
+allergens:
+  - 
 nutrition:
   calories: 27.5
   protein_g: 3.4

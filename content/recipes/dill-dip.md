@@ -17,7 +17,9 @@ ingredients:
   - "1 tsp Bon Appetit"
 steps:
   - "Combine and refrigerate several hours. Served with carrots, celery, cauliflower, sugar snap peas."
-allergens: ['dairy', 'eggs']
+allergens:
+  - "dairy"
+  - "eggs"
 nutrition:
   calories: 85.0
   protein_g: 4.7

@@ -13,8 +13,9 @@ ingredients:
   - "1 cup flour"
   - "1/2 cups chopped pecans"
   - "1/4 cup powdered sugar"
-  - "
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 --- Second part ---"
   - "1/2 lb. cream cheese, softened"
   - "1 cup Cool Whip"

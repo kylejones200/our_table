@@ -16,7 +16,8 @@ ingredients:
   - "1 tsp salt"
   - "3 Tbsp Chopped fresh thyme"
   - "11/2 lbs. pork tenderloins"
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

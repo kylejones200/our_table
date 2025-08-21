@@ -15,7 +15,7 @@ yield: "8 servings"
 categories: []
 source: "Cover & Bake"
 ingredients:
-  - "
+  []
 nutrition:
   calories: 23.4
   protein_g: 3.7
@@ -24,7 +24,10 @@ nutrition:
   fiber_g: 1.0
   sugar_g: 0.0
   servings: 8
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 image: "https://images.unsplash.com/photo-1588269965589-e59b3aa943f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxlYXN5JTIwbWVhdCUyMGxhc2FnbmElMjB3aXRoJTIwaGVhcnR5JTIwdG9tYXRvLW1lYXQlMjBzYXVjZSUyMGZvb2R8ZW58MXwwfHx8MTc1NTc5NTc5OHww&ixlib=rb-4.1.0&q=80&w=1080"
 image_credit: "Photo by Joseph Pisicchio on Unsplash"
 --- TOMATO-MEAT SAUCE ---"

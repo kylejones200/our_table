@@ -16,7 +16,9 @@ ingredients:
   - "1 (4-ounce) can sliced mushrooms"
   - "1 cup whipping cream"
   - "1/2 tsp cracked pepper"
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 nutrition:
   calories: 91.5
   protein_g: 16.2

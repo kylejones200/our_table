@@ -18,7 +18,9 @@ ingredients:
   - "11/2 cups self-rising flour"
   - "11/2 cups milk"
   - "3/4 cup butter or margarine, melted"
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 nutrition:
   calories: 48.5
   protein_g: 14.7

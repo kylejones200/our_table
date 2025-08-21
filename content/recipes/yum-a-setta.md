@@ -16,7 +16,10 @@ ingredients:
   - "1 (8 oz.) package Velveeta cheese"
 steps:
   - "Brown beef with salt, pepper, brown sugar, and onion. Add tomato soup. Cook noodles, drain. Add cream of chicken soup to noodles. Layer hamburger mixture, noodle mixture, and shredded Velveeta cheese in casserole dish, ending with cheese. Cover with foil and bake 30 minutes at 350 degrees."
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 nutrition:
   calories: 64.0
   protein_g: 9.2

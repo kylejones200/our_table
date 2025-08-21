@@ -18,7 +18,8 @@ ingredients:
   - "1 sprig of fresh thyme, cut into 5-7 leaf sprigs"
   - "1. Roll goat cheese into 1 tsp balls."
   - "2. Starting with the dried apricot, stack ingredients: apricot, goat cheese, dried cranberries, and thyme sprig."
-allergens: ['dairy']
+allergens:
+  - "dairy"
 ---
 
 {{< recipe-meta >}}

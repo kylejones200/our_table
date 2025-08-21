@@ -26,7 +26,11 @@ steps:
   - "Add egg and bananas and combine until well incorporated. Add oats."
   - "Stir in chocolate chips and nuts."
   - "Drop by spoonfuls onto greased or parchment-covered baking sheets. Bake at 375 for 10-13 minutes until golden brown."
-allergens: ['dairy', 'eggs', 'gluten', 'nuts']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
+  - "nuts"
 nutrition:
   calories: 257.1
   protein_g: 16.8

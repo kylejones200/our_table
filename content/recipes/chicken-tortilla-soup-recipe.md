@@ -24,7 +24,8 @@ ingredients:
   - "5 cups chicken broth"
   - "3 cups shredded chicken breast"
   - "1 Tbsp lime juice"
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

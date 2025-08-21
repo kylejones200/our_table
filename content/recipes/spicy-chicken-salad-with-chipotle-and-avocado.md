@@ -13,7 +13,8 @@ ingredients:
   - "1/4 cup mayonnaise"
   - "2 tsp minced chipotle chiles in adobo sauce"
   - "2 Tbsp fresh lime juice"
-allergens: ['eggs']
+allergens:
+  - "eggs"
 nutrition:
   calories: 129.7
   protein_g: 1.2

@@ -26,7 +26,9 @@ steps:
   - "Gently stir about one-third of the egg whites into the peach mixture to lighten it. Then pour the peach mixture over the beaten whites. Fold together until no white streaks remain."
   - "Pour into a 1 1/2-quart souffle dish or baking dish and sprinkle with the cinnamon. Place the dish in a larger baking pan, then place on the bottom rack of the oven. Pour 1\" of hot water into the outer pan."
   - "Bake for 50 to 60 minutes, or until puffed and lightly browned. Serve immediately with the blueberries."
-allergens: ['dairy', 'eggs']
+allergens:
+  - "dairy"
+  - "eggs"
 nutrition:
   calories: 557.8
   protein_g: 19.5

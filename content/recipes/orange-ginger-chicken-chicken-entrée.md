@@ -19,7 +19,9 @@ ingredients:
   - "2 Tbsp reduced-sodium soy sauce"
   - "2 Tbsp honey"
   - "1 tsp ground ginger"
-allergens: ['gluten', 'soy']
+allergens:
+  - "gluten"
+  - "soy"
 nutrition:
   calories: 129.8
   protein_g: 13.8

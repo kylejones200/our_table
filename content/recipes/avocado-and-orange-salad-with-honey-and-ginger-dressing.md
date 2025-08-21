@@ -14,7 +14,8 @@ ingredients:
   - "3 Tbsp mayonnaise"
   - "1 tsp Dijon mustard"
   - "2 tsp honey"
-allergens: ['eggs']
+allergens:
+  - "eggs"
 ---
 
 {{< recipe-meta >}}

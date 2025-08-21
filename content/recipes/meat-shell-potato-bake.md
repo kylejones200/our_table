@@ -19,7 +19,10 @@ ingredients:
   - "1/4 cup dry bread crumbs"
   - "1/4 cup shredded cheddar cheese"
   - "2 Tbsp chopped fresh parsley"
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

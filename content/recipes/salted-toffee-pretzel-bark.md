@@ -18,7 +18,8 @@ steps:
   - "Melt the white chocolate in the same manner as you did the dark chocolate, stirring until completely smooth. Remove the baking sheet from the refrigerator and use a spoon to drizzle the white chocolate on top of the hardened dark chocolate layer. Sprinkle with the remaining pretzel pieces and toffee, using your palm to lightly press them into the white chocolate. Return the pan to the refrigerator for at least 30 minutes."
   - "Use a sharp knife to break the bark into pieces."
 notes: "This is a no-bake treat that's beautiful to look at but even better to eat. Forget plain old peppermint bark, spice up your cookie platter with this high-falootin' salty-sweet delight! You can use bittersweet or semisweet chocolate here, but buy the best you can afford. The dark chocolate is the canvas for all the wonderful flavors!"
-allergens: []
+allergens:
+  - 
 nutrition:
   calories: 328.5
   protein_g: 23.7

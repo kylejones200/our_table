@@ -1,5 +1,6 @@
 ---
 
+
 title: "Italian Chicken and Artichokes"
 date: "2025-08-21T10:44:26.948670"
 type: "recipe"
@@ -22,7 +23,16 @@ steps:
   - "Drain artichokes, reserving marinade in a large nonstick skillet. Cut artichokes in half, and set aside. Add garlic to marinade in skillet, and bring to a boil over medium heat."
   - "Add chicken to skillet; cook 10 minutes, turning once. Remove chicken from skillet; drain and discard marinade and drippings from pan. Wipe clean with paper towels."
   - "Combine soup and remaining ingredients in skillet; return chicken to skillet. Cover and cook over medium heat 5 minutes or until chicken is tender. Add artichokes; cover a and cook 2 minutes or until thoroughly heated."
-allergens: ['dairy']
+allergens:
+  - "dairy"
+nutrition:
+  calories: 210.2
+  protein_g: 18.9
+  carbohydrates_g: 13.0
+  fat_g: 15.5
+  fiber_g: 1.1
+  sugar_g: 1.6
+  servings: 6
 ---
 
 {{< recipe-meta >}}

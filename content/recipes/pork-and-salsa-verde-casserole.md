@@ -18,7 +18,8 @@ ingredients:
   - "8 oz. sour cream"
   - "3/4 - 1 cups mozzarella cheese"
   - "16 oz. salsa verde"
-allergens: ['dairy']
+allergens:
+  - "dairy"
 nutrition:
   calories: 117.5
   protein_g: 15.6

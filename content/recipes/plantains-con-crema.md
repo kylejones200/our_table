@@ -21,7 +21,8 @@ ingredients:
 steps:
   - "Oil the bottom of glass baking dish. Place plantains onto oiled dish. Mix vanilla, cinnamon and brown sugar in small bowl. Drizzle over plantains. Bake at 300 degrees for 20 minutes or until plantain is extremely soft."
   - "Beat cream cheese and sugar on low or by hand until incorporated. Place plantain on plate and top with cream cheese and fresh berries. Serve immediately!"
-allergens: ['dairy']
+allergens:
+  - "dairy"
 nutrition:
   calories: 322.8
   protein_g: 5.6

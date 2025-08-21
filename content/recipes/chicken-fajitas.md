@@ -18,7 +18,8 @@ ingredients:
   - "1/2 tsp garlic powder"
 steps:
   - "Combine lemon juice, salt, smoke, pepper and garlic; pour over chicken breasts. Marinate at least 30 minutes. Drain, disposing of marinade. Lightly brown chicken in 2 Tbsp Oil in skillet. When lightly brown, add 1 onion sliced, and 1 bell pepper sliced. Continue to cook several minutes until vegetables are limp."
-allergens: []
+allergens:
+  - 
 nutrition:
   calories: 35.8
   protein_g: 7.8

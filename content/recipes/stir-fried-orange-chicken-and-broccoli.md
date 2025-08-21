@@ -25,7 +25,9 @@ ingredients:
 steps:
   - "Cut the broccoli into small florets. Trim and discard about 2 inches of the tough broccoli stems. Thinly slice the remaining stems. In a small bowl, combine the orange juice, soy sauce, cornstarch, and orange marmalade. Stir until blended. Set the sauce aside. In a wok or large nonstick skillet, heat the oil over high heat. Add the chicken and cook, stirring frequently, for 2 to 3 minutes, or until no longer pink and the juices run clear. Add the scallions, garlic, ginger, and red-pepper flakes and stir to combine. With a slotted spoon, remove the chicken to a plate."
   - "Add the broth and broccoli to the mixture in the wok and reduce the heat to medium. Cover and cook for 2 minutes. Increase the heat to high and add the bell pepper. Cook, stirring frequently, for 2 minutes or until the broth evaporates and the vegetables are crisp-tender. Stir the sauce and add to the wok along with the chicken. Cook, stirring constantly, for 1 to 2 minutes, or until the sauce thickens and the chicken is hot."
-allergens: ['gluten', 'soy']
+allergens:
+  - "gluten"
+  - "soy"
 nutrition:
   calories: 206.2
   protein_g: 17.2

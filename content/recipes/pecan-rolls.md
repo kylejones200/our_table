@@ -16,8 +16,10 @@ ingredients:
   - "2 eggs"
   - "11/2 tsp salt"
   - "6 cups bread flour"
-  - "
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 --- Filling: Topping ---"
   - "1/2 cup granulated sugar"
   - "8 Tbsp butter"

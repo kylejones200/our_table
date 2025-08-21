@@ -21,7 +21,8 @@ ingredients:
   - "1/2 tsp salt"
   - "1/2 tsp pepper"
   - "4 medium ripe avocados"
-allergens: []
+allergens:
+  - 
 nutrition:
   calories: 171.8
   protein_g: 26.6

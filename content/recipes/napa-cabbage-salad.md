@@ -17,7 +17,10 @@ ingredients:
   - "1 cup sugar noodles only, broken apart"
   - "2 tsp soy sauce 1/2 cup butter or margarine"
   - "1/2 cup vinegar"
-allergens: ['dairy', 'gluten', 'soy']
+allergens:
+  - "dairy"
+  - "gluten"
+  - "soy"
 nutrition:
   calories: 152.5
   protein_g: 24.0

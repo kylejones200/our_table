@@ -18,7 +18,8 @@ ingredients:
   - "1/2 tsp Italian seasoning"
 steps:
   - "Preheat oven to 450 degrees. Mix Bisquick, cheese and water. Drop by large spoonfuls onto greased baking sheet (spray with Pam). Bake for 8 to 10 minutes. After baking, while hot, brush on melted butter mixed with garlic salt, parsley flakes and Italian seasonings; amount may vary by the size of the batch you make, but a little goes a long way. Serve hot."
-allergens: ['dairy']
+allergens:
+  - "dairy"
 nutrition:
   calories: 41.8
   protein_g: 4.0

@@ -86,6 +86,53 @@ def add_colon_if_subsection(line: str) -> str:
     return line
 
 
+def fix_malformed_ingredients(content):
+    """Fix malformed ingredients sections in YAML front matter."""
+    lines = content.split('\n')
+    fixed_lines = []
+    in_front_matter = False
+    front_matter_ended = False
+    
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        
+        # Track front matter boundaries
+        if line.strip() == '---':
+            if not in_front_matter:
+                in_front_matter = True
+            elif in_front_matter:
+                front_matter_ended = True
+                in_front_matter = False
+        
+        # Only process within front matter
+        if in_front_matter and not front_matter_ended:
+            # Fix ingredients section with unclosed quotes or malformed content
+            if line.strip() == 'ingredients:':
+                fixed_lines.append(line)
+                i += 1
+                
+                # Check next line for malformed content
+                if i < len(lines):
+                    next_line = lines[i]
+                    
+                    # If next line has unclosed quote, fix it
+                    if next_line.strip() == '- "' or next_line.strip().startswith('- "') and not next_line.strip().endswith('"'):
+                        # Skip malformed line and set empty ingredients
+                        fixed_lines.append('  []')
+                        # Skip to next YAML key
+                        while i < len(lines) and not (lines[i].strip().endswith(':') and not lines[i].strip().startswith('-')):
+                            i += 1
+                        continue
+                
+                continue
+        
+        fixed_lines.append(line)
+        i += 1
+    
+    return '\n'.join(fixed_lines)
+
+
 def main():
     text = SRC.read_text(encoding='utf-8', errors='ignore').splitlines(True)
     out = []

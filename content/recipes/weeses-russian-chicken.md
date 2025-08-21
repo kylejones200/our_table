@@ -10,7 +10,8 @@ categories:
 source: ""
 ingredients:
   - "6 chicken breasts"
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

@@ -16,8 +16,10 @@ ingredients:
   - "1 tsp vanilla"
   - "2 eggs"
   - "1 15 oz. can crushed pineapple and juice"
-  - "
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 nutrition:
   calories: 195.8
   protein_g: 10.0

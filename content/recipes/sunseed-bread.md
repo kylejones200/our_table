@@ -24,7 +24,8 @@ ingredients:
   - "50 minutes."
 steps:
   - "Place loaves in oven and immediately turn to 350 degrees. Bake for"
-allergens: ['gluten']
+allergens:
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

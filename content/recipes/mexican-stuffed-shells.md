@@ -30,7 +30,9 @@ nutrition:
   fiber_g: 3.8
   sugar_g: 10.8
   servings: 4
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

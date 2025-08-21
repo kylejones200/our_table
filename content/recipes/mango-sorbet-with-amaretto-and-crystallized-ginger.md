@@ -28,7 +28,8 @@ nutrition:
   servings: 8
 image: "https://images.unsplash.com/photo-1733505843122-0aaad7c9d9a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxtYW5nbyUyMHNvcmJldCUyMHdpdGglMjBhbWFyZXR0byUyMGFuZCUyMGNyeXN0YWxsaXplZCUyMGdpbmdlciUyMGZvb2QlMjBkZXNzZXJ0fGVufDF8MHx8fDE3NTU3OTU5MDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
 image_credit: "Photo by Letian Zhang on Unsplash"
-allergens: ['nuts']
+allergens:
+  - "nuts"
 ---
 
 {{< recipe-meta >}}

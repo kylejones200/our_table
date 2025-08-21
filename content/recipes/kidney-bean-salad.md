@@ -16,7 +16,8 @@ ingredients:
   - "1 small shallot, sliced thin"
   - "2 Tbsp white wine vinegar"
   - "2 Tbsp extra-virgin olive oil"
-allergens: []
+allergens:
+  - 
 nutrition:
   calories: 94.0
   protein_g: 22.6

@@ -19,7 +19,10 @@ ingredients:
   - "2 Tbsp Dill seed"
   - "1 1/2 Tbsp Butter or margarine"
   - "In bowl, place the first four ingredients. In a saucepan, combine remaining ingredients and heat just until warm (do not boil) Pour into bowl Beat well. Pour into greased loaf pan. Bake in 350° oven for 30-35 minutes. Brush top of bread with margarine."
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

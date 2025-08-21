@@ -16,7 +16,8 @@ ingredients:
   - "3 chicken skinned and boneless chicken breasts"
   - "1/4 tsp rosemary"
   - "1/4 tsp thyme"
-allergens: ['dairy']
+allergens:
+  - "dairy"
 nutrition:
   calories: 58.0
   protein_g: 11.7

@@ -28,7 +28,9 @@ steps:
   - "Add milk mixture to flour mixture; fold with spatula until just combined. With rubber spatula, transfer dough to liberally floured work surface. Dust surface of dough with flour; with floured hands, knead dough 6 to 8 times, until it just holds together in ragged ball, adding flour as needed to prevent sticking."
   - "Roll dough into approximate 12-inch square. Fold dough into thirds like a business letter, using bench scraper or metal spatula to release dough if it sticks to countertop. Lift short ends of dough and fold into thirds again to form approximate 4-inch square. Transfer dough to plate lightly dusted with flour and chill in freezer 5 minutes."
   - "Transfer dough to floured work surface and roll into approximate 12-inch square again. Sprinkle blueberries evenly over surface of dough, then press down so they are slightly embedded in dough. Using bench scraper or metal spatula, loosen dough from work surface. Roll dough, pressing to form tight log. Lay seam-side down and press log into 12 by 4-inch rectangle. Using sharp, floured knife, cut rectangle crosswise into 4 equal rectangles. Cut each rectangle diagonally to form 2 triangles and transfer to parchment-lined baking sheet."
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 nutrition:
   calories: 180.0
   protein_g: 5.4

@@ -20,7 +20,8 @@ ingredients:
   - "1 tsp whole cloves"
 steps:
   - "Soak cucumbers in lime and water for 24 hours. Rinse well and soak in cold water 3 hours. Combine remaining ingredients and pour over drained cucumbers. Let stand overnight. Boil 35 minutes and pack in sterilized jars and seal. Process in water bath for 5 minutes."
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

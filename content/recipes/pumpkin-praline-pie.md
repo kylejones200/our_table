@@ -10,8 +10,9 @@ categories:
 source: "Cook's Country"
 ingredients:
   - "1 9 inch pie shell, chilled in pie plate for 30 minutes"
-  - "
-allergens: ['dairy', 'eggs']
+allergens:
+  - "dairy"
+  - "eggs"
 --- Pumpkin Filling ---"
   - "1 15 ounce can plain pie puree"
   - "3/4 cup packed dark brown sugar"

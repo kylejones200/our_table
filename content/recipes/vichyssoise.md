@@ -18,7 +18,8 @@ steps:
   - "Melt butter in a soup pot over low heat. Add the leeks and cook, stirring, until tender but not browned, about 20 minutes."
   - "Stir in potatoes and stock or broth. Bring to a boil, reduce heat, and simmer until the potatoes are soft, about 30 minutes. Off heat, stir in cream or combination of milk and cream. Puree until smooth, for a finer texture, push through a sieve. Season with salt and pepper to taste. Serve warm or chilled."
 notes: "Be sure to process the soup to a velvety smoothness."
-allergens: ['dairy']
+allergens:
+  - "dairy"
 ---
 
 {{< recipe-meta >}}

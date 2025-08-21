@@ -18,7 +18,8 @@ ingredients:
   - "3 Tbsp heavy cream"
   - "1 tsp dried thyme"
 notes: "Pillsbury Jus Unroll! Pie Crust is the test kitchen's favorite brand of prepared pie dough."
-allergens: ['dairy']
+allergens:
+  - "dairy"
 ---
 
 {{< recipe-meta >}}

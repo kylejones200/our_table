@@ -31,7 +31,9 @@ nutrition:
   fiber_g: 2.1
   sugar_g: 0.0
   servings: 4
-allergens: ['eggs', 'gluten']
+allergens:
+  - "eggs"
+  - "gluten"
 ---
 
 Tomato Base

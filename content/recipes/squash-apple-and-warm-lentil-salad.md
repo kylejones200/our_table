@@ -15,7 +15,8 @@ ingredients:
   - "2 cups French green lentils (14 ounces), rinsed"
   - "3 thyme sprigs"
   - "2 Tbsp chopped chives, plus more for garnish"
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

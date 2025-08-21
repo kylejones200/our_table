@@ -26,7 +26,9 @@ steps:
   - "Combine gelatin and water in a medium saucepan. Beat egg yolks slightly; stir into gelatin mixture. Add sugar and milk, mixing well. Cook over low heat, stirring until slightly thickened. Remove from heat and stir in chocolate mixture. Chill until consistency of unbeaten egg white."
   - "Beat egg whites (at room temperature) until stiff peaks form. Set aside 1 cup whipped cream for garnish. Fold egg whites and remaining 3 cups whipped cream into chocolate mixture."
   - "Line bottom and sides of a 9-inch springform pan with ladyfingers. Spoon chocolate mixture into pan. Cover and chill until firm."
-allergens: ['dairy', 'eggs']
+allergens:
+  - "dairy"
+  - "eggs"
 nutrition:
   calories: 94.6
   protein_g: 5.4

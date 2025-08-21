@@ -13,8 +13,8 @@ ingredients:
   - "1 large jar Coffee Mate"
   - "1 large box Nestlé's Quick"
   - "2 lbs powdered sugar"
-  - "
-allergens: ['dairy']
+allergens:
+  - "dairy"
 --- 1/2 recipe ---"
   - "11 1/3 cups powdered milk"
   - "1/2 jar Coffee Mate"

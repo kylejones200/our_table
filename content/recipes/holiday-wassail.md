@@ -18,7 +18,8 @@ ingredients:
   - "3 sticks cinnamon"
 steps:
   - "Combine in Dutch oven - bring to boil. Reduce heat simmer 15 minutes. STRAIN & DISCARD SPICES!!!"
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

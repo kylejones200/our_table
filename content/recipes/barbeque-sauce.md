@@ -16,7 +16,8 @@ ingredients:
   - "1/2 tsp garlic powder"
 steps:
   - "Mix all ingredients well. Store in glass jars in refrigerator."
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

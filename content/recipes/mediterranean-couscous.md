@@ -25,7 +25,9 @@ ingredients:
   - "1/4 tsp ground black pepper"
 steps:
   - "Bring the water to a boil in a medium saucepan over medium-high heat. Stir in the couscous and 1/4 tsp of the salt. Return to a boil, reduce the heat to low, cover and simmer for 2 minutes. Remove from the heat and let stand for 5 minutes. Fluff with a fork and cool for 5 minutes longer. Meanwhile, in a bowl, combine the kidney beans, cucumber, bell pepper, onion, feta, dill, and capers. Add the couscous and toss well. In a small bowl, combine the lemon juice, olive oil, pepper, and the remaining 1/4 tsp salt. Pour over the couscous and toss well."
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

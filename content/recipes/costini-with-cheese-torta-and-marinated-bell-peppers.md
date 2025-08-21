@@ -24,7 +24,9 @@ ingredients:
 steps:
   - "Dice peppers into squares. Combine vinegar, oil, herbs, capers and garlic. Add salt and pepper. Marinate 30 min. or longer. In a small bowl, blend the cheeses until smooth. Shape into a mound on a large plate and slightly flatten the top. Pour peppers over cheese, garnish with pine nuts and basil. Surround with crostini."
 notes: "plain crostini"
-allergens: ['dairy', 'nuts']
+allergens:
+  - "dairy"
+  - "nuts"
 ---
 
 {{< recipe-meta >}}

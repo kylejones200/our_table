@@ -76,6 +76,43 @@
         }
         .btn:hover { background: #2980b9; }
         
+        /* Action Cards */
+        .action-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+        .action-card {
+            background: white;
+            border: 2px solid #3498db;
+            border-radius: 12px;
+            padding: 2rem;
+            text-align: center;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .action-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 25px rgba(52, 152, 219, 0.15);
+        }
+        .action-card h3 {
+            margin: 0 0 1rem 0;
+            color: #2c3e50;
+            font-size: 1.3rem;
+        }
+        .action-card p {
+            color: #7f8c8d;
+            margin-bottom: 1.5rem;
+        }
+        .btn-primary {
+            background: #e74c3c;
+            border: none;
+            font-weight: bold;
+        }
+        .btn-primary:hover {
+            background: #c0392b;
+        }
+        
         /* Utility */
         .text-center { text-align: center; }
         
@@ -116,6 +153,7 @@
                 <ul class="nav-links">
                     <li><a href="{{ .Site.BaseURL }}">Home</a></li>
                     <li><a href="/recipes/">Recipes</a></li>
+                    <li><a href="/shopping-list/">Shopping List</a></li>
                 </ul>
             </nav>
         </div>

@@ -18,7 +18,9 @@ ingredients:
   - "1 (14 oz) can artichoke hearts, undrained and chopped"
   - "1/4 tsp white pepper"
   - "2 Tbsp minced fresh parsley"
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 nutrition:
   calories: 118.8
   protein_g: 10.0

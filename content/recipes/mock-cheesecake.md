@@ -24,7 +24,9 @@ ingredients:
 steps:
   - "Dissolve Jell-O in boiling water, add lemon juice and let cool to room temperature."
   - "Combine and press into 13x9 pan, reserving 1/4 cup for topping."
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 nutrition:
   calories: 301.0
   protein_g: 8.9

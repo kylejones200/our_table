@@ -18,7 +18,8 @@ ingredients:
   - "1/2 tsp salt"
 steps:
   - "Pulse all ingredients in a blender until smooth, stopping to scrape down sides as needed. Stir into hot cooked pasta, or spoon over cream cheese and serve with crackers."
-allergens: ['dairy']
+allergens:
+  - "dairy"
 ---
 
 {{< recipe-meta >}}

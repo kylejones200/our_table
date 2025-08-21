@@ -15,7 +15,8 @@ ingredients:
   - "1 medium cans crushed pineapple"
   - "10 oz. frozen strawberries, thawed"
   - "9 oz. Cool Whip"
-allergens: ['dairy']
+allergens:
+  - "dairy"
 ---
 
 {{< recipe-meta >}}

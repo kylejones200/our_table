@@ -1,5 +1,6 @@
 ---
 
+
 title: "Stuffed Mushrooms"
 date: "2025-08-21T10:44:26.942685"
 type: "recipe"
@@ -22,7 +23,17 @@ ingredients:
 steps:
   - "Remove stems from mushrooms and set aside caps; chop stems. In small skillet, saute` onion and chopped stems in butter until tender. Add bread cubes and almonds; cook over medium heat, stirring constantly, until lightly browned. Add salt, lemon juice and Worshestershire sauce. Fill mushroom caps with bread stuffing."
   - "Place in 9-inch square or shallow baking dish. Pour wine around mushrooms. Bake at 400 degrees for 15 minutes. Top with cheese, continue baking 10 minutes until cheese melts. These are just as good without the cheese for those who don't like melted cheese."
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
+nutrition:
+  calories: 57.4
+  protein_g: 7.2
+  carbohydrates_g: 15.1
+  fat_g: 25.1
+  fiber_g: 3.4
+  sugar_g: 0.0
+  servings: 8
 ---
 
 {{< recipe-meta >}}

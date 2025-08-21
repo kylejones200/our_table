@@ -27,7 +27,8 @@ nutrition:
   fiber_g: 1.1
   sugar_g: 3.5
   servings: 4
-allergens: ['eggs']
+allergens:
+  - "eggs"
 ---
 
 {{< recipe-meta >}}

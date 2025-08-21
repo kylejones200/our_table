@@ -25,7 +25,10 @@ steps:
   - "Stir in chocolate chips. Can add 1 cup chopped nuts if desired."
   - "Drop by Tbsp onto ungreased cookie sheet."
   - "Bake for 8 minutes. Cool on cookie sheet for 1-2 minutes, before removing to cooling rack."
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

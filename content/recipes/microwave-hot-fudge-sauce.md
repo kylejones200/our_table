@@ -19,7 +19,8 @@ steps:
   - "Combine butter and chocolate - microwave on medium until melted."
   - "Gradually stir in sugar, about 1/4 cup at a time, stirring very well after each addition (mixture will be very thick and dry). Add salt."
   - "Add evaporated mile slowly, stirring constantly. Microwave an additional 4 minutes, stirring every minute. Serve hot over ice cream."
-allergens: ['dairy']
+allergens:
+  - "dairy"
 nutrition:
   calories: 271.0
   protein_g: 14.7

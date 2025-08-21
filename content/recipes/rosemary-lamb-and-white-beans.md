@@ -16,7 +16,6 @@ ingredients:
   - "2 garlic cloves, crushed with a garlic press"
   - "1/2 tsp olive oil"
   - "6 loin lamb chops, 5 oz (155 g) each, trimmed of visible fat"
-  - "
 nutrition:
   calories: 49.7
   protein_g: 10.8
@@ -25,7 +24,8 @@ nutrition:
   fiber_g: 2.0
   sugar_g: 0.0
   servings: 6
-allergens: []
+allergens:
+  - 
 --- Beans ---"
   - "41/2 cups (2lb/1 kg) canned white beans, rinsed and drained"
   - "11/2 cups (9 oz/280 g) diced fresh tomatoes or canned diced tomatoes, drained"

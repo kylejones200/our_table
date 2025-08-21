@@ -18,7 +18,8 @@ ingredients:
   - "1 small red onion chopped"
   - "1/2 cup feta cheese, crumbled"
   - "1/2 cup chopped walnuts"
-allergens: ['dairy']
+allergens:
+  - "dairy"
 ---
 
 {{< recipe-meta >}}

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Chocolate Peanut Butter Cookies"
 date: "2025-08-21T10:44:26.934220"
 type: "recipe"
@@ -9,8 +10,20 @@ categories:
   - "cookies"
 source: ""
 ingredients:
-  - "
-allergens: ['dairy', 'eggs', 'gluten', 'nuts', 'soy']
+  []
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
+  - "soy"
+nutrition:
+  calories: 76.0
+  protein_g: 3.4
+  carbohydrates_g: 12.5
+  fat_g: 3.9
+  fiber_g: 0.0
+  sugar_g: 0.5
+  servings: 24
 --- chocolate cookie dough ---"
   - "1/2 cup (1 stick) unsalted butter, softened to room temperature"
   - "1/2 cup granulated sugar"

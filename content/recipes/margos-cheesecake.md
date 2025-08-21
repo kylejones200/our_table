@@ -20,7 +20,10 @@ ingredients:
   - "1/4 tsp salt"
   - "5 eggs"
   - "1/4 cup whipping cream"
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 nutrition:
   calories: 488.5
   protein_g: 25.9

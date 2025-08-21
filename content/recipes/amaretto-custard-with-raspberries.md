@@ -13,7 +13,9 @@ ingredients:
   - "1/2 cup sugar"
   - "2 cups milk, scalded"
   - "2 Tbsp Amaretto"
-allergens: ['dairy', 'eggs']
+allergens:
+  - "dairy"
+  - "eggs"
 ---
 
 {{< recipe-meta >}}

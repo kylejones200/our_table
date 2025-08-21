@@ -23,7 +23,9 @@ ingredients:
   - "11/4 cup hot water"
 steps:
   - "Heat oven to 350°. Mix 3/4 cup granulated sugar, flour, 1/4 cup cocoa, baking powder and salt. Stir in milk, butter and vanilla, beat with spoon until smooth. Pour batter into ungreased 9 in. square baking pan. Mix remaining 1/2 cup sugar, brown sugar and remaining 1/4 cup cocoa, sprinkle evenly over batter. Pour hot water over top. DO NOT STIR. Bake 35-40 minutes or until center is almost set. Let stand 10 minutes. Serve in dessert bowls with vanilla ice cream."
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 nutrition:
   calories: 769.0
   protein_g: 9.1

@@ -11,7 +11,8 @@ source: ""
 ingredients:
   - "1/2 cup mayonnaise"
   - "2 tsp curry powder"
-allergens: ['eggs']
+allergens:
+  - "eggs"
 ---
 
 {{< recipe-meta >}}

@@ -10,8 +10,9 @@ categories: []
 source: ""
 ingredients:
   - "1 pkg. Indian Fry Bread Mix"
-  - "
-allergens: ['gluten', 'nuts']
+allergens:
+  - "gluten"
+  - "nuts"
 nutrition:
   calories: 146.0
   protein_g: 12.1

@@ -9,8 +9,9 @@ categories:
   - "appetizer"
 source: "Stop and Smell the Rosemary"
 ingredients:
-  - "
-allergens: []
+  []
+allergens:
+  - 
 --- Salsa Fresca ---"
   - "3 medium tomatoes, peeled, seeded, and diced"
   - "2 fresh jalapenos, seeded and diced"

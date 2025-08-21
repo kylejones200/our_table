@@ -1,5 +1,6 @@
 ---
 
+
 title: "Potato Casserole"
 date: "2025-08-21T10:44:26.939015"
 type: "recipe"
@@ -18,7 +19,16 @@ ingredients:
   - "1/4 tsp pepper"
 steps:
   - "Combine above ingredients and bake at 350 degrees for 30 minutes. May top with 2 Tbsp butter mixed with 1/4 cup dry bread crumbs before baking."
-allergens: ['dairy']
+allergens:
+  - "dairy"
+nutrition:
+  calories: 0.0
+  protein_g: 6.5
+  carbohydrates_g: 8.6
+  fat_g: 38.4
+  fiber_g: 2.7
+  sugar_g: 0.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

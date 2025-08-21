@@ -81,11 +81,11 @@
             <p class="image-credit">{{ . }}</p>
           {{ end }}
         </div>
-      {{ else if .Params.image_emoji }}
+      {{ else }}{{ if .Params.image_emoji }}
         <div class="recipe-emoji">
           <span class="emoji-large">{{ .Params.image_emoji }}</span>
         </div>
-      {{ end }}
+      {{ end }}{{ end }}
     </header>
 
     <div class="recipe-content">

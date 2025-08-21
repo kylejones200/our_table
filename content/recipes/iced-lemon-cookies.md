@@ -1,5 +1,6 @@
 ---
 
+
 title: "Iced Lemon Cookies"
 date: "2025-08-21T10:44:26.934095"
 type: "recipe"
@@ -9,8 +10,19 @@ categories:
   - "cookies"
 source: ""
 ingredients:
-  - "
-allergens: ['dairy', 'eggs', 'gluten']
+  []
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
+nutrition:
+  calories: 33.3
+  protein_g: 2.3
+  carbohydrates_g: 9.1
+  fat_g: 5.7
+  fiber_g: 0.5
+  sugar_g: 0.6
+  servings: 24
 --- for the cookies ---"
   - "1 cup butter, softened"
   - "1 cup sugar"

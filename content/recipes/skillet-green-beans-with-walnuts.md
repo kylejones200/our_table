@@ -20,7 +20,8 @@ ingredients:
 steps:
   - "TOAST NUTS: Toast walnuts in large skillet over medium-low heat until golden, about 5 minutes. Add 2 Tbsp butter and cook, stirring constantly, until butter is nutty brown, about 2 minutes. Stir in sugar, ginger, cayenne, 1/4 tsp salt, and 1/4 tsp pepper and cook until fragrant, about 30 seconds. Transfer walnut mixture to bowl and reserve. Wipe out skillet."
   - "COOK BEANS: Melt remaining butter in empty skillet over medium-high heat. Cook beans, stirring occasionally, until spotty brown, about 8 minutes. Add water and cook, covered, over medium-low heat until beans are nearly tender, about 3 minutes. Remove lid and cook until liquid evaporates, about 1 minute. Off heat, add reserved walnut mixture. Season with salt and pepper. Serve."
-allergens: ['dairy']
+allergens:
+  - "dairy"
 nutrition:
   calories: 55.6
   protein_g: 4.8

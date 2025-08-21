@@ -28,7 +28,8 @@ steps:
   - "Let chicken rest for 5 minutes, then slice."
   - "Serve sliced chicken over basmati rice topped with plum salsa."
 notes: "Skinless chicken breasts are seasoned with rosemary and pan-fried, then served over basmati rice with a unique, sweet and spicy plum and habanero salsa. Pair with green beans and toasted pine nuts."
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

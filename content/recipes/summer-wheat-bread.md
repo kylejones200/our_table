@@ -31,7 +31,8 @@ nutrition:
   fiber_g: 18.0
   sugar_g: 44.6
   servings: 2
-allergens: ['gluten']
+allergens:
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

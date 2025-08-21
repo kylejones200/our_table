@@ -23,7 +23,8 @@ steps:
   - "Place over high heat and bring to a boil, stirring frequently [will burn very easily]. Reduce heat to low and simmer, stirring occasionally, until the vegetables are tender and the sauce has reduced by about half and coats the vegetables lightly, 10-12 minutes."
   - "Serve now, or refrigerate in a tightly covered container for up to 2 days. If needed, reheat in a double boiler. To sere, stir in parsley and transfer to a bowl."
 notes: "Because it uses nonfat evaporated milk rather than cream, this quick version of New England succotash has less fat than traditional recipes. It is one of the rare vegetable dishes that you can make ahead and reheat, using a double boiler, without loss of taste or texture."
-allergens: ['dairy']
+allergens:
+  - "dairy"
 ---
 
 {{< recipe-meta >}}

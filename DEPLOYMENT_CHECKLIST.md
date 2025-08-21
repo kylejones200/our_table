@@ -34,7 +34,7 @@ Your Hugo recipe site is now ready for GitHub Pages deployment! Here's what has 
    - The workflow will automatically deploy your site
 
 4. **Access Your Site**
-   - Your site will be available at: `https://USERNAME.github.io/REPOSITORY_NAME/`
+   - Your site will be available at: `https://kylejones200.github.io/48_hours/`
    - First deployment may take 2-3 minutes
 
 ### Features Included:

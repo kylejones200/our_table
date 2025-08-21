@@ -19,7 +19,9 @@ ingredients:
   - "1 prepared graham cracker crumb crust, or chocolate crust"
 steps:
   - "Microwave chocolate and 2 Tbsp of the milk in large microwavable bowl on HIGH 11/2 to 2 minutes or until chocolate is almost melted, stirring halfway through heating time. Stir until chocolate is completely melted. Beat in cream cheese, sugar and remaining milk until well blended. Refrigerate about 10 minutes to cool. Gently stir in whipped topping until smooth. Spoon into crust. Freeze 4 hours until firm. Let stand at room temperature about 15 minutes until pie can be cut easily. Store in freezer."
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 nutrition:
   calories: 333.5
   protein_g: 4.8

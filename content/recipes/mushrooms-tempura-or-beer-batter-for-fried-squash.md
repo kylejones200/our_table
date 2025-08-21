@@ -14,7 +14,8 @@ ingredients:
   - "2 tsp baking powder"
   - "2 Tbsp Seasoned salt"
   - "1 Tbsp Beau Monde or Bon Appetit"
-allergens: ['gluten']
+allergens:
+  - "gluten"
 nutrition:
   calories: 67.5
   protein_g: 5.4

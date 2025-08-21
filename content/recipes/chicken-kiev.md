@@ -33,7 +33,10 @@ nutrition:
   servings: 4
 image: "https://images.unsplash.com/photo-1673238114766-f84c88e44598?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwa2lldiUyMGZvb2QlMjBtYWluJTIwY291cnNlfGVufDF8MHx8fDE3NTU3OTU5MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
 image_credit: "Photo by Irham Setyaki on Unsplash"
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 notes: "Serve with wild rice cooked in the seasoned butter. Food Exchanges: 0 Grain(Starch); 7 1/2 Lean Meat; 0 Vegetable; 0 Fruit; 3 Fat; 0 Other Carbohydrates"
 ---
 

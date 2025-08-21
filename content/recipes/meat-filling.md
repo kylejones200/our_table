@@ -21,7 +21,8 @@ ingredients:
   - "1/4 tsp ground allspice"
   - "1/2 tsp cayenne pepper (optional)"
   - "Dash of pepper"
-allergens: []
+allergens:
+  - 
 nutrition:
   calories: 9.0
   protein_g: 9.4

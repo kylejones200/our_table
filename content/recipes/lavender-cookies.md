@@ -24,7 +24,11 @@ ingredients:
   - "3. Combine the flour, lavender, baking powder and salt; gradually add to creamed mixture and mix well."
   - "4. Drop by rounded tspfuls 2 in. apart onto baking sheets lightly coated with cooking spray or covered in parchment paper."
   - "5. Bake at 375° for 8-10 minutes or until just starting to turn golden brown on bottoms. Cool for 2 minutes before removing to wire racks. Store in an airtight container. Yield: about 3 dozen."
-allergens: ['dairy', 'eggs', 'gluten', 'nuts']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
+  - "nuts"
 ---
 
 {{< recipe-meta >}}

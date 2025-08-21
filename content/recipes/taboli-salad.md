@@ -15,7 +15,8 @@ ingredients:
   - "4 tomatoes, finely chopped"
   - "2 cups lemon juice"
   - "1/2 cup vegetable oil"
-allergens: ['gluten']
+allergens:
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

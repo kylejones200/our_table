@@ -10,8 +10,10 @@ categories:
   - "entree"
 source: "30 Minute Recipes"
 ingredients:
-  - "
-allergens: ['dairy', 'gluten']
+  []
+allergens:
+  - "dairy"
+  - "gluten"
 nutrition:
   calories: 5.8
   protein_g: 10.7
@@ -32,8 +34,9 @@ yield: "Makes YOGURT SAUCE: While patties cook, mix sauce ingredients together a
 categories: []
 source: ""
 ingredients:
-  - "
-allergens: ['dairy']
+  []
+allergens:
+  - "dairy"
 --- Yogurt Sauce ---"
   - "1 cup plain yogurt"
   - "2 Tbsp minced fresh cilantro"

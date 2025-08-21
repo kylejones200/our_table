@@ -15,7 +15,8 @@ ingredients:
 steps:
   - "Chill a nonreactive, deep 1- to 1 1/2 -quart bowl and the beaters of an electric mixer in the freezer for at least 20 minutes."
   - "Add the cream, sugar, and vanilla to the chilled bowl. Beat at low speed until small bubbles form, about 30 seconds. Increase the speed to medium and continue beating until the beaters leave a trail, about 30 seconds. Increase the speed to high and continue beating until the cream is smooth, thick and nearly doubled in volume, about 20 seconds for soft peaks or about 30 seconds for stiff peaks. If necessary, finish beating by hand to adjust the consistency."
-allergens: ['dairy']
+allergens:
+  - "dairy"
 ---
 
 {{< recipe-meta >}}

@@ -25,7 +25,10 @@ steps:
   - "COMBINE EGG MIXTURE. Mix eggs, tortilla chips, 1/4 tsp salt, and pinch of black pepper together and set aside."
   - "COOK VEGETABLES. Melt butter in 12-inch nonstick skillet over medium-high heat. Add onion and bell pepper and cook until softened, about 4 minutes. Stir in garlic and jalapeno and cook until fragrant, about 30 seconds."
   - "ADD EGG MIXTURE AND COOK. Reduce heat to medium. Add egg mixture and cook, using rubber spatula to push mixture back and forth until curds begin to form. Continue to cook, lifting and folding curds from side to side, until they clump in single mound but are still very moist, about 3 minutes. FINISH AND SEASON. Off heat, gently fold in cheese and cilantro and season with salt and pepper to taste. Serve."
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 nutrition:
   calories: 151.2
   protein_g: 18.5

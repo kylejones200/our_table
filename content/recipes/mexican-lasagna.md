@@ -15,8 +15,9 @@ ingredients:
   - "1 can cream of mushroom soup"
   - "1 can mild enchilada sauce"
   - "1 soup can of milk"
-notes: "incredients"
-allergens: ['dairy']
+
+allergens:
+  - "dairy"
 ---
 
 {{< recipe-meta >}}

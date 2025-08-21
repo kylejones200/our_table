@@ -17,7 +17,10 @@ ingredients:
   - "3 cups quick cook oats"
 steps:
   - "Combine in a large saucepan – sugar, cocoa, milk, butter. Bring to a boil and boil for 1 minute. Stir in peanut butter and oats. Drop by spoonfuls onto waxed paper. Let set. Store in airtight container."
-allergens: ['dairy', 'gluten', 'nuts']
+allergens:
+  - "dairy"
+  - "gluten"
+  - "nuts"
 ---
 
 {{< recipe-meta >}}

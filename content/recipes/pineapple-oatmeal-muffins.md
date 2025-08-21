@@ -1,5 +1,6 @@
 ---
 
+
 title: "Pineapple Oatmeal Muffins"
 date: "2025-08-21T10:44:26.942753"
 type: "recipe"
@@ -22,7 +23,18 @@ ingredients:
 steps:
   - "Drain pineapple, reserve juice for beverage. Cream butter and sugars until light and fluffy. Beat in eggs, then pineapple. Combine remaining ingredients. Add to pineapple mixture. Stir until just blended. Spoon batter into greased muffin tins. Bake in 375 degree oven 20 minutes. Turn out onto rack to"
   - "cool. Makes 12 muffins."
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
+nutrition:
+  calories: 89.6
+  protein_g: 6.2
+  carbohydrates_g: 33.3
+  fat_g: 5.7
+  fiber_g: 1.4
+  sugar_g: 0.0
+  servings: 12
 ---
 
 {{< recipe-meta >}}

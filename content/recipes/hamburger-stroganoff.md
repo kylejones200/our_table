@@ -21,7 +21,9 @@ ingredients:
   - "1/2 tsp dill weed"
 steps:
   - "Brown ground beef, seasoning and onion. Add mushrooms, flour, steak sauce, paste, dill weed, and catsup. Gradually stir in beef broth. Bring to boil. Reduce heat and stir in sour cream. Simmer 3 minutes. Serve over rice or noodles, or cook noodles, mix together and place in casserole and bake for 30 minutes at 350."
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

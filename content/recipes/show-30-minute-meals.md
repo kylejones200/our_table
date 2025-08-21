@@ -16,7 +16,8 @@ ingredients:
   - "1 lemon (Heads up: you'll need lemon zest for the pesto later, so zest and reserve before you cut this lemon to juice it for this salad.)"
   - "3 Tbsp extra-virgin olive oil, eyeball it"
 notes: "Episode: No Meat, No Worries"
-allergens: []
+allergens:
+  - 
 nutrition:
   calories: 0.0
   protein_g: 4.1

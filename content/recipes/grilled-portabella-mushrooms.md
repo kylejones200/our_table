@@ -8,13 +8,11 @@ categories: []
 source: ""
 ingredients:
   - "4-6 Portabella mushrooms, 5\" diameter, with stems removed"
-  - "--- Marinate in the following ---"
   - "2 cups oil"
   - "2 sprigs fresh rosemary"
   - "1 tsp salt"
   - "1 tsp black pepper"
   - "1 tsp garlic"
-  - "--- VINAIGRETTE ---"
   - "3 tsp balsamic vinegar"
   - "1 tsp olive oil"
 ---

@@ -18,8 +18,10 @@ ingredients:
   - "3-3 1/2 cups bread flour, divided"
   - "3 Tbls. grated orange rind"
   - "2 Tbls. butter, softened"
-  - "
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 --- Orange Glaze ---"
   - "1/4 cup sugar"
   - "1/4 cup commercial sour cream"

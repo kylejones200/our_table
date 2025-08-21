@@ -16,7 +16,8 @@ ingredients:
   - "2 tsp Dijon mustard"
   - "1/2 tsp salt"
   - "1/3 cup extra-virgin olive oil"
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

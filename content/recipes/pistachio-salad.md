@@ -15,7 +15,8 @@ ingredients:
   - "1 cup small marshmallows"
 steps:
   - "Sprinkle pudding mix into whipped topping. Add pineapple and marshmallows. Chill."
-allergens: ['nuts']
+allergens:
+  - "nuts"
 ---
 
 {{< recipe-meta >}}

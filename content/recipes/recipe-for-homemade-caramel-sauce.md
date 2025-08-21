@@ -15,7 +15,8 @@ ingredients:
 steps:
   - "Combine the sugar and 2 Tbsp water in a medium saucepan (high sides). Do not stir. Cook over medium-high heat to a dark caramel color, swirling as it begins to brown to distribute the sugar. While the sugar and water are going at it, heat up the cream in a saucepan or microwave just until warm. Take off the heat and add your room temperature butter. Whisk the butter in, being sure it is totally combined."
   - "Add your warmed cream and whisk vigorously. Mixture will bubble, then settle down to a velvety caramel."
-allergens: ['dairy']
+allergens:
+  - "dairy"
 ---
 
 {{< recipe-meta >}}

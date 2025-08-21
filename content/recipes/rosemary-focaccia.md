@@ -15,7 +15,9 @@ ingredients:
   - "1 tsp salt, divided"
   - "1/4 cup butter, melted"
   - "1/2 cup chopped fresh rosemary, divided"
-allergens: ['dairy', 'gluten']
+allergens:
+  - "dairy"
+  - "gluten"
 nutrition:
   calories: 124.2
   protein_g: 14.7

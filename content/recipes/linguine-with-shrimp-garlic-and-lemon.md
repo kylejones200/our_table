@@ -11,7 +11,8 @@ source: "The Best of 30-Minute Recipe"
 ingredients:
   - "3/4 pounds large (31/40) shrimp, peeled and deveined"
 notes: "The key to moist, tender shrimp is to finish cooking them off the heat, so be sure to follow the visual cues in the recipe."
-allergens: ['shellfish']
+allergens:
+  - "shellfish"
 ---
 
 {{< recipe-meta >}}

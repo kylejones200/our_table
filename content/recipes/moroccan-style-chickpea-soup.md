@@ -15,7 +15,8 @@ ingredients:
   - "1 (14.5 oz) can diced tomatoes"
   - "1/4 tsp saffron threads, crumbled"
 notes: "This soup can be made vegetarian by substituting vegetable broth for the chicken broth. You can also substitute yellow summer squash for the zucchini, if desired. *Cilantro and lemon are a must to complete the flavors of the soup"
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

@@ -28,7 +28,8 @@ nutrition:
   fiber_g: 8.5
   sugar_g: 5.2
   servings: 4
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

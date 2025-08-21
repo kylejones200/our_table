@@ -9,7 +9,8 @@ categories: []
 source: "30 Minute Recipes"
 ingredients:
   - "4 boneless, skinless chicken breasts"
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

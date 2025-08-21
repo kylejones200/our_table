@@ -20,7 +20,8 @@ ingredients:
   - "1 can whole corn, drained"
   - "1/2 tsp marjoram, crushed"
   - "1 can evaporated milk"
-allergens: ['dairy']
+allergens:
+  - "dairy"
 nutrition:
   calories: 93.0
   protein_g: 6.0

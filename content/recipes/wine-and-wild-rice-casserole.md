@@ -1,5 +1,6 @@
 ---
 
+
 title: "Wine and Wild Rice Casserole"
 date: "2025-08-21T10:44:26.941645"
 type: "recipe"
@@ -22,7 +23,16 @@ ingredients:
 steps:
   - "Prepare rice mix according to package directions. Meanwhile, in saucepan cook onion and celery in butter till tender but not brown."
   - "Blend in soup, sour cream, wine, and curry. Stir in chicken and cooked rice; turn into 12 x 7 1/2 x 2 inch baking dish. Bake,"
-allergens: ['dairy']
+allergens:
+  - "dairy"
+nutrition:
+  calories: 173.8
+  protein_g: 18.4
+  carbohydrates_g: 45.4
+  fat_g: 28.4
+  fiber_g: 17.8
+  sugar_g: 0.7
+  servings: 4
 ---
 
 {{< recipe-meta >}}

@@ -20,7 +20,10 @@ ingredients:
   - "chow mein noodles"
 steps:
   - "Brown hamburger until no longer pink. Drain well. Add the next 6 ingredients to hamburger and mix well. Place in a 9x 13 casserole, cover and bake at 350 for 1 hour. Uncover and bake an additional 30 minutes. Sprinkle noodles on top."
-allergens: ['dairy', 'gluten', 'soy']
+allergens:
+  - "dairy"
+  - "gluten"
+  - "soy"
 nutrition:
   calories: 286.2
   protein_g: 21.4

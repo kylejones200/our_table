@@ -16,7 +16,8 @@ ingredients:
   - "1 Tbsp amaretto"
 steps:
   - "Combine fudge sauce and liqueur. To serve, place ice cream ball in a dessert bowl; top with sauce. Serve immediately."
-allergens: ['dairy']
+allergens:
+  - "dairy"
 nutrition:
   calories: 83.8
   protein_g: 6.5

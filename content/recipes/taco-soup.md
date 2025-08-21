@@ -24,7 +24,8 @@ ingredients:
   - "3 Tbsp picante sauce"
 steps:
   - "Brown ground beef with onion, add remaining ingredients, simmer 30 minutes."
-allergens: []
+allergens:
+  - 
 nutrition:
   calories: 121.2
   protein_g: 12.0

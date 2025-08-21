@@ -1,5 +1,6 @@
 ---
 
+
 title: "Brown Sugar Refrigerator Crisps"
 date: "2025-08-21T10:44:26.943201"
 type: "recipe"
@@ -24,7 +25,19 @@ steps:
   - "Cut rolls into 1/4 inch thick slices. Set slices, 1-inch apart, on ungreased cookie sheets."
   - "Bake at 350 degrees for 10 to 12 minutes or until golden crisp."
   - "Serve hot or remove while hot onto rack to cool. Makes 6 dozen cookies."
-allergens: ['dairy', 'eggs', 'gluten', 'nuts']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
+  - "nuts"
+nutrition:
+  calories: 255.2
+  protein_g: 15.7
+  carbohydrates_g: 69.2
+  fat_g: 36.0
+  fiber_g: 4.3
+  sugar_g: 3.2
+  servings: 4
 ---
 
 {{< recipe-meta >}}

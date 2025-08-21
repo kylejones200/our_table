@@ -1,5 +1,6 @@
 ---
 
+
 title: "Fried Tofu Sticks"
 date: "2025-08-21T10:44:26.925137"
 type: "recipe"
@@ -17,7 +18,18 @@ ingredients:
   - "1 1/2 cups canola oil"
   - "1/2 cup olive oil"
   - "2 large eggs, beaten"
-allergens: ['eggs', 'gluten', 'soy']
+allergens:
+  - "eggs"
+  - "gluten"
+  - "soy"
+nutrition:
+  calories: 266.5
+  protein_g: 7.6
+  carbohydrates_g: 56.4
+  fat_g: 26.6
+  fiber_g: 15.8
+  sugar_g: 1.0
+  servings: 4
 ---
 
 {{< recipe-meta >}}

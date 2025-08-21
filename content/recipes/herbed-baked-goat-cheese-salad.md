@@ -10,7 +10,7 @@ categories:
   - "salad"
 source: "Make-Ahead Recipes 2010"
 ingredients:
-  - "
+  []
 nutrition:
   calories: 10.2
   protein_g: 2.8

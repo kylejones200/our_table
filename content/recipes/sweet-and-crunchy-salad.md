@@ -23,7 +23,8 @@ steps:
   - "Whisk together the oil, sugar, vinegar, and seasoning packs."
   - "Combine toasted ramen noodles in large bowl with the coleslaw, oranges, water chestnuts, green onions, and sunflower seeds."
   - "Pour dressing over salad and toss to coat evenly. Refrigerate for 2 to 4 hours. note: You can add chicken."
-allergens: ['gluten']
+allergens:
+  - "gluten"
 ---
 
 {{< recipe-meta >}}

@@ -1,5 +1,6 @@
 ---
 
+
 title: "Mandarin Orange Tossed Salad"
 date: "2025-08-21T10:44:26.953107"
 type: "recipe"
@@ -15,8 +16,16 @@ ingredients:
   - "1/2 head romaine or leafy lettuce (or try spinach)"
   - "1/2 sweet, red onion, sliced into rings"
   - "1 (11-oz) can mandarin oranges, drained"
-  - "
-allergens: []
+allergens:
+  - 
+nutrition:
+  calories: 133.5
+  protein_g: 6.2
+  carbohydrates_g: 32.4
+  fat_g: 13.1
+  fiber_g: 2.3
+  sugar_g: 2.9
+  servings: 6
 --- Dressing ---"
   - "3 Tbsp orange juice"
   - "3 Tbsp vegetable oil (try olive)"

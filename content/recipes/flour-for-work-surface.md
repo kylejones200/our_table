@@ -9,8 +9,9 @@ yield: "4 servings"
 categories: []
 source: ""
 ingredients:
-  - "
-allergens: ['dairy']
+  []
+allergens:
+  - "dairy"
 nutrition:
   calories: 240.2
   protein_g: 10.2

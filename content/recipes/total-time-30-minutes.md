@@ -28,7 +28,10 @@ steps:
   - "WHISK flour, sugar, baking powder, baking soda, and salt in bowl."
   - "MIX banana, egg, butter, buttermilk, oil and vanilla extract in large bowl until smooth. Gradually add flour mixture and stir until blended. Add 1/3 cup of the walnuts and mix thoroughly. FILL muffin cups three-quarters full. Sprinkle remaining 2 Tbsp walnuts over tops."
   - "BAKE until a wood pick inserted into center of muffin comes out clean, 15 to 20 minutes."
-allergens: ['dairy', 'eggs', 'gluten']
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 nutrition:
   calories: 176.9
   protein_g: 8.4

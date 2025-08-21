@@ -19,7 +19,8 @@ ingredients:
   - "1-2 Tbsp vinegar"
 steps:
   - "Boil potatoes in jackets until tender (30 minutes). Cooll, peel, cut into bite-size pieces. Put eggs in cold water - bring to boil - put lid on, remove from heat and let set 15 minutes. Immediately run cold water on them to cool. Peel, chop; add onions and green peppers. Mix remaining ingredients for dressing. Pour on salt to taste - 1 tsp or less."
-allergens: ['eggs']
+allergens:
+  - "eggs"
 ---
 
 {{< recipe-meta >}}

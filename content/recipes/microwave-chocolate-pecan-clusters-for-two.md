@@ -17,7 +17,8 @@ ingredients:
 steps:
   - "Place marshmallows, chocolate chips and margarine in 1 quart casserole. Cover tightly and microwave on HIGH 30 seconds. Stir."
   - "Cover and microwave 30 to 45 seconds longer. Stir in vanilla and pecans. Drop by tsp onto waxed paper. Refrigerate until"
-allergens: []
+allergens:
+  - 
 ---
 
 {{< recipe-meta >}}

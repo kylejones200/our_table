@@ -10,8 +10,11 @@ categories:
   - "entree"
 source: ""
 ingredients:
-  - "
-allergens: ['dairy', 'eggs', 'gluten']
+  []
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
 --- Filling ---"
   - "1 small onion, chopped"
   - "6 fresh mushrooms, sliced"
