@@ -1,0 +1,45 @@
+---
+
+
+title: "German Butterkuchen"
+date: "2025-08-21T10:44:26.943144"
+type: "recipe"
+description: ""
+yield: "12 servings"
+categories: []
+source: "Connie Brashears"
+ingredients:
+  - "1 cup milk"
+  - "1/2 cup sugar"
+  - "1 tsp salt"
+  - "1/4 cup shortening"
+  - "1 1/2 pkg. dry yeast"
+  - "1 tsp sugar"
+  - "1/4 cup warm water"
+  - "2 eggs"
+  - "3 1/4 cups unsifted flour"
+  - "1/3 cup chopped almonds"
+  - "Butter topping"
+  - "
+nutrition:
+  calories: 155.5
+  protein_g: 3.5
+  carbohydrates_g: 22.6
+  fat_g: 16.3
+  fiber_g: 0.0
+  sugar_g: 0.0
+  servings: 12
+allergens: ['dairy', 'eggs', 'gluten']
+--- TOPPING ---"
+steps:
+  - "Scald the milk, add 1/2 cup sugar, salt, and shortening, and cool to lukewarm. Dissolve yeast and 1 tsp sugar in warm water, then stir into cooled milk mixture. Beat the eggs with 1 cup of the flour."
+  - "Add rest of flour alternately with milk-yeast mixture, mixing well after each addition. Pour into greased 9 x 13 inch baking pan, spreading dough evenly. Set in a warm place to rise for 45 minutes."
+  - "Sprinkle the butter topping and almonds evenly over top and bake in moderate hot oven, 375 degrees for 30 minutes, or until lightly brown."
+  - "Cut 1/2 cup butter into 1 cup sugar and 1/2 tsp cinnamon until fine crumbs develop."
+---
+
+{{< recipe-meta >}}
+
+{{< ingredients >}}
+
+{{< steps >}}

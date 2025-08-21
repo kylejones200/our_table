@@ -13,11 +13,6 @@ diets: []
 tags: []
 equipment: ["12-inch skillet"]
 image: "images/{{ .Name }}/hero.jpg"
-nutrition:
-  calories: 420
-  protein_g: 28
-  carbs_g: 35
-  fat_g: 18
 ingredients:
   - "2 tbsp olive oil"
   - "1 lb chicken thighs, boneless"

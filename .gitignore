@@ -1,19 +1,26 @@
 # Hugo build output
 public/
+resources/
 
 # Hugo cache
 .hugo_build.lock
 hugo_stats.json
 
-# OS files
+# OS
 .DS_Store
 Thumbs.db
 
-# Editor files
+# Editor
 .vscode/
 .idea/
-*.swp
-*.swo
+
+# Logs
+*.log
+
+# Secrets and API keys
+.env
+*.env
+secrets.py
 
 # Temporary files
 *.tmp

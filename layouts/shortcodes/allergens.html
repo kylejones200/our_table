@@ -1,0 +1,69 @@
+{{- if .Page.Params.allergens -}}
+<div class="allergens-section">
+  <h3>⚠️ Allergen Information</h3>
+  <div class="allergens-grid">
+    {{- range .Page.Params.allergens -}}
+      <span class="allergen-tag allergen-{{ . }}">
+        {{- if eq . "gluten" -}}🌾 Gluten
+        {{- else if eq . "dairy" -}}🥛 Dairy
+        {{- else if eq . "eggs" -}}🥚 Eggs
+        {{- else if eq . "nuts" -}}🥜 Nuts
+        {{- else if eq . "soy" -}}🫘 Soy
+        {{- else if eq . "shellfish" -}}🦐 Shellfish
+        {{- else if eq . "fish" -}}🐟 Fish
+        {{- else if eq . "sesame" -}}🌰 Sesame
+        {{- else -}}⚠️ {{ . | title }}
+        {{- end -}}
+      </span>
+    {{- end -}}
+  </div>
+</div>
+
+<style>
+.allergens-section {
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: #fff3cd;
+  border: 1px solid #ffeaa7;
+  border-radius: 8px;
+}
+
+.allergens-section h3 {
+  margin: 0 0 0.75rem 0;
+  color: #856404;
+  font-size: 1.1rem;
+}
+
+.allergens-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.allergen-tag {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: white;
+  background: #dc3545;
+  border: 1px solid #c82333;
+}
+
+.allergen-gluten { background: #fd7e14; border-color: #e8690b; }
+.allergen-dairy { background: #6f42c1; border-color: #5a2d91; }
+.allergen-eggs { background: #ffc107; border-color: #e0a800; color: #212529; }
+.allergen-nuts { background: #795548; border-color: #6d4c41; }
+.allergen-soy { background: #28a745; border-color: #1e7e34; }
+.allergen-shellfish { background: #17a2b8; border-color: #138496; }
+.allergen-fish { background: #007bff; border-color: #0056b3; }
+.allergen-sesame { background: #6c757d; border-color: #545b62; }
+
+@media (max-width: 768px) {
+  .allergens-grid {
+    justify-content: center;
+  }
+}
+</style>
+{{- end -}}

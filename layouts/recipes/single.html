@@ -1,4 +1,44 @@
 {{ define "main" }}
+<style>
+.recipe-image {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.recipe-image img {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.image-credit {
+  font-size: 0.8rem;
+  color: #666;
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+
+.recipe-emoji {
+  text-align: center;
+  margin: 2rem 0;
+  padding: 2rem;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  border-radius: 12px;
+}
+
+.emoji-large {
+  font-size: 4rem;
+  line-height: 1;
+}
+
+@media (max-width: 768px) {
+  .emoji-large {
+    font-size: 3rem;
+  }
+}
+</style>
 <div class="container">
   <article class="recipe">
     <header class="recipe-header">
@@ -35,7 +75,16 @@
       </div>
       
       {{ with .Params.image }}
-        <img src="{{ . | relURL }}" alt="{{ $.Title }}" style="width: 100%; max-width: 600px; height: auto; border-radius: 8px; margin: 2rem 0;" />
+        <div class="recipe-image">
+          <img src="{{ . }}" alt="{{ $.Title }}" />
+          {{ with $.Params.image_credit }}
+            <p class="image-credit">{{ . }}</p>
+          {{ end }}
+        </div>
+      {{ else if .Params.image_emoji }}
+        <div class="recipe-emoji">
+          <span class="emoji-large">{{ .Params.image_emoji }}</span>
+        </div>
       {{ end }}
     </header>
 
@@ -45,8 +94,13 @@
 
     {{ with .Params.nutrition }}
     <section class="nutrition">
-      <h3>Nutrition Information</h3>
       {{ partial "shortcodes/nutrition.html" . }}
+    </section>
+    {{ end }}
+
+    {{ with .Params.allergens }}
+    <section class="allergens">
+      {{ partial "shortcodes/allergens.html" $ }}
     </section>
     {{ end }}
 

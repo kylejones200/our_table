@@ -1,50 +1,50 @@
 ---
+
+
+
 title: "Holiday Salad"
-slug: "holiday-salad"
-date: 2025-08-18
+date: "2025-08-21T10:44:26.951591"
 type: "recipe"
-description: "Festive mixed greens with oranges, goat cheese, prosciutto, and pomegranate seeds."
-yield: "6 servings"
-prep_time: "20m"
-cook_time: "10m"
-total_time: "30m"
-cuisines: ["American"]
-courses: ["Salad"]
-tags: ["holiday","pomegranate","goat cheese","prosciutto"]
-equipment: ["Mixing bowls","Skillet"]
-image: "images/holiday-salad/hero.jpg"
-nutrition: {}
+description: ""
+yield: "4 servings"
+categories:
+  - "salad"
+source: ""
 ingredients:
-  - "2 tbsp pomegranate juice"
+  - "2 Tbsp pomegranate juice"
   - "1 tsp grated orange zest"
   - "1/4 cup red wine vinegar"
   - "2 shallots, minced"
   - "1 tsp salt"
-  - "1/2 tsp black pepper"
-  - "1 tbsp Dijon mustard"
-  - "1/2 cup olive oil"
-  - "3 oranges, segmented"
-  - "1 small red onion, sliced"
-  - "8 oz goat cheese"
-  - "6 slices prosciutto"
-  - "1 head radicchio"
-  - "1 bunch arugula or watercress"
-  - "6 leaves Bibb lettuce"
-  - "1 head Belgian endive"
-  - "Pomegranate seeds"
+  - "1/2 tsp freshly ground black pepper"
+  - "1 Tbsp Dijon mustard"
+  - "1/2 cup extra-virgin olive oil"
+  - "3 oranges, peeled and segmented"
+  - "1 small red onion, thinly sliced"
+  - "8 ounces goat cheese, cut crosswise into 6 slices"
+  - "6 thin slices prosciutto"
+  - "1 large head radicchio, rinsed, patted dry and torn into bite sized pieces"
+  - "1 bunch arugula or watercress, rinsed, patted dry and cut int bite sized pieces"
+  - "6 large leaves Bibb lettuce, rinsed and patted dry"
+  - "1 head Belgian endive, stem removed and cut crosswise into thin shreds"
+  - "Pomegranate seeds, as garnish"
 steps:
-  - "Whisk juice, zest, vinegar, shallots, salt, pepper, mustard."
-  - "Add oil, whisk to emulsify."
-  - "Fold oranges and onions into 1/4 cup dressing."
-  - "Wrap goat cheese with prosciutto, sear in skillet."
-  - "Combine greens, add oranges and onions, toss with dressing."
-  - "Plate salads, top with goat cheese, garnish with pomegranate seeds."
-notes: ""
+  - "In a small bowl, combine the pomegranate juice and orange zest, vinegar, shallots, salt, pepper and mustard and whisks thoroughly to combine. Add the oil in a steady stream and whisk until emulsified. Fold the segmented oranges and sliced onions into 1/4 cup of the dressing and toss to combine and set aside. Wrap each slice of goat cheese in a slice of prosciutto. Heat a large skillet over medium high heat. Add the wrapped cheeses and sear on both sides. Remove from the heat. In a large salad bowl, combine the greens. Add the marinated orange sections and onion slices, and toss gently with enough extra dressing to coat evenly. Divide among salad plates and top each with a seared goat cheese package and a sprinkling of pomegranate seeds. Spoon a little extra dressing over each salad and serve immediately."
+nutrition:
+  calories: 27.0
+  protein_g: 2.1
+  carbohydrates_g: 9.3
+  fat_g: 21.6
+  fiber_g: 1.9
+  sugar_g: 0.0
+  servings: 4
+image: "https://images.unsplash.com/photo-1552590635-e94502090862?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxob2xpZGF5JTIwc2FsYWQlMjBmb29kJTIwc2FsYWR8ZW58MXwwfHx8MTc1NTc5NTkyM3ww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Louis Hansel on Unsplash"
+allergens: ['dairy']
 ---
+
 {{< recipe-meta >}}
 
 {{< ingredients >}}
 
 {{< steps >}}
-
-{{< nutrition >}}

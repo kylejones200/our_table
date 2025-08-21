@@ -1,12 +1,104 @@
 {{ $n := .Page.Params.nutrition }}
 {{ if $n }}
-<div class="nutrition">
-  <h2>Nutrition (per serving)</h2>
-  <p>
-    Calories: {{ $n.calories }},
-    Protein: {{ $n.protein_g }} g,
-    Carbs: {{ $n.carbs_g }} g,
-    Fat: {{ $n.fat_g }} g
+<div class="nutrition-info">
+  <h3>Nutrition Information</h3>
+  <div class="nutrition-grid">
+    {{ with $n.calories }}
+    <div class="nutrition-item">
+      <span class="nutrition-label">Calories</span>
+      <span class="nutrition-value">{{ . }}</span>
+    </div>
+    {{ end }}
+    {{ with $n.protein_g }}
+    <div class="nutrition-item">
+      <span class="nutrition-label">Protein</span>
+      <span class="nutrition-value">{{ . }}g</span>
+    </div>
+    {{ end }}
+    {{ with $n.carbohydrates_g }}
+    <div class="nutrition-item">
+      <span class="nutrition-label">Carbs</span>
+      <span class="nutrition-value">{{ . }}g</span>
+    </div>
+    {{ end }}
+    {{ with $n.fat_g }}
+    <div class="nutrition-item">
+      <span class="nutrition-label">Fat</span>
+      <span class="nutrition-value">{{ . }}g</span>
+    </div>
+    {{ end }}
+    {{ with $n.fiber_g }}
+    <div class="nutrition-item">
+      <span class="nutrition-label">Fiber</span>
+      <span class="nutrition-value">{{ . }}g</span>
+    </div>
+    {{ end }}
+    {{ with $n.sugar_g }}
+    <div class="nutrition-item">
+      <span class="nutrition-label">Sugar</span>
+      <span class="nutrition-value">{{ . }}g</span>
+    </div>
+    {{ end }}
+    {{ with $n.sodium_mg }}
+    <div class="nutrition-item">
+      <span class="nutrition-label">Sodium</span>
+      <span class="nutrition-value">{{ . }}mg</span>
+    </div>
+    {{ end }}
+  </div>
+  <p class="nutrition-disclaimer">
+    <small>* Nutrition information is estimated based on ingredients and may vary.</small>
   </p>
 </div>
+
+<style>
+.nutrition-info {
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+}
+
+.nutrition-info h3 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: #495057;
+}
+
+.nutrition-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.nutrition-item {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 0.75rem;
+  background-color: white;
+  border-radius: 6px;
+  border: 1px solid #dee2e6;
+}
+
+.nutrition-label {
+  font-size: 0.875rem;
+  color: #6c757d;
+  margin-bottom: 0.25rem;
+}
+
+.nutrition-value {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #495057;
+}
+
+.nutrition-disclaimer {
+  margin: 0;
+  color: #6c757d;
+  font-style: italic;
+}
+</style>
 {{ end }}

@@ -1,32 +1,24 @@
 ---
+
 title: "Parmesan Crisps"
-slug: "parmesan-crisps"
-date: 2025-08-18
+date: "2025-08-21T10:44:26.952120"
 type: "recipe"
 description: ""
-yield: ""
-prep_time: ""
-cook_time: ""
-total_time: ""
-cuisines: []
-courses: ["Dinner"]
-diets: []
-tags: []
-equipment: []
-image: "images/parmesan-crisps/hero.jpg"
-nutrition: {}
+yield: "4 servings"
+categories:
+  - "snack"
+source: ""
 ingredients:
+  - "1/2 cup grated Parmesan"
 steps:
-  - "1/2 cup grated Parmesan "
-  - "Preheat oven to 400 degrees F. "
-  - "Pour a heaping tablespoon of Parmesan onto a silicone or parchment lined baking sheet and lightly pat down. A silicone baking sheet is highly recommended. Repeat with the remaining cheese, spacing the spoonfuls about a 1/2 inch apart. "
+  - "Preheat oven to 400 degrees F."
+  - "Pour a heaping Tbsp of Parmesan onto a silicone or parchment lined baking sheet and lightly pat down. A silicone baking sheet is highly recommended. Repeat with the remaining cheese, spacing the spoonfuls about a 1/2 inch apart."
   - "Bake for 3 to 5 minutes or until golden and crisp. Cool."
-notes: ""
+allergens: ['dairy']
 ---
+
 {{< recipe-meta >}}
 
 {{< ingredients >}}
 
 {{< steps >}}
-
-{{< nutrition >}}
