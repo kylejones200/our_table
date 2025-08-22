@@ -20,7 +20,7 @@
         
         /* Header */
         .site-header { 
-            background: #2c3e50; 
+            background: #333333; 
             color: white; 
             padding: 1rem 0;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -32,8 +32,8 @@
         .nav-links a:hover { text-decoration: underline; }
         
         /* Hero */
-        .hero { text-align: center; padding: 3rem 0; background: #ecf0f1; }
-        .hero h1 { font-size: 3rem; margin-bottom: 1rem; color: #2c3e50; }
+        .hero { text-align: center; padding: 3rem 0; background: #ffffff; border-bottom: 1px solid #eee; }
+        .hero h1 { font-size: 3rem; margin-bottom: 1rem; color: #333333; }
         .lead { font-size: 1.2rem; color: #7f8c8d; }
         
         /* Recipe Grid */
@@ -54,8 +54,8 @@
         .recipe-card img { width: 100%; height: 200px; object-fit: cover; }
         .recipe-content { padding: 1.5rem; }
         .recipe-content h3 { margin: 0 0 0.5rem 0; }
-        .recipe-content h3 a { text-decoration: none; color: #2c3e50; }
-        .recipe-content h3 a:hover { color: #3498db; }
+        .recipe-content h3 a { text-decoration: none; color: #333333; }
+        .recipe-content h3 a:hover { color: #111111; }
         .recipe-meta { 
             display: flex; 
             gap: 1rem; 
@@ -68,13 +68,13 @@
         .btn { 
             display: inline-block;
             padding: 0.75rem 1.5rem;
-            background: #3498db;
+            background: #555555;
             color: white;
             text-decoration: none;
             border-radius: 4px;
             transition: background 0.2s;
         }
-        .btn:hover { background: #2980b9; }
+        .btn:hover { background: #333333; }
         
         /* Action Cards */
         .action-cards {
@@ -85,7 +85,7 @@
         }
         .action-card {
             background: white;
-            border: 2px solid #3498db;
+            border: 2px solid #e5e7eb;
             border-radius: 12px;
             padding: 2rem;
             text-align: center;
@@ -93,11 +93,11 @@
         }
         .action-card:hover {
             transform: translateY(-4px);
-            box-shadow: 0 8px 25px rgba(52, 152, 219, 0.15);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
         }
         .action-card h3 {
             margin: 0 0 1rem 0;
-            color: #2c3e50;
+            color: #333333;
             font-size: 1.3rem;
         }
         .action-card p {
@@ -105,12 +105,12 @@
             margin-bottom: 1.5rem;
         }
         .btn-primary {
-            background: #e74c3c;
+            background: #444444;
             border: none;
             font-weight: bold;
         }
         .btn-primary:hover {
-            background: #c0392b;
+            background: #222222;
         }
         
         /* Utility */
@@ -118,7 +118,7 @@
         
         /* Footer */
         .site-footer { 
-            background: #34495e; 
+            background: #333333; 
             color: white; 
             text-align: center; 
             padding: 2rem 0; 
@@ -149,12 +149,12 @@
     <header class="site-header">
         <div class="container">
             <nav class="site-nav">
-                <a href="{{ .Site.BaseURL }}" class="site-title">{{ .Site.Title }}</a>
+                <a href="{{ "/" | relURL }}" class="site-title">{{ .Site.Title }}</a>
                 <ul class="nav-links">
-                    <li><a href="{{ .Site.BaseURL }}">Home</a></li>
-                    <li><a href="/recipes/">Recipes</a></li>
-                    <li><a href="/bulk-prep/">Bulk Prep</a></li>
-                    <li><a href="/shopping-list/">Shopping List</a></li>
+                    <li><a href="{{ "/" | relURL }}">Home</a></li>
+                    <li><a href="{{ "/recipes/" | relURL }}">Recipes</a></li>
+                    <li><a href="{{ "/bulk-prep/" | relURL }}">Bulk Prep</a></li>
+                    <li><a href="{{ "/shopping-list/" | relURL }}">Shopping List</a></li>
                 </ul>
             </nav>
         </div>
