@@ -1,6 +1,4 @@
 ---
-
-
 title: "Holiday Wassail"
 date: "2025-08-21T10:44:26.944615"
 type: "recipe"
@@ -8,7 +6,7 @@ description: ""
 yield: "4 servings"
 categories:
   - "beverage"
-source: ""
+source: "Connie Brashears"
 ingredients:
   - "6 cups apple cider"
   - "2 1/2 cups apricot nectar"

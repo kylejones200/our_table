@@ -1,6 +1,4 @@
 ---
-
-
 title: "Heck of a Jicama Salad"
 date: "2025-08-21T10:44:26.952740"
 type: "recipe"
@@ -18,6 +16,7 @@ ingredients:
   - "2 Tbsp chopped cilantro leaves, a handful of leaves, finely chopped"
   - "1/2 tsp ground cumin, eyeball it in the palm of your hand"
   - "3 Tbsp extra-virgin olive oil, eyeball it"
+  - "Freshly ground black pepper"
 allergens:
   -
 nutrition:
@@ -28,6 +27,10 @@ nutrition:
   fiber_g: 1.4
   sugar_g: 0.0
   servings: 4
+
+
+steps:
+  - "Place jicama in a bowl, sprinkle with salt and sugar, and add the juice of 1 lime. Let jicama stand 15 minutes. While jicama softens, work on the rest of your meal."
 ---
 
 {{< recipe-meta >}}

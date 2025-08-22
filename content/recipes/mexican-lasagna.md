@@ -16,6 +16,13 @@ ingredients:
   - "1 can cream of mushroom soup"
   - "1 can mild enchilada sauce"
   - "1 soup can of milk"
+  - "Corn tortillas (12-18)"
+
+
+
+steps:
+  - "Brown ground beef with onion. Drain off excess grease. Stir in chicken soup, mushroom soup, enchilada sauce, and milk. Heat until well blended, stirring often. Layer in 9 x 13 inch baking dish, corn tortillas, meat mixture and cheddar cheese. Repeat layers ending with cheese. Bake in 350 degree oven for 20 to 25 minutes."
+
 
 allergens:
   - "dairy"
@@ -27,6 +34,8 @@ nutrition:
   fiber_g: 2.7
   sugar_g: 0.0
   servings: 4
+
+
 ---
 
 {{< recipe-meta >}}
