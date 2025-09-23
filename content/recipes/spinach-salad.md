@@ -1,13 +1,27 @@
 ---
-
 title: "Spinach Salad"
+
 date: "2025-08-21T10:44:26.940037"
+
 type: "recipe"
-description: ""
+
+description: "Spinach Salad made with lb fresh spinach, head red leaf lettuce."
+
 yield: "8 servings"
+
 categories:
   - "salad"
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "20 minutes"
+
+total_time: "30 minutes"
+
+
+
 ingredients:
   - "1 lb. fresh spinach"
   - "1 head red leaf lettuce"
@@ -20,13 +34,16 @@ ingredients:
   - "1/2 tsp salt"
   - "1/2 tsp dry mustard"
   - "1/2 tsp onion juice, grated from fresh onion"
+
 steps:
   - "Wash and dry spinach and lettuces. Tear into bite-sized pieces, removing the ribs."
   - "Prepare salad dressing by combining the sugar, salad oil, vinegar, salt, mustard and onion juice."
   - "Let dressing set several hours or overnight in the refrigerator to let flavors blend."
   - "Toss greens with dressing and sprinkle bacon and mushrooms over the top."
+
 allergens:
   -
+
 nutrition:
   calories: 48.1
   protein_g: 3.4
@@ -35,7 +52,12 @@ nutrition:
   fiber_g: 0.6
   sugar_g: 0.0
   servings: 8
+
+image: "https://images.unsplash.com/photo-1741515042603-70545daeb0c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxzcGluYWNoJTIwc2FsYWQlMjBmb29kJTIwc2FsYWR8ZW58MXwwfHx8MTc1ODYzMzA5NXww&ixlib=rb-4.1.0&q=80&w=1080"
+
+image_credit: "Photo by Zoshua Colah on Unsplash"
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

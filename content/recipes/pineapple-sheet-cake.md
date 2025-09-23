@@ -1,15 +1,28 @@
 ---
-
-
-
 title: "Pineapple Sheet Cake"
+
 date: "2025-08-21T10:44:26.949619"
+
 type: "recipe"
-description: ""
+
+description: "Pineapple Sheet Cake made with cups flour, cups sugar."
+
 yield: "4 servings"
+
 categories:
   - "cake"
+
 source: "Father Bob Schlitt"
+
+prep_time: "10 minutes"
+
+cook_time: "25 minutes"
+
+total_time: "35 minutes"
+
+
+
+
 ingredients:
   - "2 cups flour"
   - "2 cups sugar"
@@ -17,10 +30,12 @@ ingredients:
   - "1 tsp vanilla"
   - "2 eggs"
   - "1 15 oz. can crushed pineapple and juice"
+
 allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+
 nutrition:
   calories: 195.8
   protein_g: 10.0
@@ -29,9 +44,14 @@ nutrition:
   fiber_g: 1.1
   sugar_g: 3.2
   servings: 4
+
 image: "https://images.unsplash.com/photo-1619413922783-13d5a4ed3e84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxwaW5lYXBwbGUlMjBzaGVldCUyMGNha2UlMjBmb29kJTIwY2FrZXxlbnwxfDB8fHwxNzU1ODA0NTk4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+
 image_credit: "Photo by Jota . on Unsplash"
---- Icing ---"
+---
+{{< recipe-image >}}
+
+Icing ---"
   - "8 oz. cream cheese, softened"
   - "1 stick margarine, softened"
   - "33/4 cups powdered sugar"

@@ -1,17 +1,32 @@
 ---
-
-
 title: "Fluffy Cherry Amaretto Dessert"
+
 date: "2025-08-21T10:44:26.949746"
+
 type: "recipe"
-description: ""
+
+description: "A delicious Fluffy Cherry Amaretto Dessert recipe for any occasion."
+
 yield: "4 servings"
+
 categories: []
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "277 minutes"
+
+total_time: "287 minutes"
+
+
+
 ingredients:
   []
+
 allergens:
   - "dairy"
+
 nutrition:
   calories: 96.2
   protein_g: 7.3
@@ -20,7 +35,10 @@ nutrition:
   fiber_g: 2.9
   sugar_g: 0.0
   servings: 4
---- Crust ---"
+---
+{{< recipe-image >}}
+
+Crust ---"
   - "1/2 package Oreo cookies crushed in food processor"
   - "1/4 cup melted butter"
   - "--- Filling ---"

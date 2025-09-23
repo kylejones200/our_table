@@ -1,16 +1,29 @@
 ---
-
-
-
 title: "Corn and Lima Bean Medley"
+
 date: "2025-08-21T10:44:26.927803"
+
 type: "recipe"
-description: ""
+
+description: "Corn and Lima Bean Medley made with tsp cornstarch, tsp sugar."
+
 yield: "6 servings"
+
 categories:
   - "side"
   - "vegetable"
+
 source: "Mayo Clinic-30 Minutes"
+
+prep_time: "10 minutes"
+
+cook_time: "42 minutes"
+
+total_time: "52 minutes"
+
+
+
+
 ingredients:
   - "1 tsp cornstarch (cornflour)"
   - "1 tsp sugar"
@@ -20,13 +33,17 @@ ingredients:
   - "10 of (315 g) frozen lima beans thawed"
   - "1/4 cup (1.5 oz/45 g) minced shallots"
   - "2 Tbsp chopped fresh flat-leaf (Italian) Parsley"
+
 steps:
   - "In a heavy saucepan, whisk together the cornstarch, sugar, and pepper until blended and smooth. Gradually whisk in the evaporated milk. Add the corn, lima beans, and shallots and stir to combine."
   - "Place over high heat and bring to a boil, stirring frequently [will burn very easily]. Reduce heat to low and simmer, stirring occasionally, until the vegetables are tender and the sauce has reduced by about half and coats the vegetables lightly, 10-12 minutes."
   - "Serve now, or refrigerate in a tightly covered container for up to 2 days. If needed, reheat in a double boiler. To sere, stir in parsley and transfer to a bowl."
+
 notes: "Because it uses nonfat evaporated milk rather than cream, this quick version of New England succotash has less fat than traditional recipes. It is one of the rare vegetable dishes that you can make ahead and reheat, using a double boiler, without loss of taste or texture."
+
 allergens:
   - "dairy"
+
 nutrition:
   calories: 139.5
   protein_g: 1.8
@@ -36,6 +53,7 @@ nutrition:
   sugar_g: 0.0
   servings: 6
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

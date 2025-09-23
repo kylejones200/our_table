@@ -1,14 +1,27 @@
 ---
-
-
-
 title: "Mexican Stuffed Shells"
+
 date: "2025-08-21T10:44:26.949128"
+
 type: "recipe"
-description: ""
+
+description: "Mexican Stuffed Shells made with jumbo pasta shells uncooked, jar picante sauce."
+
 yield: "4 servings"
+
 categories: []
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "35 minutes"
+
+total_time: "45 minutes"
+
+
+
+
 ingredients:
   - "21 jumbo pasta shells, uncooked"
   - "1 (16 oz.) jar picante sauce"
@@ -18,11 +31,17 @@ ingredients:
   - "1/2 tsp Morton's Natures Seasoning"
   - "1 (4 oz.) can chopped green chilies, drained"
   - "1 cup (4 oz.) shredded Monterey Jack cheese, divided"
+
 steps:
   - "Cook pasta shells according to package directions; drain."
   - "Combine picante sauce, tomato sauce, and water. Set aside."
   - "Cook ground beef over medium heat until meat is browned; stirring to crumble; drain. Add 1/2 cup picante mixture, green chilies, 1/2 cup cheese. Fill each shell with about 2 Tbsp ground beef mixture."
   - "Spoon about half of remaining picante mixture into a 13x9 casserole. Place filled shells on top; top with remaining picante mixture. Cover with foil and bake at 350° for 30 minutes. Uncover; sprinkle with remaining cheese. Bake an additional 5 minutes or until cheese melts."
+
+allergens:
+  - "dairy"
+  - "gluten"
+
 nutrition:
   calories: 256.2
   protein_g: 11.3
@@ -31,12 +50,12 @@ nutrition:
   fiber_g: 3.8
   sugar_g: 10.8
   servings: 4
-allergens:
-  - "dairy"
-  - "gluten"
+
 image: "https://images.unsplash.com/photo-1601842929683-7d8755387735?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxtZXhpY2FuJTIwc3R1ZmZlZCUyMHNoZWxscyUyMGZvb2R8ZW58MXwwfHx8MTc1NTgwNDU1Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+
 image_credit: "Photo by Craig Pattenaude on Unsplash"
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

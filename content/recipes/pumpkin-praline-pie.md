@@ -1,19 +1,32 @@
 ---
-
-
 title: "Pumpkin-Praline Pie"
+
 date: "2025-08-21T10:44:26.929790"
+
 type: "recipe"
-description: ""
+
+description: "Pumpkin-Praline Pie made with inch pie shell chilled in pie plate for minutes."
+
 yield: "8-10 servings"
+
 categories:
   - "dessert"
+
 source: "Cook's Country"
+
+prep_time: "10 minutes"
+
+cook_time: "240 minutes"
+
+total_time: "250 minutes"
+
 ingredients:
   - "1 9 inch pie shell, chilled in pie plate for 30 minutes"
+
 allergens:
   - "dairy"
   - "eggs"
+
 nutrition:
   calories: 0.0
   protein_g: 0.1
@@ -22,7 +35,14 @@ nutrition:
   fiber_g: 0.0
   sugar_g: 0.0
   servings: 8
---- Pumpkin Filling ---"
+
+image: "https://images.unsplash.com/photo-1601843636898-ac4d83c70b04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxwdW1wa2luLXByYWxpbmUlMjBwaWUlMjBmb29kJTIwZGVzc2VydHxlbnwxfDB8fHwxNzU4NjMzMDk2fDA&ixlib=rb-4.1.0&q=80&w=1080"
+
+image_credit: "Photo by Mariah Hewines on Unsplash"
+---
+{{< recipe-image >}}
+
+Pumpkin Filling ---"
   - "1 15 ounce can plain pie puree"
   - "3/4 cup packed dark brown sugar"
   - "2 tsp cinnamon"

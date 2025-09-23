@@ -1,19 +1,36 @@
 ---
-
 title: "Toasted Seed Salad"
+
 date: "2025-08-21T10:44:26.933613"
+
 type: "recipe"
-description: ""
+
+description: "A delicious Toasted Seed Salad recipe for any occasion."
+
 yield: "8-10 servings"
+
 categories:
   - "salad"
+
 source: "Stop and Smell the Rosemary"
+
+prep_time: "10 minutes"
+
+cook_time: "20 minutes"
+
+total_time: "30 minutes"
+
+
 ingredients:
   []
+
 allergens:
   - "dairy"
   - "sesame"
---- Dressing ---"
+---
+{{< recipe-image >}}
+
+Dressing ---"
   - "2 Tbsp fresh lemon juice"
   - "dash Tabasco sauce"
   - "1/8 tsp dry mustard"

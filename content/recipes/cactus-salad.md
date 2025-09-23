@@ -1,15 +1,28 @@
 ---
-
-
-
 title: "Cactus Salad"
+
 date: "2025-08-21T10:44:26.953043"
+
 type: "recipe"
+
 description: "CRACKED BLACK PEPPER GARNISH"
+
 yield: "4 servings"
+
 categories:
   - "salad"
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "245 minutes"
+
+total_time: "255 minutes"
+
+
+
+
 ingredients:
   - "1 1/2 pounds fresh or prepared cactus paddles or nopales, needles removed"
   - "3/4 cup olive oil"
@@ -29,10 +42,13 @@ ingredients:
   - "2 Tbsp freshly squeezed lemon juice"
   - "1 tsp salt"
   - "In a small bowl, stir all the ingredients together. Spoon over vegetables or drizzle lightly over dressed salads as a garnish."
+
 steps:
   - "Preheat grill or broiler. Place cactus paddles in a bowl and toss with 1/4 cup of the olive oil and 1/2 tsp of the salt. Grill or broil the paddles until grill marks appear on each side, or they turn dark green with black patches, about 3 to 5 minutes. Set aside to cool to room temperature. Cover and chill 2 to 4 hours or overnight. Cut cactus into 1/2-inch pieces. In a large bowl, combine the cactus, tomatoes, onions, chiles, cilantro and cheese with the remaining 1/2 cup oil, the vinegar, the remaining 1 tsp salt and pepper. Toss well. Serve on plates lined with lettuce leaves, and garnish with avocado slices sprinkled with cracked pepper garnish."
+
 allergens:
   - "dairy"
+
 nutrition:
   calories: 50.0
   protein_g: 16.1
@@ -41,9 +57,12 @@ nutrition:
   fiber_g: 1.7
   sugar_g: 0.0
   servings: 4
+
 image: "https://images.unsplash.com/photo-1587407831161-4d1a3c854025?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjYWN0dXMlMjBzYWxhZCUyMGZvb2QlMjBzYWxhZHxlbnwxfDB8fHwxNzU4NTk4NjIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+
 image_credit: "Photo by martin becker on Unsplash"
 ---
+{{< recipe-image >}}
 
 CRACKED BLACK PEPPER GARNISH
 

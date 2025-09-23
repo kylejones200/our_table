@@ -1,13 +1,27 @@
 ---
-
-
 title: "Pecan Rolls"
+
 date: "2025-08-21T10:44:26.944085"
+
 type: "recipe"
-description: ""
+
+description: "Pecan Rolls made with package active dry yeast, cup warm water."
+
 yield: "4 servings"
+
 categories: []
+
 source: "Bernice Johnson"
+
+prep_time: "10 minutes"
+
+cook_time: "190 minutes"
+
+total_time: "200 minutes"
+
+
+
+
 ingredients:
   - "1 package active dry yeast"
   - "1/4 cup warm water"
@@ -17,10 +31,12 @@ ingredients:
   - "2 eggs"
   - "11/2 tsp salt"
   - "6 cups bread flour"
+
 allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+
 nutrition:
   calories: 200.8
   protein_g: 17.9
@@ -29,7 +45,14 @@ nutrition:
   fiber_g: 2.4
   sugar_g: 0.0
   servings: 4
---- Filling: Topping ---"
+
+image: "https://images.unsplash.com/photo-1709203876602-f23c63fff81b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxwZWNhbiUyMHJvbGxzJTIwZm9vZHxlbnwxfDB8fHwxNzU4NjMzMDcwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+
+image_credit: "Photo by Inna Safa on Unsplash"
+---
+{{< recipe-image >}}
+
+Filling: Topping ---"
   - "1/2 cup granulated sugar"
   - "8 Tbsp butter"
   - "1/2 cup brown sugar"

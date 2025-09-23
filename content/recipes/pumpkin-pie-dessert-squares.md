@@ -1,20 +1,37 @@
 ---
-
 title: "Pumpkin Pie Dessert Squares"
+
 date: "2025-08-21T10:44:26.950081"
+
 type: "recipe"
-description: ""
+
+description: "A delicious Pumpkin Pie Dessert Squares recipe for any occasion."
+
 yield: "4 servings"
+
 categories:
   - "dessert"
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "50 minutes"
+
+total_time: "60 minutes"
+
+
 ingredients:
   []
+
 allergens:
   - "dairy"
   - "eggs"
   - "gluten"
---- Crust ---"
+---
+{{< recipe-image >}}
+
+Crust ---"
   - "1 pkg. yellow cake mix"
   - "1/2 cup butter, melted"
   - "1 egg"

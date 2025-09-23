@@ -1,14 +1,27 @@
 ---
-
-
-
 title: "German Butterkuchen"
+
 date: "2025-08-21T10:44:26.943144"
+
 type: "recipe"
-description: ""
+
+description: "German Butterkuchen made with cup milk, cup sugar."
+
 yield: "12 servings"
+
 categories: []
+
 source: "Connie Brashears"
+
+prep_time: "10 minutes"
+
+cook_time: "75 minutes"
+
+total_time: "85 minutes"
+
+
+
+
 ingredients:
   - "1 cup milk"
   - "1/2 cup sugar"
@@ -21,6 +34,12 @@ ingredients:
   - "3 1/4 cups unsifted flour"
   - "1/3 cup chopped almonds"
   - "Butter topping"
+
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
+
 nutrition:
   calories: 155.5
   protein_g: 3.5
@@ -29,13 +48,14 @@ nutrition:
   fiber_g: 0.0
   sugar_g: 0.0
   servings: 12
-allergens:
-  - "dairy"
-  - "eggs"
-  - "gluten"
+
 image: "https://images.unsplash.com/photo-1712594533988-13a401974b44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxnZXJtYW4lMjBidXR0ZXJrdWNoZW4lMjBmb29kfGVufDF8MHx8fDE3NTU4MDQ1NTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+
 image_credit: "Photo by Divya Kothari on Unsplash"
---- TOPPING ---"
+---
+{{< recipe-image >}}
+
+TOPPING ---"
 steps:
   - "Scald the milk, add 1/2 cup sugar, salt, and shortening, and cool to lukewarm. Dissolve yeast and 1 tsp sugar in warm water, then stir into cooled milk mixture. Beat the eggs with 1 cup of the flour."
   - "Add rest of flour alternately with milk-yeast mixture, mixing well after each addition. Pour into greased 9 x 13 inch baking pan, spreading dough evenly. Set in a warm place to rise for 45 minutes."

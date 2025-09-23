@@ -1,18 +1,35 @@
 ---
-
 title: "Green Pepper and Onion Steak"
+
 date: "2025-08-21T10:44:26.948801"
+
 type: "recipe"
-description: ""
+
+description: "A delicious Green Pepper and Onion Steak recipe for any occasion."
+
 yield: "4 servings"
+
 categories: []
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "45 minutes"
+
+total_time: "55 minutes"
+
+
 ingredients:
   []
+
 allergens:
   - "gluten"
   - "soy"
---- Marinade ---"
+---
+{{< recipe-image >}}
+
+Marinade ---"
   - "1/4 cup soy sauce"
   - "1/4 cup water"
   - "1 clove garlic, pressed"

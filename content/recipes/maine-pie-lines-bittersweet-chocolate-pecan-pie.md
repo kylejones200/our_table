@@ -1,20 +1,33 @@
 ---
-
-
 title: "Maine Pie Line's Bittersweet Chocolate Pecan Pie"
+
 date: "2025-08-21T10:44:26.933538"
+
 type: "recipe"
-description: ""
+
+description: "A delicious Maine Pie Line's Bittersweet Chocolate Pecan Pie recipe for any occasion."
+
 yield: "8 servings"
+
 categories:
   - "dessert"
+
 source: "Briana Warner"
+
+prep_time: "10 minutes"
+
+cook_time: "200 minutes"
+
+total_time: "210 minutes"
+
 ingredients:
   []
+
 allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+
 nutrition:
   calories: 134.5
   protein_g: 5.4
@@ -23,14 +36,19 @@ nutrition:
   fiber_g: 0.3
   sugar_g: 0.0
   servings: 8
---- Crust ---"
+
+Crust:
   - "11/2 cups all-purpose flour"
   - "2 tsp granulated sugar"
   - "1 tsp salt"
   - "1/2 tsp baking powder"
   - "1/2 cup butter cut into small pieces"
   - "1/4 cup ice water"
-  - "--- Filling ---"
+  - "
+---
+{{< recipe-image >}}
+
+Filling ---"
   - "2 cups pecans"
   - "1/4 cup salted butter"
   - "1/4 cup bittersweet chocolate (chopped into small pieces or use bittersweet chocolate chips)"

@@ -1,15 +1,25 @@
 ---
-
-
-
 title: "Fast Nut Tree Breadsticks"
+
 date: "2025-08-21T10:44:26.944486"
+
 type: "recipe"
-description: ""
+
+description: "Fast Nut Tree Breadsticks made with cup lukewarm water, Tbsp sugar."
+
 yield: "4 servings"
+
 categories:
   - "breadstick"
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "62 minutes"
+
+total_time: "72 minutes"
+
 ingredients:
   - "1 cup lukewarm water"
   - "1 1/2 Tbsp sugar"
@@ -24,11 +34,14 @@ ingredients:
   - "each piece into a rectangle 6\"x9\". Using pizza cutter, cut into 1"
   - "inch strips. Place on greased baking sheet. Let rise 25 minutes."
   - "12-15 breadsticks."
+
 steps:
-  - "mixing first with spoon, then with hands, to make a smooth springy ball of dough. Cover with towel and let stand in warm place about"
+  - "Mixing first with spoon, then with hands, to make a smooth springy ball of dough. Cover with towel and let stand in warm place about"
   - "Bake at 400 degrees about 10 minutes or until golden brown. Makes"
+
 allergens:
   - "gluten"
+
 nutrition:
   calories: 187.8
   protein_g: 17.4
@@ -37,9 +50,12 @@ nutrition:
   fiber_g: 0.7
   sugar_g: 0.0
   servings: 4
+
 image: "https://images.unsplash.com/photo-1643490982826-8b0cef4831d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxmYXN0JTIwbnV0JTIwdHJlZSUyMGJyZWFkc3RpY2tzJTIwZm9vZCUyMGJyZWFkc3RpY2t8ZW58MXwwfHx8MTc1NTgwNDU3MHww&ixlib=rb-4.1.0&q=80&w=1080"
+
 image_credit: "Photo by Rena on Unsplash"
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

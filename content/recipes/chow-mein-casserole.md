@@ -1,15 +1,25 @@
 ---
-
-
-
 title: "Chow Mein Casserole"
+
 date: "2025-08-21T10:44:26.937120"
+
 type: "recipe"
-description: ""
+
+description: "Chow Mein Casserole made with lb Hamburger, can cream of mushroom soup."
+
 yield: "4 servings"
+
 categories:
   - "casserole"
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "90 minutes"
+
+total_time: "100 minutes"
+
 ingredients:
   - "1 lb. Hamburger"
   - "1 can cream of mushroom soup"
@@ -19,12 +29,15 @@ ingredients:
   - "2 Tbls. soy sauce"
   - "1 medium onion, chopped"
   - "chow mein noodles"
+
 steps:
   - "Brown hamburger until no longer pink. Drain well. Add the next 6 ingredients to hamburger and mix well. Place in a 9x 13 casserole, cover and bake at 350 for 1 hour. Uncover and bake an additional 30 minutes. Sprinkle noodles on top."
+
 allergens:
   - "dairy"
   - "gluten"
   - "soy"
+
 nutrition:
   calories: 286.2
   protein_g: 21.4
@@ -33,9 +46,12 @@ nutrition:
   fiber_g: 4.1
   sugar_g: 1.5
   servings: 4
+
 image: "https://images.unsplash.com/photo-1646360965117-7843bf3d4aa1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjaG93JTIwbWVpbiUyMGNhc3Nlcm9sZSUyMGZvb2QlMjBjYXNzZXJvbGV8ZW58MXwwfHx8MTc1ODU5ODU5MXww&ixlib=rb-4.1.0&q=80&w=1080"
+
 image_credit: "Photo by Alexey Demidov on Unsplash"
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

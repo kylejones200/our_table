@@ -1,20 +1,37 @@
 ---
-
 title: "Weese's Rum Cake"
+
 date: "2025-08-21T10:44:26.936117"
+
 type: "recipe"
-description: ""
+
+description: "A delicious Weese's Rum Cake recipe for any occasion."
+
 yield: "4 servings"
+
 categories:
   - "cake"
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "75 minutes"
+
+total_time: "85 minutes"
+
+
 ingredients:
   []
+
 allergens:
   - "dairy"
   - "eggs"
   - "gluten"
---- Cake ---"
+---
+{{< recipe-image >}}
+
+Cake ---"
   - "1 cup pecans"
   - "1 pkg. yellow cake mix"
   - "1 pkg. 33/4 oz. vanilla instant pudding mix"

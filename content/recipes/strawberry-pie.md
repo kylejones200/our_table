@@ -1,24 +1,40 @@
 ---
-
-
 title: "Strawberry Pie"
+
 date: "2025-08-21T10:44:26.926050"
+
 type: "recipe"
-description: ""
+
+description: "Strawberry Pie made with cup Gold Medal all purpose flour, tsp salt."
+
 yield: "4 servings"
+
 categories:
   - "pie"
   - "dessert"
   - "pastry"
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "236 minutes"
+
+total_time: "246 minutes"
+
+
+
+
 ingredients:
   - "1 cup Gold Medal® all-purpose flour"
   - "1/2 tsp salt"
   - "1/3 cup plus 1 Tbsp shortening"
   - "2 to 3 Tbsp cold water"
+
 allergens:
   - "dairy"
   - "gluten"
+
 nutrition:
   calories: 312.5
   protein_g: 2.7
@@ -27,7 +43,14 @@ nutrition:
   fiber_g: 0.0
   sugar_g: 0.0
   servings: 4
---- Filling ---"
+
+image: "https://images.unsplash.com/photo-1732638221415-75ab6519c590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxzdHJhd2JlcnJ5JTIwcGllJTIwZm9vZCUyMHBpZXxlbnwxfDB8fHwxNzU4NjMzMDYyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+
+image_credit: "Photo by Hardingferrent on Unsplash"
+---
+{{< recipe-image >}}
+
+Filling ---"
   - "1 1/2 quarts (6 cups) strawberries, hulled"
   - "1 cup sugar"
   - "2 Tbsp cornstarch"

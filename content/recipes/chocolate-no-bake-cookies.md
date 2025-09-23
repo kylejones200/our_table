@@ -1,15 +1,28 @@
 ---
-
-
-
 title: "Chocolate No Bake Cookies"
+
 date: "2025-08-21T10:44:26.950395"
+
 type: "recipe"
-description: ""
+
+description: "Chocolate No Bake Cookies made with cups sugar, cup cocoa."
+
 yield: "4 servings"
+
 categories:
   - "cookie"
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "1 minutes"
+
+total_time: "11 minutes"
+
+
+
+
 ingredients:
   - "2 cups sugar"
   - "1/4 cup cocoa"
@@ -17,12 +30,15 @@ ingredients:
   - "1 stick margarine"
   - "1/2 cup peanut butter, creamy or crunchy"
   - "3 cups quick cook oats"
+
 steps:
   - "Combine in a large saucepan – sugar, cocoa, milk, butter. Bring to a boil and boil for 1 minute. Stir in peanut butter and oats. Drop by spoonfuls onto waxed paper. Let set. Store in airtight container."
+
 allergens:
   - "dairy"
   - "gluten"
   - "nuts"
+
 nutrition:
   calories: 356.5
   protein_g: 11.2
@@ -32,6 +48,7 @@ nutrition:
   sugar_g: 0.0
   servings: 4
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

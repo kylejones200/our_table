@@ -10,6 +10,10 @@
     <article class="recipe-card" data-allergens="{{ if .Params.allergens }}{{ .Params.allergens | jsonify }}{{ else }}[]{{ end }}">
       {{ if .Params.image }}
       <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy">
+      {{ else if .Params.image_emoji }}
+      <div class="recipe-thumb-emoji" aria-label="{{ .Title }}">{{ .Params.image_emoji }}</div>
+      {{ else }}
+      <div class="recipe-thumb-emoji" aria-label="{{ .Title }}">🍽️</div>
       {{ end }}
       <div class="recipe-content">
         <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
@@ -44,6 +48,15 @@
   border-radius: 12px;
   font-size: 0.75rem;
   margin-right: 0.25rem;
+}
+.recipe-thumb-emoji {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.25rem;
+  height: 160px;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-radius: 12px 12px 0 0;
 }
 </style>
 {{ end }}

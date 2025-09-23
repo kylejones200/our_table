@@ -1,13 +1,26 @@
 ---
 title: "Vegetarian Enchiladas with Spinach and Black Beans"
+
 date: "2025-08-21T10:44:26.935105"
+
 type: "recipe"
-description: ""
+
+description: "Vegetarian Enchiladas with Spinach and Black Beans made with tbsp olive oil, can tomato paste."
+
 yield: "4 servings"
+
 categories:
   - "main course"
   - "vegetarian"
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "26 minutes"
+
+total_time: "36 minutes"
+
 ingredients:
   - "2 tbsp olive oil"
   - "1 can tomato paste"
@@ -27,6 +40,7 @@ ingredients:
   - "1/4 cup cilantro"
   - "12 fresh tortillas"
   - "2 cups Cheddar or Colby-Jack cheese"
+
 steps:
   - "For sauce: Heat 2 tbsp olive oil in a saucepan. Whisk in flour and cook 1 minute. Gradually add vegetable stock, whisking constantly. Add tomato paste, garlic powder, onion powder, oregano, chili powder, and cumin. Simmer until thickened. Season with salt and pepper."
   - "For filling: Heat 1 tbsp olive oil in a large skillet. Add onion and cook until softened. Add spinach and cook until wilted. Stir in corn, black beans, and cilantro. Season with salt and pepper."
@@ -34,6 +48,11 @@ steps:
   - "Fill each tortilla with spinach mixture and some cheese. Roll up and place seam-side down in baking dish."
   - "Pour remaining sauce over enchiladas and top with remaining cheese."
   - "Bake 20-25 minutes until cheese is melted and bubbly."
+
+allergens:
+  - "dairy"
+  - "gluten"
+
 nutrition:
   calories: 61.8
   protein_g: 8.3
@@ -42,10 +61,8 @@ nutrition:
   fiber_g: 2.4
   sugar_g: 0.7
   servings: 4
-allergens:
-  - "dairy"
-  - "gluten"
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

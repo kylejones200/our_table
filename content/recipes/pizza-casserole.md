@@ -1,16 +1,29 @@
 ---
-
-
-
-
 title: "Pizza Casserole"
+
 date: "2025-08-21T10:44:26.949197"
+
 type: "recipe"
-description: ""
+
+description: "Pizza Casserole made with pound ground beef, ounces pepperoni."
+
 yield: "4 servings"
+
 categories:
   - "casserole"
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "40 minutes"
+
+total_time: "50 minutes"
+
+
+
+
+
 ingredients:
   - "1 pound ground beef"
   - "4 ounces pepperoni"
@@ -22,8 +35,14 @@ ingredients:
   - "1 cup mozzarella cheese, grated"
   - "1 can pizza sauce (15 oz)"
   - "Parmesan cheese"
+
 steps:
   - "Brown & drain ground beef, onion and pepper. Add sauce, pepperoni & mushrooms. Cook noodles according to package directions, drain. Put noodles in bottom of 9x13 pan. Pour meat mixture over top. Bake @ 350° for 30 minutes. Add cheeses, bake and additional 10 minutes."
+
+allergens:
+  - "dairy"
+  - "gluten"
+
 nutrition:
   calories: 317.0
   protein_g: 15.1
@@ -32,12 +51,12 @@ nutrition:
   fiber_g: 1.8
   sugar_g: 0.0
   servings: 4
-allergens:
-  - "dairy"
-  - "gluten"
+
 image: "https://images.unsplash.com/photo-1597075349517-0deb1e127c37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxwaXp6YSUyMGNhc3Nlcm9sZSUyMGZvb2QlMjBjYXNzZXJvbGV8ZW58MXwwfHx8MTc1NTc5NTg3Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+
 image_credit: "Photo by Markus Spiske on Unsplash"
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

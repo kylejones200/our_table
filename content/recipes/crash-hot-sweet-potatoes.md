@@ -1,21 +1,37 @@
 ---
-
-
 title: "Crash Hot Sweet Potatoes"
+
 date: "2025-08-21T10:44:26.932521"
+
 type: "recipe"
-description: ""
+
+description: "Crash Hot Sweet Potatoes made with medium sweet potatoes, tsp kosher salrt."
+
 yield: "4 servings"
+
 categories: []
+
 source: "Donalyn Ketchum at http://dlynz.com"
+
+prep_time: "10 minutes"
+
+cook_time: "47 minutes"
+
+total_time: "57 minutes"
+
+
+
+
 ingredients:
   - "2 medium sweet potatoes"
   - "1/2 tsp kosher salrt"
   - "2 quarts water"
   - "1 Tbsp melted butter"
   - "1 Tbsp olive oil"
+
 allergens:
   - "dairy"
+
 nutrition:
   calories: 6.0
   protein_g: 13.2
@@ -24,7 +40,14 @@ nutrition:
   fiber_g: 2.9
   sugar_g: 0.0
   servings: 4
---- Topping Mixture ---"
+
+image: "https://images.unsplash.com/photo-1709258482774-d78cdfc48549?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjcmFzaCUyMGhvdCUyMHN3ZWV0JTIwcG90YXRvZXMlMjBmb29kfGVufDF8MHx8fDE3NTg2MzMwMjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+
+image_credit: "Photo by Janet Ganbold on Unsplash"
+---
+{{< recipe-image >}}
+
+Topping Mixture ---"
   - "1 1/2 Tbsp light brown sugar"
   - "1/2 tsp kosher salt"
   - "1/2 tsp ground cumin"

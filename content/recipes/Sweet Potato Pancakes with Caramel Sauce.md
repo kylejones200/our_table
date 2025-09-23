@@ -1,15 +1,28 @@
 ---
-
-
-
 title: "Sweet Potato Pancakes with Caramel Sauce"
+
 date: "2025-08-21T10:44:26.925720"
+
 type: "recipe"
-description: ""
+
+description: "Sweet Potato Pancakes with Caramel Sauce made with cups all purpose flour, Tbsp packed brown sugar."
+
 yield: "7 servings"
+
 categories:
   - "breakfast"
+
 source: "Taste of Home Feb/Mar 2012"
+
+prep_time: "10 minutes"
+
+cook_time: "20 minutes"
+
+total_time: "30 minutes"
+
+
+
+
 ingredients:
   - "2 cups all-purpose flour"
   - "2 Tbsp packed brown sugar"
@@ -26,14 +39,17 @@ ingredients:
   - "1 jar (12 oz) hot caramel ice cream topping, warmed*"
   - "3/4 cup coarsely chopped unsalted cashews or walnuts, toasted"
   - "Whipped butter or whipped cream, optional"
+
 steps:
   - "In a small bowl, combine the first eight, dry, ingredients. In another bowl, whisk the egg, milk, sweet potatoes and melted butter. Stir into dry ingredients just until moistened."
   - "Pour batter by 1/4 cupfuls onto a greased hot griddle; turn when bubbles form on top. Cook until second side is golden brown."
   - "Drizzle with caramel topping; sprinkle with nuts. Serve with whipped butter or whipped cream if desired."
+
 allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+
 nutrition:
   calories: 354.5
   protein_g: 6.1
@@ -42,9 +58,12 @@ nutrition:
   fiber_g: 4.2
   sugar_g: 2.3
   servings: 7
+
 image: "https://images.unsplash.com/photo-1678684276502-6e970e65c686?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxzd2VldCUyMHBvdGF0byUyMHBhbmNha2VzJTIwd2l0aCUyMGNhcmFtZWwlMjBzYXVjZSUyMGZvb2QlMjBicmVha2Zhc3R8ZW58MXwwfHx8MTc1ODU5ODYyM3ww&ixlib=rb-4.1.0&q=80&w=1080"
+
 image_credit: "Photo by Natalia Gusakova on Unsplash"
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

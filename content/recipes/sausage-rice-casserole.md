@@ -1,14 +1,27 @@
 ---
-
-
 title: "Sausage & Rice Casserole"
+
 date: "2025-08-21T10:44:26.944744"
+
 type: "recipe"
-description: ""
+
+description: "Sausage & Rice Casserole made with pound sage flavored pork sausage, cup chopped celery."
+
 yield: "8-10 servings"
+
 categories:
   - "casserole"
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "120 minutes"
+
+total_time: "130 minutes"
+
+
+
 ingredients:
   - "1 pound sage-flavored pork sausage"
   - "1 cup chopped celery"
@@ -21,10 +34,13 @@ ingredients:
   - "2 cups chicken broth"
   - "1/2 tsp salt"
   - "1/8 tsp ground pepper"
+
 steps:
   - "Brown sausage in heavy skillet over medium heat; transfer sausage to a 9x13 pan. In the sausage drippings, saute celery, onion, peppers and mushrooms until lightly browned; transfer to the casserole. To casserole, add water chestnuts, rice, broth, and seasonings; mix well. Cover tightly and bake at 350 for 1 to 1 1/2 hours until rice is fluffy and tender."
+
 allergens:
   -
+
 nutrition:
   calories: 76.9
   protein_g: 3.3
@@ -34,6 +50,7 @@ nutrition:
   sugar_g: 0.0
   servings: 8
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

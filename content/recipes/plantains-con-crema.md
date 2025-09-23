@@ -1,15 +1,28 @@
 ---
+title: "Plantains Con Crema"
 
-
-
-title: "Plantains con Crema"
 date: "2025-08-21T10:44:26.936248"
+
 type: "recipe"
-description: ""
+
+description: "Plantains Con Crema made with plantains sliced lengthwise, Tbsp vegetable oil."
+
 yield: "4 servings"
+
 categories:
   - "dessert"
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "20 minutes"
+
+total_time: "30 minutes"
+
+
+
+
 ingredients:
   - "2 plantains, sliced lengthwise"
   - "1 Tbsp vegetable oil"
@@ -19,11 +32,14 @@ ingredients:
   - "1/2 cup cream cheese, room temperature"
   - "2 tsp sugar"
   - "1/2 cup raspberries or strawberries, fresh"
+
 steps:
   - "Oil the bottom of glass baking dish. Place plantains onto oiled dish. Mix vanilla, cinnamon and brown sugar in small bowl. Drizzle over plantains. Bake at 300 degrees for 20 minutes or until plantain is extremely soft."
   - "Beat cream cheese and sugar on low or by hand until incorporated. Place plantain on plate and top with cream cheese and fresh berries. Serve immediately!"
+
 allergens:
   - "dairy"
+
 nutrition:
   calories: 322.8
   protein_g: 5.6
@@ -32,9 +48,12 @@ nutrition:
   fiber_g: 1.3
   sugar_g: 6.7
   servings: 4
+
 image: "https://images.unsplash.com/photo-1526364163643-89e30b8fcb70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxwbGFudGFpbnMlMjBjb24lMjBjcmVtYSUyMGZvb2QlMjBkZXNzZXJ0fGVufDF8MHx8fDE3NTU4MDQ1ODh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+
 image_credit: "Photo by Eiliv Aceron on Unsplash"
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

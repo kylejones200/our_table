@@ -1,14 +1,24 @@
 ---
-
-
-
 title: "Egg Rolls"
+
 date: "2025-08-21T10:44:26.941907"
+
 type: "recipe"
-description: ""
+
+description: "Egg Rolls made with pounds shredded ham chopped, carrots shredded."
+
 yield: "25 servings"
+
 categories: []
+
 source: "Connie Brashears"
+
+prep_time: "10 minutes"
+
+cook_time: "39 minutes"
+
+total_time: "49 minutes"
+
 ingredients:
   - "1 1/2 pounds shredded ham, chopped"
   - "3 carrots, shredded"
@@ -16,10 +26,13 @@ ingredients:
   - "1/2 cabbage, chopped"
   - "1/2 onion, chopped"
   - "1 Tbsp oil"
+
 steps:
   - "Heat oil in wok or skillet. Stir fry onion and celery until you can smell it, 2-3 minutes. Add cabbage and carrots, stir fry 2-3 minutes. Add ham. If not salty enough, add 1/2 tsp salt and 1/2 tsp sugar. Drain liquid from filling in a colander for 30 minutes. and fry in deep fat for about 3 minutes."
+
 allergens:
   - 
+
 nutrition:
   calories: 6.6
   protein_g: 0.9
@@ -28,9 +41,12 @@ nutrition:
   fiber_g: 0.2
   sugar_g: 0.0
   servings: 25
+
 image: "https://images.unsplash.com/photo-1606525437679-037aca74a3e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxlZ2clMjByb2xscyUyMGZvb2R8ZW58MXwwfHx8MTc1ODU5ODYzOHww&ixlib=rb-4.1.0&q=80&w=1080"
+
 image_credit: "Photo by Alexandra Tran on Unsplash"
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

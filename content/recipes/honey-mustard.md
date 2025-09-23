@@ -1,14 +1,27 @@
 ---
-
-
-
 title: "Honey Mustard"
+
 date: "2025-08-21T10:44:26.925269"
+
 type: "recipe"
-description: ""
+
+description: "Honey Mustard made with cup firm silken tofu, cup Dijon mustard."
+
 yield: "1 servings"
+
 categories: []
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "120 minutes"
+
+total_time: "130 minutes"
+
+
+
+
 ingredients:
   - "3/4 cup firm silken tofu"
   - "1/2 cup Dijon mustard"
@@ -18,10 +31,13 @@ ingredients:
   - "2 tsp distilled white vinegar"
   - "2 Tbsp dry mustard"
   - "1/4 tsp salt"
+
 steps:
   - "Puree the tofu in a food processor. Add the mustard, honey, sugar, lemon juice, vinegar, dry mustard, and salt. Process until well blended. The finished dipping sauce will have the texture of runny mayonnaise. Turn the sauce into a container, cover, and refrigerate until chilled, at least 2 hours. This gives the ingredients time to meld and their flavors to develop. Chilling thickens the sauce to a spreadable texture. Stirring brings it back to the texture of a dip or a thick sauce. (This condiment will keep for up to 1 week, tightly covered and refrigerated.)"
+
 allergens:
   - "soy"
+
 nutrition:
   calories: 803.0
   protein_g: 122.7
@@ -30,9 +46,12 @@ nutrition:
   fiber_g: 4.6
   sugar_g: 83.4
   servings: 1
+
 image: "https://images.unsplash.com/photo-1568584952743-6e30d4f404eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxob25leSUyMG11c3RhcmQlMjBmb29kfGVufDF8MHx8fDE3NTU4MDQ1OTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+
 image_credit: "Photo by Eric Prouzet on Unsplash"
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

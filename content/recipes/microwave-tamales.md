@@ -1,11 +1,24 @@
 ---
 title: "Microwave Tamales"
+
 date: "2025-08-21T10:44:26.949061"
+
 type: "recipe"
-description: ""
+
+description: "Microwave Tamales made with lbs ground beef, sliced green onions."
+
 yield: "2-3 servings"
+
 categories: []
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "7 minutes"
+
+total_time: "17 minutes"
+
 ingredients:
   - "11/2 lbs ground beef"
   - "4 sliced green onions"
@@ -15,8 +28,10 @@ ingredients:
   - "1/2 tsp oregano"
   - "1/4 tsp pepper"
   - "1 cup shredded Cheddar cheese"
+
 allergens:
   - "dairy"
+
 nutrition:
   calories: 430.5
   protein_g: 21.2
@@ -25,7 +40,10 @@ nutrition:
   fiber_g: 39.1
   sugar_g: 5.7
   servings: 2
---- TOPPING ---"
+---
+{{< recipe-image >}}
+
+TOPPING ---"
   - "11/2 cups water"
   - "1 cup cornmeal"
   - "2/3 cup sliced ripe olives"

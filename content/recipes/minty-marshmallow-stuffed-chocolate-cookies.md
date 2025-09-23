@@ -1,14 +1,27 @@
 ---
-
-
-
 title: "Minty Marshmallow-Stuffed Chocolate Cookies"
+
 date: "2025-08-21T10:44:26.923757"
+
 type: "recipe"
-description: ""
+
+description: "Minty Marshmallow-Stuffed Chocolate Cookies made with cups all purpose flour, cup cocoa powder."
+
 yield: "24-30 servings"
+
 categories: []
+
 source: "Martha Stewart's Surprise Cookies"
+
+prep_time: "10 minutes"
+
+cook_time: "12 minutes"
+
+total_time: "22 minutes"
+
+
+
+
 ingredients:
   - "1 3/4 cups all-purpose flour"
   - "3/4 cup cocoa powder"
@@ -21,10 +34,12 @@ ingredients:
   - "1 tsp pure vanilla extract"
   - "1/4 tsp peppermint extract"
   - "24-30 chocolate mint marshmallows (note these are smaller than full-size mallows…if you use the full-size, you'll need to cut in half.)"
+
 allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+
 nutrition:
   calories: 68.0
   protein_g: 1.9
@@ -33,9 +48,14 @@ nutrition:
   fiber_g: 0.2
   sugar_g: 2.7
   servings: 24
+
 image: "https://images.unsplash.com/photo-1651840481356-776b3f6cceab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxtaW50eSUyMG1hcnNobWFsbG93LXN0dWZmZWQlMjBjaG9jb2xhdGUlMjBjb29raWVzJTIwZm9vZHxlbnwxfDB8fHwxNzU1ODA0NTgzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+
 image_credit: "Photo by Jane Sh on Unsplash"
---- Fudgy frosting ---"
+---
+{{< recipe-image >}}
+
+Fudgy frosting ---"
   - "2 cups confectioners' sugar"
   - "1/4 cup cocoa powder"
   - "4 Tbsp (1/2 stick) unsalted butter, melted and cooled"

@@ -1,22 +1,39 @@
 ---
-
-
-
 title: "Rosemary Lamb and White Beans"
+
 date: "2025-08-21T10:44:26.928009"
+
 type: "recipe"
-description: ""
+
+description: "Rosemary Lamb and White Beans made with tsp finely chopped fresh rosemary or tsp dried rosemary, garlic cloves crushed with a garlic press."
+
 yield: "6 servings"
+
 categories:
   - "lamb"
   - "white beans"
   - "entree"
+
 source: "Mayo Clinic-1 hour recipe"
+
+prep_time: "10 minutes"
+
+cook_time: "122 minutes"
+
+total_time: "132 minutes"
+
+
+
+
 ingredients:
   - "11/2 tsp finely chopped fresh rosemary or 1/2 tsp dried rosemary"
   - "2 garlic cloves, crushed with a garlic press"
   - "1/2 tsp olive oil"
   - "6 loin lamb chops, 5 oz (155 g) each, trimmed of visible fat"
+
+allergens:
+  -
+
 nutrition:
   calories: 49.7
   protein_g: 10.8
@@ -25,11 +42,14 @@ nutrition:
   fiber_g: 2.0
   sugar_g: 0.0
   servings: 6
-allergens:
-  -
+
 image: "https://images.unsplash.com/photo-1719495953460-acd0f93b2577?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxyb3NlbWFyeSUyMGxhbWIlMjBhbmQlMjB3aGl0ZSUyMGJlYW5zJTIwZm9vZCUyMGxhbWJ8ZW58MXwwfHx8MTc1NTgwNDU1N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+
 image_credit: "Photo by Ries Bosch on Unsplash"
---- Beans ---"
+---
+{{< recipe-image >}}
+
+Beans ---"
   - "41/2 cups (2lb/1 kg) canned white beans, rinsed and drained"
   - "11/2 cups (9 oz/280 g) diced fresh tomatoes or canned diced tomatoes, drained"
   - "1 small onion, finely chopped"

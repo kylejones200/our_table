@@ -1,16 +1,29 @@
 ---
-
-
 title: "Mediterranean Couscous"
+
 date: "2025-08-21T10:44:26.927871"
+
 type: "recipe"
-description: ""
+
+description: "Mediterranean Couscous made with cup water, cup couscous."
+
 yield: "6 servings"
+
 categories:
   - "couscous"
   - "side"
   - "dish"
+
 source: "Sugar Solution"
+
+prep_time: "10 minutes"
+
+cook_time: "12 minutes"
+
+total_time: "22 minutes"
+
+
+
 ingredients:
   - "1 1/4 cup water"
   - "3/4 cup couscous (whole wheat preferred)"
@@ -24,11 +37,14 @@ ingredients:
   - "2 Tbsp lemon juice"
   - "1 Tbsp olive oil"
   - "1/4 tsp ground black pepper"
+
 steps:
   - "Bring the water to a boil in a medium saucepan over medium-high heat. Stir in the couscous and 1/4 tsp of the salt. Return to a boil, reduce the heat to low, cover and simmer for 2 minutes. Remove from the heat and let stand for 5 minutes. Fluff with a fork and cool for 5 minutes longer. Meanwhile, in a bowl, combine the kidney beans, cucumber, bell pepper, onion, feta, dill, and capers. Add the couscous and toss well. In a small bowl, combine the lemon juice, olive oil, pepper, and the remaining 1/4 tsp salt. Pour over the couscous and toss well."
+
 allergens:
   - "dairy"
   - "gluten"
+
 nutrition:
   calories: 69.0
   protein_g: 7.5
@@ -38,6 +54,7 @@ nutrition:
   sugar_g: 0.0
   servings: 6
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

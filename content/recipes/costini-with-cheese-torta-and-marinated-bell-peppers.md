@@ -1,16 +1,29 @@
 ---
-
-
-
 title: "Costini with Cheese Torta and Marinated Bell Peppers"
+
 date: "2025-08-21T10:44:26.928434"
+
 type: "recipe"
-description: ""
+
+description: "Costini with Cheese Torta and Marinated Bell Peppers made with Large Red and Yellow Bell Peppers You can by them this way or you can do it yourself, Tbsp Balsamic vinegar."
+
 yield: "6 servings"
+
 categories:
   - "costini"
   - "appetizer"
+
 source: "30 Minutes"
+
+prep_time: "10 minutes"
+
+cook_time: "60 minutes"
+
+total_time: "70 minutes"
+
+
+
+
 ingredients:
   - "2 Large Red and Yellow Bell Peppers (Roasted) You can by them this way or you can do it yourself."
   - "2 Tbsp Balsamic vinegar"
@@ -23,12 +36,16 @@ ingredients:
   - "3 oz fresh goat cheese"
   - "4 tbsp toasted pine nuts"
   - "salt and black pepper to taste"
+
 steps:
   - "Dice peppers into squares. Combine vinegar, oil, herbs, capers and garlic. Add salt and pepper. Marinate 30 min. or longer. In a small bowl, blend the cheeses until smooth. Shape into a mound on a large plate and slightly flatten the top. Pour peppers over cheese, garnish with pine nuts and basil. Surround with crostini."
+
 notes: "plain crostini"
+
 allergens:
   - "dairy"
   - "nuts"
+
 nutrition:
   calories: 24.5
   protein_g: 7.6
@@ -38,6 +55,7 @@ nutrition:
   sugar_g: 2.7
   servings: 6
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

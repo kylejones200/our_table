@@ -74,18 +74,6 @@
         {{ end }}
       </div>
       
-      {{ with .Params.image }}
-        <div class="recipe-image">
-          <img src="{{ . }}" alt="{{ $.Title }}" />
-          {{ with $.Params.image_credit }}
-            <p class="image-credit">{{ . }}</p>
-          {{ end }}
-        </div>
-      {{ else }}{{ if .Params.image_emoji }}
-        <div class="recipe-emoji">
-          <span class="emoji-large">{{ .Params.image_emoji }}</span>
-        </div>
-      {{ end }}{{ end }}
     </header>
 
     <div class="recipe-content">

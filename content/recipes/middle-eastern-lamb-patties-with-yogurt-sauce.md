@@ -1,19 +1,32 @@
 ---
-
-
 title: "Middle Eastern Lamb Patties with Yogurt Sauce"
+
 date: "2025-08-21T10:44:26.926718"
+
 type: "recipe"
-description: ""
+
+description: "A delicious Middle Eastern Lamb Patties with Yogurt Sauce recipe for any occasion."
+
 yield: "4 servings"
+
 categories:
   - "entree"
+
 source: "30 Minute Recipes"
+
+prep_time: "10 minutes"
+
+cook_time: "38 minutes"
+
+total_time: "48 minutes"
+
 ingredients:
   []
+
 allergens:
   - "dairy"
   - "gluten"
+
 nutrition:
   calories: 5.8
   protein_g: 10.7
@@ -22,7 +35,10 @@ nutrition:
   fiber_g: 0.7
   sugar_g: 0.2
   servings: 4
---- Lamb Patties ---"
+---
+{{< recipe-image >}}
+
+Lamb Patties ---"
   - "2 slices high-quality white sandwich bread, crusts removed"
   - "3 Tbsp plain yogurt"
   - "1 pound ground lamb"

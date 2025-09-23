@@ -1,14 +1,28 @@
 ---
-
-
 title: "MEXICAN LASAGNA"
+
 date: "2025-08-21T10:44:26.937199"
+
 type: "recipe"
-description: ""
+
+description: "MEXICAN LASAGNA made with lbs ground beef, can cream of chicken soup."
+
 yield: "4 servings"
+
 categories:
   - "casserole"
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "25 minutes"
+
+total_time: "35 minutes"
+
+
+
+
 ingredients:
   - "1 1/2 lbs. ground beef"
   - "1 can cream of chicken soup"
@@ -26,6 +40,7 @@ steps:
 
 allergens:
   - "dairy"
+
 nutrition:
   calories: 89.5
   protein_g: 4.8
@@ -35,8 +50,11 @@ nutrition:
   sugar_g: 0.0
   servings: 4
 
+image: "https://images.unsplash.com/photo-1753523176128-3fcc4d6ab5dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxtZXhpY2FuJTIwbGFzYWduYSUyMGZvb2QlMjBjYXNzZXJvbGV8ZW58MXwwfHx8MTc1ODYzMzA0OHww&ixlib=rb-4.1.0&q=80&w=1080"
 
+image_credit: "Photo by Yanping Ma on Unsplash"
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

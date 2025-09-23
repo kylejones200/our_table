@@ -1,26 +1,44 @@
 ---
-
-
 title: "Vichyssoise"
+
 date: "2025-08-21T10:44:26.930730"
+
 type: "recipe"
-description: ""
+
+description: "Vichyssoise made with Tbsp unsalted butter, medium leeks chopped."
+
 yield: "7 servings"
+
 categories:
   - "soup"
+
 source: "Joy of Cooking"
+
+prep_time: "10 minutes"
+
+cook_time: "50 minutes"
+
+total_time: "60 minutes"
+
+
+
+
 ingredients:
   - "3 Tbsp unsalted butter"
   - "6 medium leeks, chopped"
   - "1 1/4 pounds all-purporse potatoes, peeled and thinly sliced"
   - "6 cups poultry stock, chicken broth, vegetable stock or vegetable broth"
   - "1 cup heavy cream or a combination of milk and cream"
+
 steps:
   - "Melt butter in a soup pot over low heat. Add the leeks and cook, stirring, until tender but not browned, about 20 minutes."
   - "Stir in potatoes and stock or broth. Bring to a boil, reduce heat, and simmer until the potatoes are soft, about 30 minutes. Off heat, stir in cream or combination of milk and cream. Puree until smooth, for a finer texture, push through a sieve. Season with salt and pepper to taste. Serve warm or chilled."
+
 notes: "Be sure to process the soup to a velvety smoothness."
+
 allergens:
   - "dairy"
+
 nutrition:
   calories: 0.0
   protein_g: 6.1
@@ -29,7 +47,12 @@ nutrition:
   fiber_g: 1.4
   sugar_g: 0.0
   servings: 7
+
+image: "https://images.unsplash.com/photo-1625937712842-061738bb1e2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHx2aWNoeXNzb2lzZSUyMGZvb2QlMjBzb3VwfGVufDF8MHx8fDE3NTg2MzMwNTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+
+image_credit: "Photo by Farhad Ibrahimzade on Unsplash"
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

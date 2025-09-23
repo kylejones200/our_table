@@ -1,18 +1,34 @@
 ---
-
-
 title: "Pan-Roasted Pork Tenderloin with Mustard-Maple Glaze"
+
 date: "2025-08-21T10:44:26.927193"
+
 type: "recipe"
-description: ""
+
+description: "Pan-Roasted Pork Tenderloin with Mustard-Maple Glaze made with pork tenderloins trimmed, Tbsp vegetable oil."
+
 yield: "4 servings"
+
 categories: []
+
 source: "The Best 30-Minute Recipe"
+
+prep_time: "10 minutes"
+
+cook_time: "25 minutes"
+
+total_time: "35 minutes"
+
+
+
+
 ingredients:
   - "2 pork tenderloins (1 pound each), trimmed"
   - "1 Tbsp vegetable oil"
+
 allergens:
   -
+
 nutrition:
   calories: 0.0
   protein_g: 5.4
@@ -21,7 +37,14 @@ nutrition:
   fiber_g: 0.0
   sugar_g: 0.0
   servings: 4
---- Mustard-Maple Glaze ---"
+
+image: "https://images.unsplash.com/photo-1603227441582-d076c3836f36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxwYW4tcm9hc3RlZCUyMHBvcmslMjB0ZW5kZXJsb2luJTIwd2l0aCUyMG11c3RhcmQtbWFwbGUlMjBnbGF6ZSUyMGZvb2R8ZW58MXwwfHx8MTc1ODYzMzA3Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+
+image_credit: "Photo by Ben Wicks on Unsplash"
+---
+{{< recipe-image >}}
+
+Mustard-Maple Glaze ---"
   - "1/2 cup pure maple syrup"
   - "2/3 cup whole-grain mustard"
   - "1 Tbsp balsamic vinegar"

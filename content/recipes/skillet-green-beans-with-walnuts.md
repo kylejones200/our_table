@@ -1,15 +1,28 @@
 ---
-
-
-
 title: "Skillet Green Beans with Walnuts"
+
 date: "2025-08-21T10:44:26.929725"
+
 type: "recipe"
-description: ""
+
+description: "Skillet Green Beans with Walnuts made with cup walnuts chopped, Tbsp unsalted butter cut into pieces."
+
 yield: "8 servings"
+
 categories:
   - "side"
+
 source: "Cook's Country Oct/Nov 2009"
+
+prep_time: "10 minutes"
+
+cook_time: "19 minutes"
+
+total_time: "29 minutes"
+
+
+
+
 ingredients:
   - "2/3 cup walnuts, chopped"
   - "4 Tbsp unsalted butter, cut into 4 pieces"
@@ -18,11 +31,14 @@ ingredients:
   - "pinch of cayenne pepper"
   - "2 pounds green beans, stem ends trimmed"
   - "1/4 cup water"
+
 steps:
   - "TOAST NUTS: Toast walnuts in large skillet over medium-low heat until golden, about 5 minutes. Add 2 Tbsp butter and cook, stirring constantly, until butter is nutty brown, about 2 minutes. Stir in sugar, ginger, cayenne, 1/4 tsp salt, and 1/4 tsp pepper and cook until fragrant, about 30 seconds. Transfer walnut mixture to bowl and reserve. Wipe out skillet."
   - "COOK BEANS: Melt remaining butter in empty skillet over medium-high heat. Cook beans, stirring occasionally, until spotty brown, about 8 minutes. Add water and cook, covered, over medium-low heat until beans are nearly tender, about 3 minutes. Remove lid and cook until liquid evaporates, about 1 minute. Off heat, add reserved walnut mixture. Season with salt and pepper. Serve."
+
 allergens:
   - "dairy"
+
 nutrition:
   calories: 55.6
   protein_g: 4.8
@@ -31,9 +47,12 @@ nutrition:
   fiber_g: 1.4
   sugar_g: 0.2
   servings: 8
+
 image: "https://images.unsplash.com/photo-1605402966404-ec40b9bd5009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxza2lsbGV0JTIwZ3JlZW4lMjBiZWFucyUyMHdpdGglMjB3YWxudXRzJTIwZm9vZCUyMHNpZGV8ZW58MXwwfHx8MTc1ODU5ODYzNXww&ixlib=rb-4.1.0&q=80&w=1080"
+
 image_credit: "Photo by amirmasoud on Unsplash"
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

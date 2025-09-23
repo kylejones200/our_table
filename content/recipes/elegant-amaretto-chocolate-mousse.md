@@ -1,15 +1,28 @@
 ---
-
-
-
 title: "Elegant Amaretto-Chocolate Mousse"
+
 date: "2025-08-21T10:44:26.935769"
+
 type: "recipe"
-description: ""
+
+description: "Elegant Amaretto-Chocolate Mousse made with package semisweet chocolate morsels, whole blanched almonds."
+
 yield: "14-16 servings"
+
 categories:
   - "dessert"
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "20 minutes"
+
+total_time: "30 minutes"
+
+
+
+
 ingredients:
   - "1 (6-ounce) package semisweet chocolate morsels"
   - "18 whole blanched almonds"
@@ -21,15 +34,18 @@ ingredients:
   - "2 cups milk"
   - "2 cups whipping cream, whipped and divided"
   - "2 (3-ounces) packages of ladyfingers, split"
+
 steps:
   - "Place chocolate in top of a double boiler; bring water to a boil. Reduce heat to low; cook until chocolate melts. Dip larger end of each almond into chocolate, and place on a waxed paper-lined cookie sheet. Chill until chocolate is firm."
   - "Gradually stir amaretto into remaining melted chocolate; set aside."
   - "Combine gelatin and water in a medium saucepan. Beat egg yolks slightly; stir into gelatin mixture. Add sugar and milk, mixing well. Cook over low heat, stirring until slightly thickened. Remove from heat and stir in chocolate mixture. Chill until consistency of unbeaten egg white."
   - "Beat egg whites (at room temperature) until stiff peaks form. Set aside 1 cup whipped cream for garnish. Fold egg whites and remaining 3 cups whipped cream into chocolate mixture."
   - "Line bottom and sides of a 9-inch springform pan with ladyfingers. Spoon chocolate mixture into pan. Cover and chill until firm."
+
 allergens:
   - "dairy"
   - "eggs"
+
 nutrition:
   calories: 94.6
   protein_g: 5.4
@@ -38,9 +54,12 @@ nutrition:
   fiber_g: 1.0
   sugar_g: 0.0
   servings: 14
+
 image: "https://images.unsplash.com/photo-1732759959516-d0a9941031dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxlbGVnYW50JTIwYW1hcmV0dG8tY2hvY29sYXRlJTIwbW91c3NlJTIwZm9vZCUyMGRlc3NlcnR8ZW58MXwwfHx8MTc1ODU5ODU5NXww&ixlib=rb-4.1.0&q=80&w=1080"
+
 image_credit: "Photo by Meg von Haartman on Unsplash"
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

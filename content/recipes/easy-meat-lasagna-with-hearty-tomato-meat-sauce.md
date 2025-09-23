@@ -1,22 +1,41 @@
 ---
-
-
-
-
-
-
-
-
-
 title: "Easy Meat Lasagna with Hearty Tomato-Meat Sauce"
+
 date: "2025-08-21T10:44:26.931316"
+
 type: "recipe"
-description: ""
+
+description: "A delicious Easy Meat Lasagna with Hearty Tomato-Meat Sauce recipe for any occasion."
+
 yield: "8 servings"
+
 categories: []
+
 source: "Cover & Bake"
+
+prep_time: "10 minutes"
+
+cook_time: "1453 minutes"
+
+total_time: "1463 minutes"
+
+
+
+
+
+
+
+
+
+
 ingredients:
   []
+
+allergens:
+  - "dairy"
+  - "eggs"
+  - "gluten"
+
 nutrition:
   calories: 23.4
   protein_g: 3.7
@@ -25,13 +44,14 @@ nutrition:
   fiber_g: 1.0
   sugar_g: 0.0
   servings: 8
-allergens:
-  - "dairy"
-  - "eggs"
-  - "gluten"
+
 image: "https://images.unsplash.com/photo-1588269965589-e59b3aa943f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxlYXN5JTIwbWVhdCUyMGxhc2FnbmElMjB3aXRoJTIwaGVhcnR5JTIwdG9tYXRvLW1lYXQlMjBzYXVjZSUyMGZvb2R8ZW58MXwwfHx8MTc1NTc5NTc5OHww&ixlib=rb-4.1.0&q=80&w=1080"
+
 image_credit: "Photo by Joseph Pisicchio on Unsplash"
---- TOMATO-MEAT SAUCE ---"
+---
+{{< recipe-image >}}
+
+TOMATO-MEAT SAUCE ---"
   - "1 Tbsp olive oil"
   - "1 medium onion, chopped fine"
   - "6 medium garlic cloves, minced"

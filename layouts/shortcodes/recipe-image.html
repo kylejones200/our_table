@@ -1,0 +1,14 @@
+<div class="recipe-image">
+  {{ with .Page.Params.image }}
+    <img src="{{ . | relURL }}" alt="{{ $.Page.Title }}" />
+    {{ with $.Page.Params.image_credit }}
+      <p class="image-credit">{{ . }}</p>
+    {{ end }}
+  {{ else }}
+    {{ with .Page.Params.image_emoji }}
+      <div class="recipe-emoji">
+        <span class="emoji-large">{{ . }}</span>
+      </div>
+    {{ end }}
+  {{ end }}
+</div>

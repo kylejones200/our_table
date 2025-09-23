@@ -1,17 +1,30 @@
 ---
-
-
-
 title: "Migas"
+
 date: "2025-08-21T10:44:26.928361"
+
 type: "recipe"
-description: ""
+
+description: "Migas made with large eggs, ounces baked tortilla chips broken into inch pieces."
+
 yield: "4 servings"
+
 categories:
   - "migas"
   - "meatless"
   - "entree"
+
 source: "30 Minutes"
+
+prep_time: "10 minutes"
+
+cook_time: "37 minutes"
+
+total_time: "47 minutes"
+
+
+
+
 ingredients:
   - "8 large eggs"
   - "2 ounces baked tortilla chips, broken into 1/2 inch pieces (about 1 cup)"
@@ -22,14 +35,17 @@ ingredients:
   - "1 jalapeno chile-cored and minced"
   - "3/4 cup shredded pepper Jack cheese"
   - "2 Tbsp minced fresh cilantro"
+
 steps:
   - "COMBINE EGG MIXTURE. Mix eggs, tortilla chips, 1/4 tsp salt, and pinch of black pepper together and set aside."
   - "COOK VEGETABLES. Melt butter in 12-inch nonstick skillet over medium-high heat. Add onion and bell pepper and cook until softened, about 4 minutes. Stir in garlic and jalapeno and cook until fragrant, about 30 seconds."
   - "ADD EGG MIXTURE AND COOK. Reduce heat to medium. Add egg mixture and cook, using rubber spatula to push mixture back and forth until curds begin to form. Continue to cook, lifting and folding curds from side to side, until they clump in single mound but are still very moist, about 3 minutes. FINISH AND SEASON. Off heat, gently fold in cheese and cilantro and season with salt and pepper to taste. Serve."
+
 allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+
 nutrition:
   calories: 151.2
   protein_g: 18.5
@@ -38,9 +54,12 @@ nutrition:
   fiber_g: 5.1
   sugar_g: 3.8
   servings: 4
+
 image: "https://images.unsplash.com/photo-1557499305-bd68d0ad468d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxtaWdhcyUyMGZvb2QlMjBtaWdhc3xlbnwxfDB8fHwxNzU4NTk4NTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+
 image_credit: "Photo by Louis Hansel on Unsplash"
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

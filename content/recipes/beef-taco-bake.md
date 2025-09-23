@@ -1,14 +1,28 @@
 ---
-
-
 title: "Beef Taco Bake"
+
 date: "2025-08-21T10:44:26.930791"
+
 type: "recipe"
-description: ""
+
+description: "Beef Taco Bake made with Minute Meal, Note If you can t find Ro Tel tomatoes substitute one ounce can diced tomatoes and one ounce can chopped green chiles."
+
 yield: "4-6 servings"
+
 categories:
   - "meat entree"
+
 source: "Cook's Country"
+
+prep_time: "10 minutes"
+
+cook_time: "58 minutes"
+
+total_time: "68 minutes"
+
+
+
+
 ingredients:
   - "30 Minute Meal"
   - "Note: If you can't find Ro-Tel tomatoes, substitute one 14.5-ounce can diced tomatoes and one 4-ounce can chopped green chiles."
@@ -20,12 +34,15 @@ ingredients:
   - "1 (1.25 oz) package low-sodium taco seasoning mix"
   - "12 taco shells"
   - "3 scallions, sliced thin"
+
 steps:
   - "Adjust oven rack to upper-middle position and heat oven to 475 degrees. Combine tomatoes, beans, and cilantro in bowl. Spread half of mixture evenly in 13 by 9-inch baking dish. Sprinkle with 1 cup of cheese."
   - "Cook beef in large nonstick skillet over medium-high heat until no longer pink, about 5 minutes. Pour off fat, then stir in taco seasoning, and reserved tomato juice. Simmer over medium-low heat until thickened and nearly dry, 5 to 7 minutes."
   - "Spoon 1 Tbsp cheese into each taco and top with beef mixture. Arrange tacos upright in bean mixture, cover with foil, and bake until bubbling, about 10 minutes. Remove foil, top with remaining cheese, and bake until cheese is melted, about 6 minutes. Sprinkle with scallions and serve."
+
 allergens:
   - "dairy"
+
 nutrition:
   calories: 123.2
   protein_g: 13.2
@@ -34,7 +51,12 @@ nutrition:
   fiber_g: 2.8
   sugar_g: 0.2
   servings: 4
+
+image: "https://images.unsplash.com/photo-1636777408340-e053c0b5ba2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxiZWVmJTIwdGFjbyUyMGJha2UlMjBmb29kJTIwbWVhdCUyMGVudHJlZXxlbnwxfDB8fHwxNzU4NjMzMDgxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+
+image_credit: "Photo by Logan Gutierrez on Unsplash"
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

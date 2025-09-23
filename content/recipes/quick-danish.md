@@ -1,15 +1,28 @@
 ---
-
-
-
 title: "Quick Danish"
+
 date: "2025-08-21T10:44:26.943331"
+
 type: "recipe"
-description: ""
+
+description: "Quick Danish made with pkg refrigerated crescent rolls, cup apricot preserves."
+
 yield: "4 servings"
+
 categories:
   - "dinner"
+
 source: "Connie Brashears"
+
+prep_time: "10 minutes"
+
+cook_time: "23 minutes"
+
+total_time: "33 minutes"
+
+
+
+
 ingredients:
   - "1 pkg. refrigerated crescent rolls"
   - "1/2 cup apricot preserves"
@@ -18,10 +31,13 @@ ingredients:
   - "1/2 tsp vanilla"
   - "13\" pan, cover with preserves. Bake 15 minutes. Combine remaining"
   - "6 to 8 minutes."
+
 steps:
   - "Preheat oven to 425 degrees. Place crescent rolls in bottom of 9\" x mixture. Reduce heat to 325 degrees, return rolls to oven and bake"
+
 allergens:
   - "dairy"
+
 nutrition:
   calories: 168.2
   protein_g: 8.6
@@ -31,6 +47,7 @@ nutrition:
   sugar_g: 3.2
   servings: 4
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

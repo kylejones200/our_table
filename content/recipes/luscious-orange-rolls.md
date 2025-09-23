@@ -1,13 +1,26 @@
 ---
-
-
 title: "Luscious Orange Rolls"
+
 date: "2025-08-21T10:44:26.946283"
+
 type: "recipe"
-description: ""
+
+description: "Luscious Orange Rolls made with envelope dry yeast, cup warm water."
+
 yield: "4 servings"
+
 categories: []
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "10 minutes"
+
+total_time: "20 minutes"
+
+
+
 ingredients:
   - "1 envelope dry yeast"
   - "1/4 cup warm water"
@@ -19,10 +32,12 @@ ingredients:
   - "3-3 1/2 cups bread flour, divided"
   - "3 Tbls. grated orange rind"
   - "2 Tbls. butter, softened"
+
 allergens:
   - "dairy"
   - "eggs"
   - "gluten"
+
 nutrition:
   calories: 258.0
   protein_g: 19.2
@@ -31,7 +46,10 @@ nutrition:
   fiber_g: 3.8
   sugar_g: 0.0
   servings: 4
---- Orange Glaze ---"
+---
+{{< recipe-image >}}
+
+Orange Glaze ---"
   - "1/4 cup sugar"
   - "1/4 cup commercial sour cream"
   - "2 Tbls. butter"

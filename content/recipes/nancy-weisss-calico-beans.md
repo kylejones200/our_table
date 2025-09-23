@@ -1,14 +1,27 @@
 ---
-
-
-
 title: "NANCY WEISS'S CALICO BEANS"
+
 date: "2025-08-21T10:44:26.937829"
+
 type: "recipe"
-description: ""
+
+description: "NANCY WEISS'S CALICO BEANS made with cup chopped onion, tsp salt."
+
 yield: "4 servings"
+
 categories: []
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "60 minutes"
+
+total_time: "70 minutes"
+
+
+
+
 ingredients:
   - "1/2 cup chopped onion"
   - "1 tsp salt"
@@ -21,10 +34,13 @@ ingredients:
   - "2 tsp vinegar"
   - "1lb. can kidney beans (drained)"
   - "1 lb. can lima beans (drained)"
+
 steps:
   - "Brown bacon, remove. Drain off grease, add onions and ground beef; brown. Mix all other ingredients together and add to meat mixture along with browned bacon. Place in a 9x13 casserole and bake 1 hour in a 350 degree oven."
+
 allergens:
   -
+
 nutrition:
   calories: 350.3
   protein_g: 18.2
@@ -34,6 +50,7 @@ nutrition:
   sugar_g: 0.0
   servings: 4
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 

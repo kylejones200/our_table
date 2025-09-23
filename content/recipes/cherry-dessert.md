@@ -1,14 +1,27 @@
 ---
-
-
 title: "Cherry Dessert"
+
 date: "2025-08-21T10:44:26.940469"
+
 type: "recipe"
-description: ""
+
+description: "Cherry Dessert made with cups Vanilla Wafer crumbs save cups for topping, Tbls melted butter."
+
 yield: "4 servings"
+
 categories:
   - "dessert"
+
 source: ""
+
+prep_time: "10 minutes"
+
+cook_time: "5 minutes"
+
+total_time: "15 minutes"
+
+
+
 ingredients:
   - "2 cups Vanilla Wafer crumbs, save 1/2 cups for topping"
   - "3 Tbls. melted butter"
@@ -17,12 +30,15 @@ ingredients:
   - "2 cups Cool Whip"
   - "2 cans sour pie cherries, drained well"
   - "1 cup nuts"
-allergens:
-  - "dairy"
-  - "nuts"
+
 steps:
   - "Mix, press into 9 x 13 pan, bake at 375 for 5 minutes."
   - "Spread over crust, sprinkle reserved crumbs on top and refrigerate."
+
+allergens:
+  - "dairy"
+  - "nuts"
+
 nutrition:
   calories: 182.8
   protein_g: 17.4
@@ -32,6 +48,7 @@ nutrition:
   sugar_g: 0.0
   servings: 4
 ---
+{{< recipe-image >}}
 
 {{< recipe-meta >}}
 
