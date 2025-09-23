@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Chicken Fajitas"
 date: "2025-08-21T10:44:26.948394"
 type: "recipe"
@@ -28,6 +29,8 @@ nutrition:
   fiber_g: 1.1
   sugar_g: 0.0
   servings: 4
+image: "https://images.unsplash.com/photo-1577194509876-4bb24787a641?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwZmFqaXRhcyUyMGZvb2QlMjBtYWluJTIwY291cnNlfGVufDF8MHx8fDE3NTg1OTg2MzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Denis Agati on Unsplash"
 ---
 
 {{< recipe-meta >}}

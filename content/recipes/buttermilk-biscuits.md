@@ -1,4 +1,5 @@
 ---
+
 title: "Buttermilk Biscuits"
 date: "2025-08-21T10:44:26.945978"
 type: "recipe"
@@ -25,6 +26,8 @@ nutrition:
   fiber_g: 1.1
   sugar_g: 0.0
   servings: 4
+image: "https://images.unsplash.com/photo-1641523054009-5ac7d97c3eda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxidXR0ZXJtaWxrJTIwYmlzY3VpdHMlMjBmb29kfGVufDF8MHx8fDE3NTg1OTg2Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Ray Shrewsberry on Unsplash"
 ---
 
 {{< recipe-meta >}}

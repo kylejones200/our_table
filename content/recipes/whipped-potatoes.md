@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Whipped Potatoes"
 date: "2025-08-21T10:44:26.929647"
 type: "recipe"
@@ -29,6 +30,8 @@ nutrition:
   fiber_g: 0.1
   sugar_g: 0.0
   servings: 8
+image: "https://images.unsplash.com/photo-1604752466673-f73b5b0daa75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHx3aGlwcGVkJTIwcG90YXRvZXMlMjBmb29kJTIwc2lkZXxlbnwxfDB8fHwxNzU4NTk4NjYwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Peter Schad on Unsplash"
 ---
 
 {{< recipe-meta >}}

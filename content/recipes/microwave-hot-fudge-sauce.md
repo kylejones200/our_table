@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Microwave Hot Fudge Sauce"
 date: "2025-08-21T10:44:26.942059"
 type: "recipe"
@@ -29,6 +30,8 @@ nutrition:
   fiber_g: 4.8
   sugar_g: 0.0
   servings: 2
+image: "https://images.unsplash.com/photo-1646360965117-7843bf3d4aa1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxtaWNyb3dhdmUlMjBob3QlMjBmdWRnZSUyMHNhdWNlJTIwZm9vZCUyMGRlc3NlcnR8ZW58MXwwfHx8MTc1ODU5ODU5Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Alexey Demidov on Unsplash"
 ---
 
 {{< recipe-meta >}}

@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Chow Mein Casserole"
 date: "2025-08-21T10:44:26.937120"
 type: "recipe"
@@ -32,6 +33,8 @@ nutrition:
   fiber_g: 4.1
   sugar_g: 1.5
   servings: 4
+image: "https://images.unsplash.com/photo-1646360965117-7843bf3d4aa1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjaG93JTIwbWVpbiUyMGNhc3Nlcm9sZSUyMGZvb2QlMjBjYXNzZXJvbGV8ZW58MXwwfHx8MTc1ODU5ODU5MXww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Alexey Demidov on Unsplash"
 ---
 
 {{< recipe-meta >}}

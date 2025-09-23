@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Wine and Wild Rice Casserole"
 date: "2025-08-21T10:44:26.941645"
 type: "recipe"
@@ -33,6 +34,8 @@ nutrition:
   fiber_g: 17.8
   sugar_g: 0.7
   servings: 4
+image: "https://images.unsplash.com/photo-1588789022657-362b4d94a9f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHx3aW5lJTIwYW5kJTIwd2lsZCUyMHJpY2UlMjBjYXNzZXJvbGUlMjBmb29kJTIwY2Fzc2Vyb2xlfGVufDF8MHx8fDE3NTg1OTg2NDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Eranjan on Unsplash"
 ---
 
 {{< recipe-meta >}}

@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Blueberry Scones"
 date: "2025-08-21T10:44:26.927596"
 type: "recipe"
@@ -39,6 +40,8 @@ nutrition:
   fiber_g: 0.6
   sugar_g: 0.0
   servings: 8
+image: "https://images.unsplash.com/photo-1640494678819-119c65edf9a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxibHVlYmVycnklMjBzY29uZXMlMjBmb29kJTIwc2NvbmVzfGVufDF8MHx8fDE3NTg1OTg2MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Ray Shrewsberry on Unsplash"
 ---
 
 {{< recipe-meta >}}

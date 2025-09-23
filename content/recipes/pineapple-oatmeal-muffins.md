@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Pineapple Oatmeal Muffins"
 date: "2025-08-21T10:44:26.942753"
 type: "recipe"
@@ -35,6 +36,8 @@ nutrition:
   fiber_g: 1.4
   sugar_g: 0.0
   servings: 12
+image: "https://images.unsplash.com/photo-1592754487253-f64c6f62db21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxwaW5lYXBwbGUlMjBvYXRtZWFsJTIwbXVmZmlucyUyMGZvb2QlMjBtdWZmaW5zfGVufDF8MHx8fDE3NTg1OTg2NTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Ali Zolghadr on Unsplash"
 ---
 
 {{< recipe-meta >}}

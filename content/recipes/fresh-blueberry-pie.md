@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Fresh Blueberry Pie"
 date: "2025-08-21T10:44:26.924546"
 type: "recipe"
@@ -33,6 +34,8 @@ nutrition:
   fiber_g: 1.7
   sugar_g: 9.9
   servings: 4
+image: "https://images.unsplash.com/photo-1578294178395-72e8dd5d0559?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxmcmVzaCUyMGJsdWViZXJyeSUyMHBpZSUyMGZvb2QlMjBwaWV8ZW58MXwwfHx8MTc1ODU5ODYxMXww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by RAPHAEL MAKSIAN on Unsplash"
 ---
 
 {{< recipe-meta >}}

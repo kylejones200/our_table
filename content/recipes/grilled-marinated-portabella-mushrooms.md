@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Grilled Marinated Portabella Mushrooms"
 date: "2025-08-21T10:44:26.947317"
 type: "recipe"
@@ -28,6 +29,8 @@ nutrition:
   fiber_g: 6.2
   sugar_g: 0.0
   servings: 4
+image: "https://images.unsplash.com/photo-1617237692625-36ecc1173a4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxncmlsbGVkJTIwbWFyaW5hdGVkJTIwcG9ydGFiZWxsYSUyMG11c2hyb29tcyUyMGZvb2R8ZW58MXwwfHx8MTc1ODU5ODY2MXww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Hannah W. on Unsplash"
 ---
 
 {{< recipe-meta >}}

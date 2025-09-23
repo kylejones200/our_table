@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Grandma's Chocolate Cake"
 date: "2025-08-21T10:44:26.940662"
 type: "recipe"
@@ -34,6 +35,8 @@ nutrition:
   fiber_g: 0.7
   sugar_g: 3.2
   servings: 4
+image: "https://images.unsplash.com/photo-1758024375455-36e741cb5c8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxncmFuZG1hJTIwZm9vZCUyMGNha2V8ZW58MXwwfHx8MTc1ODU5ODY1NXww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Annie Spratt on Unsplash"
 ---
 
 {{< recipe-meta >}}

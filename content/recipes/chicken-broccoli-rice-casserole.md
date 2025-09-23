@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Chicken Broccoli Rice Casserole"
 date: "2025-08-21T10:44:26.938631"
 type: "recipe"
@@ -31,6 +32,8 @@ nutrition:
   fiber_g: 1.8
   sugar_g: 0.0
   servings: 4
+image: "https://images.unsplash.com/photo-1587995631109-2a8588e991da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwYnJvY2NvbGklMjByaWNlJTIwY2Fzc2Vyb2xlJTIwZm9vZCUyMGNhc3Nlcm9sZXxlbnwxfDB8fHwxNzU4NTk4NjEzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Cristian Andronic on Unsplash"
 ---
 
 {{< recipe-meta >}}

@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Elegant Amaretto-Chocolate Mousse"
 date: "2025-08-21T10:44:26.935769"
 type: "recipe"
@@ -37,6 +38,8 @@ nutrition:
   fiber_g: 1.0
   sugar_g: 0.0
   servings: 14
+image: "https://images.unsplash.com/photo-1732759959516-d0a9941031dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxlbGVnYW50JTIwYW1hcmV0dG8tY2hvY29sYXRlJTIwbW91c3NlJTIwZm9vZCUyMGRlc3NlcnR8ZW58MXwwfHx8MTc1ODU5ODU5NXww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Meg von Haartman on Unsplash"
 ---
 
 {{< recipe-meta >}}

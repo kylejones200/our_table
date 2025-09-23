@@ -1,5 +1,6 @@
 ---
 
+
 title: "Blueberry Cobbler"
 date: "2025-08-21T10:44:26.924685"
 type: "recipe"
@@ -39,6 +40,8 @@ nutrition:
   fiber_g: 1.1
   sugar_g: 3.5
   servings: 4
+image: "https://images.unsplash.com/photo-1692432248702-bca6b27065a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxibHVlYmVycnklMjBjb2JibGVyJTIwZm9vZCUyMGRlc3NlcnR8ZW58MXwwfHx8MTc1ODU5ODU5OXww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Xiao Yang on Unsplash"
 ---
 
 {{< recipe-meta >}}

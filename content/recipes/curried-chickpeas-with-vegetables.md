@@ -1,5 +1,6 @@
 ---
 
+
 title: "Curried Chickpeas with Vegetables"
 date: "2025-08-21T10:44:26.932671"
 type: "recipe"
@@ -44,4 +45,6 @@ nutrition:
   fiber_g: 15.7
   sugar_g: 0.7
   servings: 4
+image: "https://images.unsplash.com/photo-1651718243509-742f5bd5836c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjdXJyaWVkJTIwY2hpY2twZWFzJTIwd2l0aCUyMHZlZ2V0YWJsZXMlMjBmb29kJTIwdmVnZXRhcmlhbnxlbnwxfDB8fHwxNzU4NTk4NjQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Rendy Syabany on Unsplash"
 ---

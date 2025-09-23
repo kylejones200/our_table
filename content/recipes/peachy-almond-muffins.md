@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Peachy Almond Muffins"
 date: "2025-08-21T10:44:26.946358"
 type: "recipe"
@@ -34,6 +35,8 @@ nutrition:
   fiber_g: 0.6
   sugar_g: 3.2
   servings: 4
+image: "https://images.unsplash.com/photo-1696754074183-70280ed3c866?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxwZWFjaHklMjBhbG1vbmQlMjBtdWZmaW5zJTIwZm9vZHxlbnwxfDB8fHwxNzU4NTk4NjE4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Summer Rune on Unsplash"
 ---
 
 {{< recipe-meta >}}

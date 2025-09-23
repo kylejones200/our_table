@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Sweet Potato Pancakes with Caramel Sauce"
 date: "2025-08-21T10:44:26.925720"
 type: "recipe"
@@ -41,6 +42,8 @@ nutrition:
   fiber_g: 4.2
   sugar_g: 2.3
   servings: 7
+image: "https://images.unsplash.com/photo-1678684276502-6e970e65c686?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxzd2VldCUyMHBvdGF0byUyMHBhbmNha2VzJTIwd2l0aCUyMGNhcmFtZWwlMjBzYXVjZSUyMGZvb2QlMjBicmVha2Zhc3R8ZW58MXwwfHx8MTc1ODU5ODYyM3ww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Natalia Gusakova on Unsplash"
 ---
 
 {{< recipe-meta >}}

@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Mandarin Orange Tossed Salad"
 date: "2025-08-21T10:44:26.953107"
 type: "recipe"
@@ -26,6 +27,8 @@ nutrition:
   fiber_g: 2.3
   sugar_g: 2.9
   servings: 6
+image: "https://images.unsplash.com/photo-1636044989127-326055703c07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxtYW5kYXJpbiUyMG9yYW5nZSUyMHRvc3NlZCUyMHNhbGFkJTIwZm9vZCUyMHNhbGFkfGVufDF8MHx8fDE3NTg1OTg2NDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by nrd on Unsplash"
 --- Dressing ---"
   - "3 Tbsp orange juice"
   - "3 Tbsp vegetable oil (try olive)"

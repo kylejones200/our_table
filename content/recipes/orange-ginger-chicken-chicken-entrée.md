@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Orange Ginger Chicken Chicken Entrée"
 date: "2025-08-21T10:44:26.930056"
 type: "recipe"
@@ -35,6 +36,8 @@ note: "Optional garnishes: thinly sliced green onions and sesame seeds"
 
 steps:
   - "Place flour in a large resealable plastic bag. Season chicken with salt and pepper. Add chicken to bag, a few pieces at a time, and shake to coat. In a large skillet, cook chicken in batches over medium heat until chicken is no longer pink. Remove and keep warm. In the same skillet, combine the juice, marmalade, soy sauce, honey and ginger. Bring to a boil, stirring to loosen browned bits from pan; cook and stir until thickened. Return chicken to pan; heat through. Sprinkle with garnishes, if desired, and serve."
+image: "https://images.unsplash.com/photo-1732875653069-3ec1ccb2d0f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxvcmFuZ2UlMjBnaW5nZXIlMjBjaGlja2VuJTIwY2hpY2tlbiUyMGVudHIlQzMlQTllJTIwZm9vZHxlbnwxfDB8fHwxNzU4NTk4NjA4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by NEVIN K S on Unsplash"
 ---
 
 {{< recipe-meta >}}

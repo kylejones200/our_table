@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Skillet Green Beans with Walnuts"
 date: "2025-08-21T10:44:26.929725"
 type: "recipe"
@@ -30,6 +31,8 @@ nutrition:
   fiber_g: 1.4
   sugar_g: 0.2
   servings: 8
+image: "https://images.unsplash.com/photo-1605402966404-ec40b9bd5009?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxza2lsbGV0JTIwZ3JlZW4lMjBiZWFucyUyMHdpdGglMjB3YWxudXRzJTIwZm9vZCUyMHNpZGV8ZW58MXwwfHx8MTc1ODU5ODYzNXww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by amirmasoud on Unsplash"
 ---
 
 {{< recipe-meta >}}

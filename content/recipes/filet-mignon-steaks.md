@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Filet Mignon Steaks"
 date: "2025-08-21T10:44:26.934768"
 type: "recipe"
@@ -33,6 +34,8 @@ nutrition:
   fiber_g: 1.3
   sugar_g: 0.0
   servings: 6
+image: "https://images.unsplash.com/photo-1677367306400-d090b5ab52d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxmaWxldCUyMG1pZ25vbiUyMHN0ZWFrcyUyMGZvb2QlMjBlbnRyZWV8ZW58MXwwfHx8MTc1ODU5ODYxNXww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Jacob Stone on Unsplash"
 ---
 
 {{< recipe-meta >}}

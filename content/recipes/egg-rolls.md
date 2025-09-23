@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Egg Rolls"
 date: "2025-08-21T10:44:26.941907"
 type: "recipe"
@@ -27,6 +28,8 @@ nutrition:
   fiber_g: 0.2
   sugar_g: 0.0
   servings: 25
+image: "https://images.unsplash.com/photo-1606525437679-037aca74a3e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxlZ2clMjByb2xscyUyMGZvb2R8ZW58MXwwfHx8MTc1ODU5ODYzOHww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Alexandra Tran on Unsplash"
 ---
 
 {{< recipe-meta >}}

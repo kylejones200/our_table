@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Almond or Pecan Ice Cream Balls"
 date: "2025-08-21T10:44:26.950643"
 type: "recipe"
@@ -26,6 +27,8 @@ nutrition:
   fiber_g: 1.4
   sugar_g: 0.0
   servings: 4
+image: "https://images.unsplash.com/photo-1694443212696-c5946c46ffbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxhbG1vbmQlMjBvciUyMHBlY2FuJTIwaWNlJTIwY3JlYW0lMjBiYWxscyUyMGZvb2QlMjBkZXNzZXJ0fGVufDF8MHx8fDE3NTg1OTg1OTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Mustafa akın on Unsplash"
 ---
 
 {{< recipe-meta >}}

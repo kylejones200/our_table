@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Easy Chicken Cacciatore Recipe"
 date: "2025-08-21T10:44:26.935441"
 type: "recipe"
@@ -34,6 +35,8 @@ nutrition:
   fiber_g: 2.1
   sugar_g: 0.0
   servings: 4
+image: "https://images.unsplash.com/photo-1646809156467-6e825869b29f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxlYXN5JTIwY2hpY2tlbiUyMGNhY2NpYXRvcmUlMjByZWNpcGUlMjBmb29kJTIwZW50cmVlfGVufDF8MHx8fDE3NTg1OTg2NDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Dary Lam on Unsplash"
 ---
 
 {{< recipe-meta >}}

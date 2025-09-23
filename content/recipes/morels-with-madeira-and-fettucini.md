@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Morels with Madeira and Fettucini"
 date: "2025-08-21T10:44:26.925071"
 type: "recipe"
@@ -32,6 +33,8 @@ nutrition:
   fiber_g: 2.9
   sugar_g: 0.0
   servings: 6
+image: "https://images.unsplash.com/photo-1689245780587-a9a6725718b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxtb3JlbHMlMjB3aXRoJTIwbWFkZWlyYSUyMGFuZCUyMGZldHR1Y2luaSUyMGZvb2R8ZW58MXwwfHx8MTc1ODU5ODYzM3ww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Lipetskaya Zemlya on Unsplash"
 ---
 
 {{< recipe-meta >}}

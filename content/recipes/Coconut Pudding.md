@@ -1,4 +1,5 @@
 ---
+
 title: "Coconut Pudding with Pineapple and Candied Cashews"
 date: "2025-08-21T10:44:26.936183"
 type: "recipe"
@@ -41,6 +42,8 @@ nutrition:
   fiber_g: 0.8
   sugar_g: 0.0
   servings: 6
+image: "https://images.unsplash.com/photo-1722396594684-d15b8565ee02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjb2NvbnV0JTIwcHVkZGluZyUyMHdpdGglMjBwaW5lYXBwbGUlMjBhbmQlMjBjYW5kaWVkJTIwY2FzaGV3cyUyMGZvb2QlMjBkZXNzZXJ0fGVufDF8MHx8fDE3NTg1OTg2MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Jaime Gusmao on Unsplash"
 ---
 
 {{< recipe-meta >}}

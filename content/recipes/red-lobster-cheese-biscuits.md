@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Red Lobster Cheese Biscuits"
 date: "2025-08-21T10:44:26.939138"
 type: "recipe"
@@ -28,6 +29,8 @@ nutrition:
   fiber_g: 1.3
   sugar_g: 0.1
   servings: 12
+image: "https://images.unsplash.com/photo-1512161831-711a3fe80197?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxyZWQlMjBsb2JzdGVyJTIwY2hlZXNlJTIwYmlzY3VpdHMlMjBmb29kfGVufDF8MHx8fDE3NTg1OTg1OTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Matteo Raimondi on Unsplash"
 ---
 
 {{< recipe-meta >}}

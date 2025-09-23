@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Migas"
 date: "2025-08-21T10:44:26.928361"
 type: "recipe"
@@ -37,6 +38,8 @@ nutrition:
   fiber_g: 5.1
   sugar_g: 3.8
   servings: 4
+image: "https://images.unsplash.com/photo-1557499305-bd68d0ad468d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxtaWdhcyUyMGZvb2QlMjBtaWdhc3xlbnwxfDB8fHwxNzU4NTk4NTg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Louis Hansel on Unsplash"
 ---
 
 {{< recipe-meta >}}

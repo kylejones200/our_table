@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Mayela's Salsa"
 date: "2025-08-21T10:44:26.945454"
 type: "recipe"
@@ -25,6 +26,8 @@ nutrition:
   fiber_g: 1.9
   sugar_g: 1.2
   servings: 4
+image: "https://images.unsplash.com/photo-1741026079032-7cb660e44bad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxtYXllbGElMjBmb29kfGVufDF8MHx8fDE3NTg1OTg2MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Markus Winkler on Unsplash"
 ---
 
 {{< recipe-meta >}}

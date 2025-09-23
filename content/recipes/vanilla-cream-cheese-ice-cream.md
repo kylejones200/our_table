@@ -1,6 +1,7 @@
 ---
 
 
+
 title: "Vanilla Cream Cheese Ice Cream"
 date: "2025-08-21T10:44:26.951283"
 type: "recipe"
@@ -35,6 +36,8 @@ nutrition:
   fiber_g: 1.1
   sugar_g: 3.2
   servings: 4
+image: "https://images.unsplash.com/photo-1701108515482-a6c5c463ee96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHx2YW5pbGxhJTIwY3JlYW0lMjBjaGVlc2UlMjBpY2UlMjBjcmVhbSUyMGZvb2QlMjBpY2UlMjBjcmVhbXxlbnwxfDB8fHwxNzU4NTk4NjUwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Marina Feropontova on Unsplash"
 ---
 
 {{< recipe-meta >}}
