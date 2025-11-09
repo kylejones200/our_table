@@ -1,4 +1,5 @@
 ---
+
 title: "Whipped Cream"
 
 date: "2025-08-21T10:44:26.933830"
@@ -42,6 +43,8 @@ nutrition:
   fiber_g: 0.0
   sugar_g: 6.3
   servings: 2
+image: "https://images.unsplash.com/photo-1682313129045-28d2d7b38ccc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHx3aGlwcGVkJTIwY3JlYW0lMjBmb29kJTIwZGVzc2VydHxlbnwxfDB8fHwxNzU4NjM5MzY5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Andrea Huls Pareja on Unsplash"
 ---
 {{< recipe-image >}}
 

@@ -1,4 +1,5 @@
 ---
+
 title: "Chicken Noodle Soup"
 
 date: "2025-08-21T10:44:26.938705"
@@ -44,6 +45,8 @@ nutrition:
   fiber_g: 0.4
   sugar_g: 0.0
   servings: 8
+image: "https://images.unsplash.com/photo-1664337873053-840ea51d271d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwbm9vZGxlJTIwc291cCUyMGZvb2QlMjBzb3VwfGVufDF8MHx8fDE3NTg2MzkzOTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Markus Winkler on Unsplash"
 ---
 {{< recipe-image >}}
 

@@ -5,7 +5,7 @@ date: "2025-08-21T10:44:26.948801"
 
 type: "recipe"
 
-description: "A delicious Green Pepper and Onion Steak recipe for any occasion."
+description: "Tender beef strips simmered with sweet peppers and onions in a savory soy-ginger sauce."
 
 yield: "4 servings"
 
@@ -21,30 +21,33 @@ total_time: "55 minutes"
 
 
 ingredients:
-  []
+  - "Marinade"
+  - "1/4 cup soy sauce"
+  - "1/4 cup water"
+  - "1 garlic clove, pressed"
+  - "1/2 tsp ground ginger"
+  - "Stir-Fry"
+  - "1 lb round steak, thinly sliced across the grain"
+  - "2 Tbsp vegetable oil"
+  - "1 (14 1/2 oz) can diced tomatoes, drained (reserve juices)"
+  - "1 cup thinly sliced onions"
+  - "1 cup thinly sliced green bell peppers"
+  - "2 Tbsp cornstarch"
+  - "Cooked rice, for serving"
 
 allergens:
   - "gluten"
   - "soy"
----
-{{< recipe-image >}}
-
-Marinade ---"
-  - "1/4 cup soy sauce"
-  - "1/4 cup water"
-  - "1 clove garlic, pressed"
-  - "1/2 tsp dry ginger"
-  - "1 lb round steak, thinly sliced"
-  - "141/2 oz can tomatoes, diced"
-  - "1 cup onion slices"
-  - "1 cup green pepper slices"
-  - "2 Tbl Cornstarch"
 steps:
-  - "Heat marinade to boiling and pour over round steak in a bowl. Marinate for 30 minutes. Drain meat; save marinade. Brown both sides of meat in 2 Tbsp Oil in skillet. Cover; simmer 15 minutes. Drain tomatoes, saving liquid. Add water to liquid to make 1 cup. Add tomatoes, onions, and peppers. Mix marinade with tomato-water liquid. Stir in 2 Tbsp cornstarch. Pour over meat, cook for 15 more minutes, stirring occasionally. Serve with rice."
+  - "Combine soy sauce, 1/4 cup water, garlic, and ginger in a small saucepan; bring just to a boil. Pour over the sliced steak in a shallow dish, toss to coat, and marinate 30 minutes. Drain, reserving the marinade."
+  - "Heat 1 tablespoon oil in a large skillet over medium-high heat. Sear half the beef strips until browned, 2 to 3 minutes; transfer to a plate. Repeat with remaining oil and beef."
+  - "Measure the reserved tomato juices and add enough water to total 1 cup. Whisk the cornstarch into the reserved marinade, then stir in the tomato liquid."
+  - "Return all beef to the skillet. Add tomatoes, onions, and bell peppers. Pour in the sauce mixture and cook, stirring, until vegetables are crisp-tender and the sauce thickens, about 5 minutes. Serve over hot rice."
 ---
-
 {{< recipe-meta >}}
 
 {{< ingredients >}}
 
 {{< steps >}}
+
+{{< recipe-image >}}

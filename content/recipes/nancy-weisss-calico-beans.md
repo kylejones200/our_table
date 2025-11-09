@@ -1,4 +1,5 @@
 ---
+
 title: "NANCY WEISS'S CALICO BEANS"
 
 date: "2025-08-21T10:44:26.937829"
@@ -49,6 +50,8 @@ nutrition:
   fiber_g: 1.6
   sugar_g: 0.0
   servings: 4
+image: "https://images.unsplash.com/photo-1583410413352-b607a6336d9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxuYW5jeSUyMHdlaXNzJTIwZm9vZHxlbnwxfDB8fHwxNzU4NjM5Mzg0fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Annie Spratt on Unsplash"
 ---
 {{< recipe-image >}}
 

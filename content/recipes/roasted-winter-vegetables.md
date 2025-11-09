@@ -1,4 +1,5 @@
 ---
+
 title: "Roasted Winter Vegetables"
 
 date: "2025-08-21T10:44:26.927939"
@@ -53,6 +54,8 @@ nutrition:
   fiber_g: 4.4
   sugar_g: 0.0
   servings: 6
+image: "https://images.unsplash.com/photo-1604835070732-aec3563c26c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxyb2FzdGVkJTIwd2ludGVyJTIwdmVnZXRhYmxlcyUyMGZvb2QlMjBzaWRlfGVufDF8MHx8fDE3NTg2MzkzNTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by laura limsenkhe on Unsplash"
 ---
 {{< recipe-image >}}
 

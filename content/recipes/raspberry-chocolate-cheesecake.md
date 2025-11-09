@@ -1,4 +1,5 @@
 ---
+
 title: "RASPBERRY CHOCOLATE CHEESECAKE"
 
 date: "2025-08-21T10:44:26.950774"
@@ -53,6 +54,8 @@ nutrition:
   fiber_g: 3.6
   sugar_g: 9.3
   servings: 4
+image: "https://images.unsplash.com/photo-1610850775538-2c8c08d16758?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxyYXNwYmVycnklMjBjaG9jb2xhdGUlMjBjaGVlc2VjYWtlJTIwZm9vZCUyMGNoZWVzZWNha2V8ZW58MXwwfHx8MTc1ODYzOTQxMHww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Owen Bruce on Unsplash"
 ---
 {{< recipe-image >}}
 

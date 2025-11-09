@@ -22,39 +22,40 @@ total_time: "30 minutes"
 
 
 ingredients:
-  []
-
-allergens:
-  - "dairy"
-  - "sesame"
----
-{{< recipe-image >}}
-
-Dressing ---"
+  - "Dressing"
   - "2 Tbsp fresh lemon juice"
-  - "dash Tabasco sauce"
+  - "Dash Tabasco sauce"
   - "1/8 tsp dry mustard"
   - "1/4 tsp salt"
-  - "2-3 garlic cloves, minced"
+  - "2 to 3 garlic cloves, minced"
   - "1/4 cup olive oil"
-  - "--- Salad ---"
+  - "Salad"
   - "1 head Boston lettuce, torn"
   - "1/2 head romaine lettuce, torn"
   - "1/2 head red leaf lettuce, torn"
   - "1/2 cup grated carrot"
   - "2 Tbsp toasted sesame seeds"
   - "2 Tbsp toasted pumpkin seeds"
-  - "2 Tbsp toasted shelled sunflower seeds"
-  - "2 Tbsp toasted sliced or slivered toasted almonds"
-  - "1 ounce Parmesan or Romano cheese, freshly grated (about 1/4 cup)"
+  - "2 Tbsp toasted sunflower seeds"
+  - "2 Tbsp toasted sliced almonds"
+  - "1 oz Parmesan or Romano cheese, freshly grated"
   - "2 Roma tomatoes, diced"
   - "1 avocado, pitted, peeled, and diced"
-steps:
-  - "Combine lemon juice, Tabasco, dry mustard, salt, and garlic in a small bowl. Whisk in oil. Cover and chill. Toss all lettuce in a salad bowl. Sprinkle in carrots, seeds, almonds, and Parmesan. Add tomatoes and avocado. Pour dressing over salad and toss to coat. Serve immediately."
----
 
+allergens:
+  - "dairy"
+  - "sesame"
+  - "tree nuts"
+
+steps:
+  - "Whisk lemon juice, Tabasco, dry mustard, salt, and garlic in a small bowl. Slowly drizzle in the olive oil while whisking until emulsified. Cover and chill."
+  - "Combine the lettuces and carrot in a large salad bowl. Sprinkle with toasted seeds, almonds, and cheese. Top with tomatoes and avocado."
+  - "Just before serving, pour the dressing over the salad, toss gently to coat, and serve immediately."
+---
 {{< recipe-meta >}}
 
 {{< ingredients >}}
 
 {{< steps >}}
+
+{{< recipe-image >}}

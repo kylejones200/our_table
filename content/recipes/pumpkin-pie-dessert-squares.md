@@ -5,54 +5,54 @@ date: "2025-08-21T10:44:26.950081"
 
 type: "recipe"
 
-description: "A delicious Pumpkin Pie Dessert Squares recipe for any occasion."
+description: "Pumpkin pie meets crumb cake in these easy dessert squares."
 
-yield: "4 servings"
+yield: "15 squares"
 
 categories:
   - "dessert"
 
 source: ""
 
-prep_time: "10 minutes"
+prep_time: "15 minutes"
 
 cook_time: "50 minutes"
 
-total_time: "60 minutes"
+total_time: "1 hour 15 minutes"
 
 
 ingredients:
-  []
+  - "Crust"
+  - "1 box yellow cake mix, divided"
+  - "1/2 cup unsalted butter, melted"
+  - "1 large egg"
+  - "Filling"
+  - "3 cups canned pumpkin pie mix"
+  - "2 large eggs, beaten"
+  - "2/3 cup evaporated milk or whole milk"
+  - "Topping"
+  - "1 cup reserved cake mix"
+  - "1/4 cup granulated sugar"
+  - "1 tsp ground cinnamon"
+  - "1/4 cup unsalted butter, melted"
+  - "1/2 cup all-purpose flour"
 
 allergens:
   - "dairy"
   - "eggs"
   - "gluten"
----
-{{< recipe-image >}}
 
-Crust ---"
-  - "1 pkg. yellow cake mix"
-  - "1/2 cup butter, melted"
-  - "1 egg"
-  - "--- Filling ---"
-  - "3 cups pumpkin pie mix"
-  - "2 eggs, beaten"
-  - "⅔ cup milk"
-  - "--- Topping ---"
-  - "1 cup reserved cake mix"
-  - "1/4 cup sugar"
-  - "1 tsp cinnamon"
-  - "1/4 cup melted butter"
-  - "1/2 cup flour"
 steps:
-  - "Grease bottom only of 13x9 pan. Reserve 1 cup of cake mix for topping. Combine remaining cake mix, melted butter, and egg. Press into pan. Prepare filling by combining filing ingredients. Pour over crust."
-  - "Combine topping ingredients. Sprinkle over top of filling."
-  - "Bake at 350° 45-50 minutes. Cool. Cut into squares."
+  - "Heat the oven to 350°F and grease only the bottom of a 9×13-inch baking pan. Reserve 1 cup of the cake mix for the topping."
+  - "Stir the remaining cake mix with 1/2 cup melted butter and 1 egg until a soft dough forms. Press evenly into the prepared pan to form the crust."
+  - "In a separate bowl, whisk together the pumpkin pie mix, 2 beaten eggs, and milk until smooth. Pour over the crust."
+  - "For the topping, mix the reserved cake mix with sugar, cinnamon, 1/4 cup melted butter, and flour until crumbly. Sprinkle evenly over the filling."
+  - "Bake 45 to 50 minutes, until the center is set and the topping is golden. Cool completely, then cut into squares."
 ---
-
 {{< recipe-meta >}}
 
 {{< ingredients >}}
 
 {{< steps >}}
+
+{{< recipe-image >}}

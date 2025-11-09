@@ -1,4 +1,5 @@
 ---
+
 title: "Baklava"
 
 date: "2025-08-21T10:44:26.951222"
@@ -51,6 +52,8 @@ nutrition:
   fiber_g: 2.4
   sugar_g: 27.3
   servings: 4
+image: "https://images.unsplash.com/photo-1646314230198-e27c375e1a2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxiYWtsYXZhJTIwZm9vZCUyMHBpZXxlbnwxfDB8fHwxNzU4NjM5MzU5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Jeremias Ybañez on Unsplash"
 ---
 {{< recipe-image >}}
 

@@ -5,7 +5,7 @@ date: "2025-08-21T10:44:26.926718"
 
 type: "recipe"
 
-description: "A delicious Middle Eastern Lamb Patties with Yogurt Sauce recipe for any occasion."
+description: "Spiced lamb patties seared in a skillet and served with a cool cilantro yogurt sauce."
 
 yield: "4 servings"
 
@@ -14,18 +14,35 @@ categories:
 
 source: "30 Minute Recipes"
 
-prep_time: "10 minutes"
+prep_time: "15 minutes"
 
-cook_time: "38 minutes"
+cook_time: "12 minutes"
 
-total_time: "48 minutes"
+total_time: "30 minutes"
 
 ingredients:
-  []
+  - "Lamb Patties"
+  - "2 slices high-quality white sandwich bread, crusts removed"
+  - "3 Tbsp plain yogurt"
+  - "1 lb ground lamb"
+  - "2 Tbsp minced fresh cilantro or mint"
+  - "1 tsp kosher salt"
+  - "1/4 tsp freshly ground black pepper"
+  - "1 tsp ground cumin"
+  - "1/4 tsp cayenne pepper"
+  - "2 Tbsp vegetable oil"
+  - "Yogurt Sauce"
+  - "1 cup plain yogurt"
+  - "2 Tbsp minced fresh cilantro"
+  - "1 Tbsp fresh lemon juice"
+  - "1/2 garlic clove, minced"
+  - "Salt and black pepper, to taste"
 
 allergens:
   - "dairy"
   - "gluten"
+
+notes: "Mint can be substituted for the cilantro. Serve with warm pita, salad greens, and sliced cucumbers or tomatoes."
 
 nutrition:
   calories: 5.8
@@ -35,38 +52,18 @@ nutrition:
   fiber_g: 0.7
   sugar_g: 0.2
   servings: 4
----
-{{< recipe-image >}}
 
-Lamb Patties ---"
-  - "2 slices high-quality white sandwich bread, crusts removed"
-  - "3 Tbsp plain yogurt"
-  - "1 pound ground lamb"
-  - "2 Tbsp minced fresh cilantro"
-notes: "Mint can substituted for the cilantro. Serve these patties with a green salad and slices of tomato and cucumber, or tucked into a pita sandwich."
-
-
-yield: "Makes YOGURT SAUCE: While patties cook, mix sauce ingredients together and season with salt and pepper to taste. Serve patties with sauce."
-categories: []
-source: ""
-ingredients:
-  []
-allergens:
-  - "dairy"
---- Yogurt Sauce ---"
-  - "1 cup plain yogurt"
-  - "2 Tbsp minced fresh cilantro"
-  - "1 Tbsp fresh lemon juice"
-  - "1/2 garlic clove, minced"
-  - "salt and black pepper"
 steps:
-  - "MAKE LAMB PATTIES: Tear bread into small pieces and mash with yogurt to form wet paste in medium bowl. Add lamb, cilantro, 1 tsp salt, 1/4 tsp pepper, cumin, and cayenne, and mix until uniform. Pinch off 3-Tbs-sized pieces of meat mixture, roll firmly into balls (12 balls), then flatten into small patties about 1 1/2 inches thick. BROWN PATTIES: Heat oil in 12-inch non-stick skillet over high heat until shimmering. Brown patties on just one side, about 2 minutes. Flip patties over, reduce heat to medium, and continue to cook until well browned on second side, about 6 minutes. Transfer patties to paper towel-lined plate."
+  - "Tear the bread into small pieces and place in a medium bowl. Add 3 tablespoons yogurt and mash with a fork to form a smooth paste."
+  - "Mix in the lamb, cilantro, salt, pepper, cumin, and cayenne until evenly combined. Divide into 12 portions, rolling each into a ball and then flattening into patties about 1/2 inch thick."
+  - "Heat the oil in a 12-inch nonstick skillet over medium-high heat until shimmering. Brown the patties on one side, about 2 minutes. Flip, reduce heat to medium, and cook until browned and just cooked through, 4 to 5 minutes longer. Transfer to a plate and tent with foil."
+  - "For the yogurt sauce, stir together the yogurt, cilantro, lemon juice, garlic, and a pinch of salt and pepper."
+  - "Serve the patties warm with the yogurt sauce spooned over top or alongside."
 ---
-
 {{< recipe-meta >}}
 
 {{< ingredients >}}
 
 {{< steps >}}
 
-
+{{< recipe-image >}}

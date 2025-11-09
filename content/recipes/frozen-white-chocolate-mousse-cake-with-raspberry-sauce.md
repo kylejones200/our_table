@@ -1,4 +1,5 @@
 ---
+
 title: "Frozen White Chocolate Mousse Cake with Raspberry Sauce"
 
 date: "2025-08-21T10:44:26.934626"
@@ -22,8 +23,20 @@ total_time: "255 minutes"
 
 
 ingredients:
-  []
-
+  - "1 cup vanilla wafer crumbs"
+  - "3 Tbsp unsalted butter, melted"
+  - "6 ounces plus 2 ounces white chocolate, chopped"
+  - "3/4 cup sugar"
+  - "1/4 cup water"
+  - "4 large egg whites"
+  - "1/8 tsp cream of tartar"
+  - "1 1/2 cups heavy whipped cream, chilled"
+  - "1 Tbsp Amaretto"
+  - "1 tsp vanilla extract"
+  - "3 Tbsp chopped pistachios"
+  - "2 cups fresh or frozen unsweetened raspberries"
+  - "1/4 cup sugar"
+  - "2 Tbsp Amaretto"
 steps:
   - "Combine crumbs and butter. (Do not use food processor.) Press evenly into bottom of a 9-inch springform pan. Refrigerate."
   - "Melt 6 ounces white chocolate in top of a double boiler, stirring until smooth. If necessary, add milk a tsp at a time until chocolate is smooth and able to drizzle. Leave in double boiler until ready to use."

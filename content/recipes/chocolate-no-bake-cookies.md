@@ -1,4 +1,5 @@
 ---
+
 title: "Chocolate No Bake Cookies"
 
 date: "2025-08-21T10:44:26.950395"
@@ -47,6 +48,8 @@ nutrition:
   fiber_g: 4.2
   sugar_g: 0.0
   servings: 4
+image: "https://images.unsplash.com/photo-1642068151137-124cb79d68f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjaG9jb2xhdGUlMjBubyUyMGJha2UlMjBjb29raWVzJTIwZm9vZCUyMGNvb2tpZXxlbnwxfDB8fHwxNzU4NjM5MzkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Cristina Marin on Unsplash"
 ---
 {{< recipe-image >}}
 

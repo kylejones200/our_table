@@ -1,4 +1,5 @@
 ---
+
 title: "Chicken Kiev"
 
 date: "2025-08-21T10:44:26.947869"
@@ -54,6 +55,8 @@ nutrition:
   fiber_g: 8.2
   sugar_g: 0.7
   servings: 4
+image: "https://images.unsplash.com/photo-1597577652129-7ffad9d37ad4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwa2lldiUyMGZvb2QlMjBtYWluJTIwY291cnNlfGVufDF8MHx8fDE3NTg2MzkzNDB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by M. W on Unsplash"
 ---
 {{< recipe-image >}}
 

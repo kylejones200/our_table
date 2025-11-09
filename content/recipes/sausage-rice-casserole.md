@@ -1,4 +1,5 @@
 ---
+
 title: "Sausage & Rice Casserole"
 
 date: "2025-08-21T10:44:26.944744"
@@ -49,6 +50,8 @@ nutrition:
   fiber_g: 2.1
   sugar_g: 0.0
   servings: 8
+image: "https://images.unsplash.com/photo-1688940738506-acfe9334bf5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxzYXVzYWdlJTIwJTIwcmljZSUyMGNhc3Nlcm9sZSUyMGZvb2QlMjBjYXNzZXJvbGV8ZW58MXwwfHx8MTc1ODYzOTM2Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Dmytro Glazunov on Unsplash"
 ---
 {{< recipe-image >}}
 

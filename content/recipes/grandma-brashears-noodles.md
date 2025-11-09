@@ -1,4 +1,5 @@
 ---
+
 title: "Grandma Brashears Noodles"
 
 date: "2025-08-21T10:44:26.924840"
@@ -48,6 +49,8 @@ nutrition:
   fiber_g: 2.1
   sugar_g: 0.0
   servings: 4
+image: "https://images.unsplash.com/photo-1602528841868-6f1fec05fee3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxncmFuZG1hJTIwYnJhc2hlYXJzJTIwbm9vZGxlcyUyMGZvb2R8ZW58MXwwfHx8MTc1ODYzOTM0Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Osmar do Canto on Unsplash"
 ---
 {{< recipe-image >}}
 

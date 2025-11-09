@@ -1,4 +1,5 @@
 ---
+
 title: "Corn and Lima Bean Medley"
 
 date: "2025-08-21T10:44:26.927803"
@@ -52,6 +53,8 @@ nutrition:
   fiber_g: 1.2
   sugar_g: 0.0
   servings: 6
+image: "https://images.unsplash.com/photo-1705515943119-e85d4c81f08f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjb3JuJTIwYW5kJTIwbGltYSUyMGJlYW4lMjBtZWRsZXklMjBmb29kJTIwc2lkZXxlbnwxfDB8fHwxNzU4NjM5Mzg4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Subhadeep Saha on Unsplash"
 ---
 {{< recipe-image >}}
 

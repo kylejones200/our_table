@@ -1,4 +1,5 @@
 ---
+
 title: "Quick Danish"
 
 date: "2025-08-21T10:44:26.943331"
@@ -46,6 +47,8 @@ nutrition:
   fiber_g: 0.4
   sugar_g: 3.2
   servings: 4
+image: "https://images.unsplash.com/photo-1588503812457-f289d7f27314?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxxdWljayUyMGRhbmlzaCUyMGZvb2QlMjBkaW5uZXJ8ZW58MXwwfHx8MTc1ODYzOTM4Nnww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Richard Bell on Unsplash"
 ---
 {{< recipe-image >}}
 

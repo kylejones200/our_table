@@ -1,4 +1,5 @@
 ---
+
 title: "Costini with Cheese Torta and Marinated Bell Peppers"
 
 date: "2025-08-21T10:44:26.928434"
@@ -54,6 +55,8 @@ nutrition:
   fiber_g: 1.9
   sugar_g: 2.7
   servings: 6
+image: "https://images.unsplash.com/photo-1630175974558-6e3ee6194cc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxjb3N0aW5pJTIwd2l0aCUyMGNoZWVzZSUyMHRvcnRhJTIwYW5kJTIwbWFyaW5hdGVkJTIwYmVsbCUyMHBlcHBlcnMlMjBmb29kJTIwY29zdGluaXxlbnwxfDB8fHwxNzU4NjM5NDEzfDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Sandra Wei on Unsplash"
 ---
 {{< recipe-image >}}
 

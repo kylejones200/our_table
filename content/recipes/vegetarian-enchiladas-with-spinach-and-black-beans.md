@@ -1,4 +1,5 @@
 ---
+
 title: "Vegetarian Enchiladas with Spinach and Black Beans"
 
 date: "2025-08-21T10:44:26.935105"
@@ -61,6 +62,8 @@ nutrition:
   fiber_g: 2.4
   sugar_g: 0.7
   servings: 4
+image: "https://images.unsplash.com/photo-1613160774462-c908cc53973e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHx2ZWdldGFyaWFuJTIwZW5jaGlsYWRhcyUyMHdpdGglMjBzcGluYWNoJTIwYW5kJTIwYmxhY2slMjBiZWFucyUyMGZvb2QlMjBtYWluJTIwY291cnNlfGVufDF8MHx8fDE3NTg2MzkzNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Bulbul Ahmed on Unsplash"
 ---
 {{< recipe-image >}}
 

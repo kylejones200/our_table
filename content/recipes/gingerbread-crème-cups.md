@@ -1,4 +1,5 @@
 ---
+
 title: "Gingerbread Crème Cups"
 
 date: "2025-08-21T10:44:26.923327"
@@ -47,6 +48,8 @@ nutrition:
   fiber_g: 0.0
   sugar_g: 0.5
   servings: 24
+image: "https://images.unsplash.com/photo-1608644281564-6d7ff23a47e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxnaW5nZXJicmVhZCUyMGNyJUMzJUE4bWUlMjBjdXBzJTIwZm9vZCUyMGRlc3NlcnR8ZW58MXwwfHx8MTc1ODYzOTQwOXww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Thandy Yung on Unsplash"
 ---
 {{< recipe-image >}}
 

@@ -5,7 +5,7 @@ date: "2025-08-21T10:44:26.943144"
 
 type: "recipe"
 
-description: "German Butterkuchen made with cup milk, cup sugar."
+description: "A tender German butter cake topped with a caramelized cinnamon-sugar crumb and toasted almonds."
 
 yield: "12 servings"
 
@@ -13,11 +13,11 @@ categories: []
 
 source: "Connie Brashears"
 
-prep_time: "10 minutes"
+prep_time: "20 minutes"
 
-cook_time: "75 minutes"
+cook_time: "30 minutes"
 
-total_time: "85 minutes"
+total_time: "1 hour 35 minutes"
 
 
 
@@ -34,6 +34,11 @@ ingredients:
   - "3 1/4 cups unsifted flour"
   - "1/3 cup chopped almonds"
   - "Butter topping"
+
+Topping:
+  - "1/2 cup unsalted butter, softened"
+  - "1 cup granulated sugar"
+  - "1/2 tsp ground cinnamon"
 
 allergens:
   - "dairy"
@@ -52,19 +57,17 @@ nutrition:
 image: "https://images.unsplash.com/photo-1712594533988-13a401974b44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxnZXJtYW4lMjBidXR0ZXJrdWNoZW4lMjBmb29kfGVufDF8MHx8fDE3NTU4MDQ1NTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
 
 image_credit: "Photo by Divya Kothari on Unsplash"
----
-{{< recipe-image >}}
 
-TOPPING ---"
 steps:
-  - "Scald the milk, add 1/2 cup sugar, salt, and shortening, and cool to lukewarm. Dissolve yeast and 1 tsp sugar in warm water, then stir into cooled milk mixture. Beat the eggs with 1 cup of the flour."
-  - "Add rest of flour alternately with milk-yeast mixture, mixing well after each addition. Pour into greased 9 x 13 inch baking pan, spreading dough evenly. Set in a warm place to rise for 45 minutes."
-  - "Sprinkle the butter topping and almonds evenly over top and bake in moderate hot oven, 375 degrees for 30 minutes, or until lightly brown."
-  - "Cut 1/2 cup butter into 1 cup sugar and 1/2 tsp cinnamon until fine crumbs develop."
+  - "Scald the milk in a small saucepan. Stir in 1/2 cup sugar, salt, and shortening until melted; cool to lukewarm. Dissolve yeast and 1 teaspoon sugar in warm water and let stand until foamy, then stir into the cooled milk mixture. Beat in the eggs with 1 cup of the flour."
+  - "Add the remaining flour gradually, mixing until the dough is smooth and slightly sticky. Spread evenly in a greased 9×13-inch pan. Cover and let rise in a warm spot until puffy, about 45 minutes."
+  - "For the topping, blend the butter, sugar, and cinnamon with a fork until sandy crumbs form."
+  - "Gently dimple the risen dough with your fingertips. Sprinkle with the topping and almonds. Bake at 375°F until golden and set, 25 to 30 minutes. Cool slightly before slicing."
 ---
-
 {{< recipe-meta >}}
 
 {{< ingredients >}}
 
 {{< steps >}}
+
+{{< recipe-image >}}

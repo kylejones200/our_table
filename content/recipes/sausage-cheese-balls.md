@@ -1,4 +1,5 @@
 ---
+
 title: "Sausage-Cheese Balls"
 
 date: "2025-08-21T10:44:26.941122"
@@ -42,6 +43,8 @@ nutrition:
   fiber_g: 0.6
   sugar_g: 0.0
   servings: 4
+image: "https://images.unsplash.com/photo-1625147541750-dfecb0a624a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxzYXVzYWdlLWNoZWVzZSUyMGJhbGxzJTIwZm9vZCUyMGFwcGV0aXplcnxlbnwxfDB8fHwxNzU4NjM5MzgyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by 1Click on Unsplash"
 ---
 {{< recipe-image >}}
 

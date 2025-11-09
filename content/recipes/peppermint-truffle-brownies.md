@@ -1,4 +1,5 @@
 ---
+
 title: "Peppermint Truffle Brownies"
 
 date: "2025-08-21T10:44:26.923205"
@@ -54,6 +55,8 @@ nutrition:
   fiber_g: 1.5
   sugar_g: 16.8
   servings: 4
+image: "https://images.unsplash.com/photo-1635345419633-dba6fc3976ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxwZXBwZXJtaW50JTIwdHJ1ZmZsZSUyMGJyb3duaWVzJTIwZm9vZCUyMGNvb2tpZXxlbnwxfDB8fHwxNzU4NjM5Mzc4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Letícia Fracalossi on Unsplash"
 ---
 {{< recipe-image >}}
 

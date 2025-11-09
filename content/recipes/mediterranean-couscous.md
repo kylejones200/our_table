@@ -1,4 +1,5 @@
 ---
+
 title: "Mediterranean Couscous"
 
 date: "2025-08-21T10:44:26.927871"
@@ -53,6 +54,8 @@ nutrition:
   fiber_g: 2.3
   sugar_g: 0.0
   servings: 6
+image: "https://images.unsplash.com/photo-1642546517745-13bc7057f8e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxtZWRpdGVycmFuZWFuJTIwY291c2NvdXMlMjBmb29kJTIwY291c2NvdXN8ZW58MXwwfHx8MTc1ODYzOTM1Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Anna Stampfli on Unsplash"
 ---
 {{< recipe-image >}}
 

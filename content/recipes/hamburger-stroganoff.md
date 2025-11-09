@@ -1,4 +1,5 @@
 ---
+
 title: "Hamburger Stroganoff"
 
 date: "2025-08-21T10:44:26.937960"
@@ -41,6 +42,8 @@ nutrition:
   fiber_g: 3.4
   sugar_g: 10.8
   servings: 4
+image: "https://images.unsplash.com/photo-1637771622300-6f968a373415?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxoYW1idXJnZXIlMjBzdHJvZ2Fub2ZmJTIwZm9vZHxlbnwxfDB8fHwxNzU4NjM5NDAwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Edoardo Ceriani on Unsplash"
 ---
 
 {{< recipe-meta >}}

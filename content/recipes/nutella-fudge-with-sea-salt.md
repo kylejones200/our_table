@@ -1,4 +1,5 @@
 ---
+
 title: "Nutella Fudge with Sea Salt"
 
 date: "2025-08-21T10:44:26.924064"
@@ -49,6 +50,8 @@ nutrition:
   fiber_g: 0.1
   sugar_g: 1.2
   servings: 50
+image: "https://images.unsplash.com/photo-1712723247648-64a03ba7c333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxudXRlbGxhJTIwZnVkZ2UlMjB3aXRoJTIwc2VhJTIwc2FsdCUyMGZvb2R8ZW58MXwwfHx8MTc1ODYzOTQwMnww&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Deepthi Clicks on Unsplash"
 ---
 {{< recipe-image >}}
 

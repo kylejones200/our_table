@@ -1,4 +1,5 @@
 ---
+
 title: "Barbecue Brisket"
 
 date: "2025-08-21T10:44:26.941574"
@@ -47,6 +48,8 @@ nutrition:
   fiber_g: 1.9
   sugar_g: 0.0
   servings: 4
+image: "https://images.unsplash.com/photo-1594196908000-058bdd9daab2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxiYXJiZWN1ZSUyMGJyaXNrZXQlMjBmb29kJTIwZW50cmVlfGVufDF8MHx8fDE3NTg2Mzk0MDR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Marc Kleen on Unsplash"
 ---
 {{< recipe-image >}}
 

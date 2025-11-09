@@ -1,4 +1,5 @@
 ---
+
 title: "Grandma Kastl's Chicken Casserole"
 
 date: "2025-08-21T10:44:26.948597"
@@ -47,6 +48,8 @@ nutrition:
   fiber_g: 5.9
   sugar_g: 0.0
   servings: 4
+image: "https://images.unsplash.com/photo-1704904890453-43614afffd81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxncmFuZG1hJTIwa2FzdGwlMjBmb29kJTIwY2Fzc2Vyb2xlfGVufDF8MHx8fDE3NTg2MzkzNjd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Cuong Nguyen on Unsplash"
 ---
 {{< recipe-image >}}
 

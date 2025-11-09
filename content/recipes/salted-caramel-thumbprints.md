@@ -1,4 +1,5 @@
 ---
+
 title: "Salted Caramel Thumbprints"
 
 date: "2025-08-21T10:44:26.922224"
@@ -55,6 +56,8 @@ nutrition:
   fiber_g: 0.5
   sugar_g: 0.0
   servings: 24
+image: "https://images.unsplash.com/photo-1638776617831-30a54fe2540c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ5MzV8MHwxfHNlYXJjaHwxfHxzYWx0ZWQlMjBjYXJhbWVsJTIwdGh1bWJwcmludHMlMjBmb29kJTIwY29va2llfGVufDF8MHx8fDE3NTg2MzkzNzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+image_credit: "Photo by Arvid Skywalker on Unsplash"
 ---
 {{< recipe-image >}}
 
